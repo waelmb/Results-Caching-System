@@ -1,0 +1,2167 @@
+Pathology - Research and Practice 224 (2021) 153384
+
+Contents lists available at ScienceDirect
+
+Pathology - Research and Practice
+journal homepage: www.elsevier.com/locate/prp
+
+Review
+
+Covid19, beyond just the lungs: A review of multisystemic involvement
+by Covid19
+Anam Singh, Sufian Zaheer *, Naveen Kumar, Tanisha Singla, Sunil Ranga
+Vardhman Mahavir Medical College and Safdarjung Hospital, New Delhi, India
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+COVID19
+Multi-systemic
+Lungs
+Diffuse alveolar damage
+
+With the commencement of the COVID19 pandemic, following its 1st case reported in Wuhan in China, the
+knowledge about the virus as well as the symptoms produced by the disease have drastically increased to this
+day. The manifestations of COVID19 is now known to affect multiple organ systems of the body, which have
+shown to have acute as well as chronic complications. Histopathological analysis of the biopsies from the affected
+organs have implied a direct cytopathic effect of the virus but at the same time not ruling out other causes like
+hypoxia metabolic changes etc., occurring during the course of the disease. In this review article, we have
+highlighted the histopathological changes in various organs as reported by various studies throughout the world
+for a better understanding of the etiopathogenesis of COVID19.
+
+1. Introduction
+COVID19 has now, since its 1st case in December has been seen to
+show widespread and multisystemic manifestations [1].
+. The disease is not just confined to the lungs, but with the spillage of
+the virus into the blood stream has lead to the involvement of almost all
+the organs of the body [2], including heart, liver, brain, kidney, skin,
+intestines and eyes. The multisystemic involvement can mainly be
+attributed to the widespread localization of the ACE2 receptors
+throughout the body, which acts as the major entry point for the virus
+[3]. The histo-pathological findings in various organs apart from the
+clinical symptoms and biochemical markers can provide major clue to­
+wards the pathogenesis of the disease.
+2. Material and methods
+We carried out systemic online search from databases with
+‘COVID19’ and ‘Coronavirus’ as the keywords. The articles were taken
+mainly from PubMed, PMC, Embase, Cochrane library, Google Scholar,
+MEDLINE, UpToDate, and Web of Science databases. Articles were
+selected highlighting the systemic manifestations of the disease. The
+publication ranged from a period of 01 Jan 2020 to 20 July 2020.
+All the publications screened and selected were carefully reviewed
+and analysed by two independent investigators. All the articles were
+
+studied in full text reviews. All studies not reporting original date and
+irrelevant data were excluded from this review.
+3. The site of most action, lungs
+The lungs by far, had been considered as the hotspot and are known
+to act as a niche for the proliferation of the virus. The residence of the
+virus in the lungs also is the main reason for the rapid transmission of the
+disease [4]. According to various studies published, the novel corona­
+virus enters by binding to ACE2 receptors present on the target cells
+through the Receptor Binding Domain (RBD) which is located on the
+viral particles [5].
+In case of pulmonary involvement, the histological patterns vary
+from interstitial inflammation, diffuse alveolar damage (DAD), and
+necrotizing bronchitis/ bronchiolitis. By far the most common pattern
+observed is bilateral DAD [6]. In a case study by H. Zhang et al. (2020),
+the pulmonary biopsy of a 72-year-old diabetic male showed all the
+characteristic features of diffuse alveolar damage, which included
+presence of intra-alveolar fibrinous exudates, along with loose intersti­
+tial fibrosis. Chronic inflammatory infiltrates in the form of macrophages
+and lymphocytes (mainly CD4‑positive T cells) were also predominantly
+observed. Denuded alveolar lining cells with reactive type II pneumo­
+cyte hyperplasia, intra-alveolar loose fibrous plugs of organizing pneu­
+monia were also present. The same study also showed immunostaining
+
+* Corresponding author.
+E-mail addresses: dewdropanam@gmail.com (A. Singh), sufianzaheer@gmil.com (S. Zaheer), drnaveen08@gmail.com (N. Kumar), tanishasingla7@gmail.com
+(T. Singla), sunilran18@yahoo.co.in (S. Ranga).
+https://doi.org/10.1016/j.prp.2021.153384
+Received 10 January 2021; Received in revised form 11 February 2021; Accepted 12 February 2021
+Available online 16 February 2021
+0344-0338/© 2021 Published by Elsevier GmbH.
+
+A. Singh et al.
+
+Pathology - Research and Practice 224 (2021) 153384
+
+throughout the world. The most commonly affected levels include,
+abnormal alanine aminotransferase (ALT) and aspartate aminotrans­
+ferase (AST) levels and also mildly raised total bilirubin (TB) levels.
+Yafei Zhang et al., in their study compared various liver function indices
+of patients with COVID19 with patients suffering from community ac­
+quired pneumonia (CAP). However, they found that the liver enzymes
+levels were not significantly different between the two groups. It was
+found that 9.57 % and 14.78 % of the 115 cases with COVID19 showed
+elevated ALT and AST respectively, which was almost comparable to the
+11.4 %(ALT) and 21.92 %(AST) of 114 cases with CAP. In contrast, it
+was observed in their study that there was a significant elevation in the
+liver enzymes in severe cases compared to the mild ones [18]. On the
+other hand, another study when compared patients with anormal liver
+function to patients with normal liver function, found that the elevated
+ALT levels may be attributable to drinking history. However, they found
+that C- reactive protein (CRP) ≥20 mg/L and lymphocyte count< 1.1 ×
+109/L were independently related to the ALT elevation, indicative of
+hepatic injury suggesting an inflammatory cytokine storm [19].
+On the other hand, the histological evaluation in most of the liver
+biopsies has mainly shown non-specific findings. Yafei Zhang et al.,
+evaluated the liver biopsy of one of the autopsy cases and found mild
+sinusoidal dilatation with minimal lymphocytic infiltration in the liver
+tissue [18]. Similarly, another evaluation of liver biopsies in Beijing
+showed moderate micro-vesicular steatosis and active inflammation in
+the hepatic lobule portal area. But whether these findings were drug
+induced (since the patients received lopinavir/ritonavir treatment) or
+due to COVID19 infection, could not be concluded [10].
+Another study which evaluated the microscopic histological changes
+in 04 cases, observed sinusoidal dilatation with nuclear glycogen accu­
+mulation in hepatocytes, focal macro-vesicular steatosis along with
+dense atypical small lymphocytes infiltrating the portal tracts in case 1
+(patient being a known case of CLL). The 2nd case showed features of
+cirrhosis consistent with his history and, mild zone 3 sinusoidal dilata­
+tion along with only mild lobular lymphocytic infiltration in case 3 and 4
+[20].
+So, owing to the small sample size in most of the studies, whether the
+changes in the liver depict direct hepatic injury by the infection or drug
+induced changes [10] (owing to antivirals, antibiotics, traditional Chi­
+nese medicine, antipyretics and analgesics) or inflammatory cytokine
+storm or merely due to hypoxemia [18,19], still lies in its preliminary
+stage. However, at the same time, it can also be postulated that maybe
+all these mechanisms might be working hand in hand to bring about
+these changes.
+
+by rabbit polyclonal antibody, Rp3 NP on the lung sections, highlighting
+the alveolar epithelial cells. Positive immunostaining could also be
+appreciated in the damaged and desquamated cells found within the
+alveolar space [7] (Table 1).
+However, the other rare histological pattern which is being high­
+lighted is acute fibrinous and organizing pneumonia (AFOP) in patients
+with COVID19 disease. This pattern was described in a short letter
+highlighting the autopsy findings in 06 French patients [8] and even
+earlier by Beasley et al. [9] in 2002, where it was first described. Out of
+these, 05 patients’ pulmonary histological examination showed depo­
+sition of extensive intra-alveolar “fibrin balls” (Table 1). They lacked the
+characteristic hyaline membranes and instead showed intra-luminal
+loose connective tissue within alveolar ducts and bronchioles (orga­
+nizing pneumonia). Fibroblastic bodies and fibroblasts surrounding
+intra-alveolar fibrin along with evidence of vascular injury was also a
+prominent feature [8]. So, whether AFOP can be described as a histo­
+logical pattern of COVID19 lung disease associated with a more
+aggressive course (due to its obliterative pattern), still needs to be
+studied further.
+Xu Z et al., also described the presence of multi-nucleated syncytial
+cells with atypical enlarged pneumocyte. These cells showed a large
+nuclei, amphophilic granular cytoplasm, and prominent nucleoli which
+were suggestive of viral cytopathic changes [10]. Also observed were the
+presence of focal inflammatory infiltrate in the form of neutrophils,
+possibly due to secondary infection. The neutrophils, however, observed
+by Sharon E. Fox et al., in their autopsy findings were partially degen­
+erated and were found to be entrapped in fibres, possibly depicting
+neutrophil extracellular traps (NETs) [11]. In a perspective, based on
+review of literature of autopsy results, suggested that NETs, although not
+very commonly seen in COVID19 disease may have a role in organ
+damage and increased mortality in COVID19 patients. This may be
+based on the association of COVID19 with excessive thrombus formation
+and cytokine storm [12]. However, this hypothesis needs to be proven
+further.
+Tina Schaller et al. in 2020, performed post-mortem examination of
+10 patients with other co-morbid conditions (including cardiovascular
+disease, obesity, pre-exiting lung damage, leukemias and thyroid con­
+ditions) who succumbed to COVID19, showed similar results of
+disseminated DAD as being the most common histological pattern. DAD
+was observed to be present in different stages of the disease, with
+heterogenous distribution and being more pronounced in the middle and
+lower lobes of the lung. They also postulated that the histological fea­
+tures observed in COVID19 infection has close resemblance to other
+Beta-coronavirus infections which includes Severe Acute Respiratory
+Syndrome and Middle East Respiratory Syndrome [13], which also
+showed DAD to be the main feature with varying degrees of edema,
+organization, hyaline membrane and fibrosis [14,15].
+The broncho-alveolar lavage (BAL) sample analysed of a 66-year-old
+male, who presented with a short history of fever and fatigue, on cyto­
+morphological examination showed the presence of scattered alveolar
+macrophages with fibrino-hematic material. It also showed presence of
+abundant CD138 positive plasma cells, with few showing plasmablastic
+features. Few T and B lymphocytes were also seen. The scattered mac­
+rophages, occasionally showed nuclear clearing and also intranuclear
+cytopathic inclusions attributable to SARS-CoV-2 infection. This case
+report highlighted the abundance of plasma cells in BAL specimens [16].
+
+5. Kidney: the newest organ of interest
+Acute kidney injury (AKI) is now well established in patients with
+COVID19. The spread of the virus from the site of lung involvement, into
+the circulation with its further spread into the kidney seems to be the
+likely route [21]. The ACE2 receptor being widely distributed
+throughout the body is also seen to be present on the proximal tubules of
+the kidney at the brush border apical membrane. Studies have also
+shown their presence on the podocytes, which may act as the site of
+invasion by the viral particles [22].
+Various studies have shown renal involvement by COVID19 infec­
+tion, of which Yachun Chang et al., observed high prevalence of kidney
+disease in patients hospitalized with COVID19 in the form of raised
+serum creatinine in approximately 40 % of the cases. They tried to
+associate kidney involvement of these cases with the patient outcome,
+and observed that patients with increased serum creatinine levels were
+more likely to have ICU admissions. They highlighted the role of kidney
+function tests and advocated its use for prognostication even in patients
+presenting with mild form of respiratory symptoms [21].
+Although slightly lacking, the histopathological features of the kid­
+ney with COVID19 has been observed to show renal involvement. On
+tissue examination, a diverse spectrum of features were observed by Hua
+
+4. Liver, features being comparatively non-specific
+COVID 19, although having its nidus in the lungs has now been seen
+to show widespread manifestations. (Fig. 1) Many studies have been
+conducted to study the extent of liver involvement by COVID19, owing
+to the presence of ACE2 receptors not only on the hepatocytes but also
+on the intra-hepatic bile duct [17].
+The liver, being involved and getting affected can mainly be depicted
+by the deranged liver biochemical profile, as shown by various studies
+2
+
+Authors,
+Country
+
+Aim of study
+
+No. of
+cases
+studied
+
+Clinical features & Radiological details
+
+Biomarkers &
+Haematological findings
+
+Histopathology & Cytomorphology
+
+IHC/Immuno-floroscence
+
+Zhang H et al,
+China
+
+Histo-pathological
+findings and IHC in
+COVID19 infected lung
+
+01
+
+C/F: 72-year-old diabetic & hypertensive
+presented with fever & cough.
+
+–
+
+DAD, intra-alveolar fibrinous exudates &
+loose interstitial fibrosis.
+
+Rp3 NP protein of
+–
+SARS–CoV-2: prominent
+expression on alveolar
+epithelial cells & on damaged
+desquamated cells within
+alveolar space.
+
+–
+
+-01 case: Lymphocytic viral pneumonia
+
+–
+
+–
+
+Peripheral blood flow
+cytometry:
+
+-05 cases: AFOP with intra-alveolar “fibrin
+balls”
+LUNGS:
+-B/L DAD, cellular fibro-myxoid exudate.
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+-Minor neutrophilic infiltration in 5 cases
+HEART:
+-Mild lymphocytic myocarditis (04 cases) &
+epicarditis (02 cases)
+LIVER:
+-Non-specific Periportal liver lymphocyte
+infiltration & fibrosis
+BRAIN:
+-No change
+CYTOMORPHOLOGY:
+–
+
+–
+
+Copin MC et
+al, France
+
+Histological patterns of
+lung injury
+
+06
+
+Xu Z et al,
+China
+
+Pathological findings of
+COVID-19 associated with
+acute respiratory distress
+syndrome
+
+01
+
+CT scan: Patchy ground glass–like
+opacifications with pleural thickening and
+mediastinal lymphadenopathy.
+–
+
+Chest X-ray: Multiple patchy shadows in B/L
+lungs
+
+- Reduced CD4 & CD8 T
+cells
+
+3
+Autopsy series studying
+pulmonary and cardiac
+Pathology in Covid19.
+
+04
+
+Schaller T et
+al, Germany
+
+Postmortem Examination
+10
+of Patients With COVID-19
+
+C/F: Aged 44− 78 years with hypertension
+-Mild cough & fever with sudden respiratory
+decompensation
+
+C/F: Fever, cough & dyspnea.
+X ray: (09 cases) ground-glass opacity
+predominantly in middle & lower lung fields.
+
+Giani M et al,
+Italy
+
+BAL fluid analysis
+
+01
+
+-Viral cytopathic effect: multinucleated
+syncytial cells with atypical enlarged
+pneumocytes in intra-alveolar spaces.
+HEART:
+-Interstitial mononuclear inflammatory
+infiltrates
+LIVER:
+-Moderate microvesicular steatosis with
+mild lobular & portal activity
+
+-LUNGS: (04 cases)
+-Bilateral DAD, mild-to-moderate
+lymphocytic infiltrate, megakaryocytes
+within small vessels & alveolar capillaries.
+-Increased AST
+-Viral cytopathic effect: cytomegaly
+enlarged nuclei & bright, eosinophilic
+nucleoli within alveolar spaces.
+-Increased D-dimer levels HEART: (04 cases)
+in all patients near death. -Scattered individual cell myocyte necrosis.
+–
+LUNGS: (10 cases)
+-Disseminated DAD at different stages more
+pronounced in middle & lower lobes.
+-Fully established fibrosis in 01 case.
+
+C/F: Fatigue & fever progressing to respiratory –
+distress & hypoxia
+
+(continued on next page)
+
+Pathology - Research and Practice 224 (2021) 153384
+
+Fox SE et al,
+USA
+
+- High proportions of
+HLA-DR (CD4 3⋅47 %) &
+CD38 (CD8 39⋅4%)
+double-positive fractions
+- Increased concentration
+of highly
+proinflammatory CCR6+
+Th17 in CD4 T cells
+-Elevated ferritin &
+fibrinogen levels
+
+Electron microscopy
+
+A. Singh et al.
+
+Table 1
+Table enlisting various studies on COVID19, highlighting the radiological and pathological aspects of the disease in multiple systems of the body.
+
+Authors,
+Country
+
+Zhang Y et al,
+China
+
+Tian S et al,
+China
+
+Aim of study
+
+Assess liver impairment in
+COVID19 patients
+
+No. of
+cases
+studied
+
+115
+
+Clinical features & Radiological details
+
+C/F: Respiratory distress
+
+Biomarkers &
+Haematological findings
+
+Elevated levels of:
+-ALT: 11/115
+
+Pathological assessment of 04
+postmortem core biopsies,
+
+C/F: Aged 59− 81 years with each patient
+having at least one underlying disease,
+including immunocompromised status.
+
+Histopathology & Cytomorphology
+
+-Fibrino-hematic material with scattered
+alveolar macrophages & predominance of
+activated plasma cells (CD138+), admixed
+with T & scattered B lymphocytes.
+-Alveolar macrophages: showed nuclear
+clearing or intranuclear cytopathic
+inclusions
+LIVER: (01 case)
+-Non-specific findings.
+-Mild sinusoidal dilatation with minimal
+lymphocytic infiltration
+
+-AST: 17/115
+-S.biliubin: 08/115 cases.
+Case 1: -elevated pro-BNP LUNGS:
+& hypertensive cardiac
+troponin (d/t history of
+previous MI)
+- DAD (in all 04 cases)
+
+IHC/Immuno-floroscence
+
+Electron microscopy
+
+–
+
+–
+
+–
+
+–
+
+DIF:Nonspecific IgM & C3
+trapping in glomeruli.
+
+Coronavirus-like particles:
+
+Indirect IF: Positive
+granular nuclear and
+cytoplasmic staining with
+SARS-CoV nucleoprotein in
+tubular epithelium (in 03 out
+of 06 cases)
+
+65− 136 nm, with distinctive
+spikes, 20 − 25 nm in
+cytoplasm of renal proximal
+tubular epithelium/
+podocytes /less so in distal
+tubules.
+
+A. Singh et al.
+
+Table 1 (continued )
+
+CT scan (03 cases): Multiple patchy ground
+glass opacities
+X ray (01 case): Patchy high-density shadows All 04 cases:
+with worsening in subsequent days.
+
+4
+Histopathological analysis
+of kidney biopsy in 26
+postmortem cases.
+
+26
+
+− 3 cases: pigmented casts with high levels of
+CPK possibly due to rhabdomyolysis
+− 5 cases:Endothelial cell swelling with
+variable foamy degeneration in old/
+hypertensive/diabetic cases.
+
+(continued on next page)
+
+Pathology - Research and Practice 224 (2021) 153384
+
+Su H et al,
+China.
+
+- Case no. 02: also showed pneumocyte
+injury with focal sloughing & formation of
+syncytial giant cells
+-Normal AST/ALT/S.
+-Case no. 04: also showed fibrinoid necrosis
+bilirubin levels
+in small vessels with abundant intra-alveolar
+neutrophilic infiltration, consistent with
+bronchopneumonia due to superimposed
+bacterial infection.
+LIVER:
+-Case 1: sinusoidal dilatation, nuclear
+glycogen in hepatocytes, focal
+macrovesicular steatosis and features of CLL
+-Case 2: cirrhosis consistent with his history
+& mild zone 3 sinusoidal dilatation
+-Case 3&4: mild lobular lymphocytic
+infiltration.
+HEART:
+-Non-specific findings with no epicardial/
+myocardial inflammation.
+C/F: 26 cases died of respiratory failure due to - Leukocytois in 10 cases. -Prominent ATI
+COVID19
+-Loss of brush border, vacuolar degeneration
+& dilatation of tubular lumen with cellular
+debris in almost all cases,
+− 2 cases: multiple foci of bacteria & diffuse
+polymorphonuclear casts in tubular lumen.
+
+Authors,
+Country
+
+Aim of study
+
+No. of
+cases
+studied
+
+Clinical features & Radiological details
+
+Christopher P.
+Larsen et al,
+USA
+
+Collapsing
+Glomerulopathy in a
+Patient With COVID-19
+
+01
+
+C/F: 63-year-old hypertensive male with
+fatigue, high-grade fever (39.7
+
+Buja LM et al,
+USA
+
+Emerging spectrum of
+cardiopulmonary
+pathology of COVID-19:
+
+03
+
+C/F: Autopsy done on: Case 1: 62-year-old
+obese male history of respiratory illness died of
+COVID19 Case 2: 34-year-old obese, diabetic
+hypertensive with headache, shortness of
+breath & productive cough died of COVID19
+Case 3: 48-year-old obese died of COVID19
+CT scan: (Case 2) B/L upper & lower lobe
+ground-glass with early consolidative alveolar
+opacities of rounded morphology.
+
+Biomarkers &
+Haematological findings
+
+Histopathology & Cytomorphology
+
+− 3 cases: segmental fibrin thrombus in
+glomerular capillary loops with severe
+injury of the endothelium Occasional
+podocyte vacuolation & detachment from
+the glomerular basement membrane.
+-Elevated CRP & D-dimer Kidney Biopsy:
+− 14 glomeruli were globally sclerotic. Many
+of the intact glomeruli showed tuft collapse
+with overlying epithelial hypertrophy &
+hyperplasia in the Bowman space.
+-Lymphopenia
+-Tubular epithelium injury: most prominent
+in the PCT
+-Interstitial fibrosis, tubular atrophy,
+inflammatory infiltrate in interstitium
+consisting of lymphocytes, plasma cells with
+few scattered eosinophils
+–
+LUNGS:
+
+5
+
+-Case 1: early DAD with multiple hyaline
+membranes & focal mild inflammation with
+lymphocytes & macrophages in some
+alveolar spaces.
+
+Electron microscopy
+
+DIF: Negative for IgA, IgG,
+IgM, C3, C1q, kappa &
+lambda in Glomeruli.
+
+No definitive viral particles
+
+–
+
+Case 1:
+
+-Strands of precipitated
+fibrin & entrapped
+neutrophils within alveolar
+capillaries -Larger deposits
+of fibrin in alveolar spaces.
+-No Viral particles in heart or
+lungs.
+
+(continued on next page)
+
+Pathology - Research and Practice 224 (2021) 153384
+
+-Case 2:interstitial lymphocytic pneumonitis
+with lymphocytic infiltrates around small
+blood vessels & terminal bronchioles.
+Microthrombi in some pulmonary arterioles.
+-Case 3: right pleura showed empyema.
+Right lung showed evidence of atelectasis &
+DAD. DAD was more pronounced in the
+expanded left lung.
+LIVER:
+-Case 1 & 2: Moderate macrovesicular
+steatosis
+-Case 3: Moderate macrovesicular steatosis,
+lympho-plasmacytic triaditis with portal
+fibrosis and early portal-portal bridging
+fibrosis.
+HEART:
+-Case 1: Cardiomyocytes with moderately
+enlarged hyperchromatic nuclei with
+vacuolar degenerative change. No
+myocarditis.
+-Case 2: Individual damaged cardiomyocytes
+-Case 3: Multifocal lymphocytic infiltrates in
+epicardium. Myocytes: enlarged
+hyperchromatic nuclei, changes of acute
+injury.
+
+IHC/Immuno-floroscence
+
+A. Singh et al.
+
+Table 1 (continued )
+
+Authors,
+Country
+
+Tavazzi G et
+al, Italy
+
+Varga Z et al,
+Switzerland.
+
+Aim of study
+
+Myocardial localization of
+coronavirus in COVID-19
+cardiogenic shock
+
+Endothelial cell infection
+and endotheliitis in
+COVID-19
+
+No. of
+cases
+studied
+
+01
+
+03
+
+Clinical features & Radiological details
+
+C/F: 69-year-old patient with flu-like
+symptoms rapidly degenerating into
+respiratory distress, hypotension & shock.
+
+C/F: Autopsies done on: Hypertensive males
+with COVID19 disease developing multi-organ
+failure
+
+Biomarkers &
+Haematological findings
+
+-Lymphopenia
+
+-Raised CRP
+- Increased hs-TnI
+–
+
+6
+Von Weyhern
+C.H., et al,
+Germany
+
+06
+
+Neuropathological
+Features of Covid-19
+
+18
+
+C/F: Autopsies of 06 case aged 58− 82 years
+who died from COVID-19
+
+-Elevated CRP & IL-6 in
+all the cases
+-Leukocytosis in 2 cases
+
+A spectrum of vascular and
+Reichard RR et acute disseminated
+01
+al, USA
+encephalomyelitis
+(ADEM)-like pathology
+
+C/F: Myalgia headache & decreased taste
+
+C/F: 71-year-old male with fatigue and
+exertional dyspnea,
+CT Chest: Parenchymal consolidation and
+surrounding ground-glass opacities following a
+peri-broncho vascular distribution.
+
+–
+
+Elevated CRP, IL-6 &
+ferritin levels
+
+IHC/Immuno-floroscence
+
+KIDNEY:
+-Case 1: Hyaline arteriolosclerosis with
+glomerulosclerosis
+-Case 2: Occasional fibrin-platelet thrombus
+in renal glomerular capillaries.
+-Case 3: Mild hyaline arteriolosclerosis,
+periglomerular hyaline arteriolosclerosis
+with rare holo-sclerotic glomeruli.
+HEART:
+Immune-light microscopy:
+-Cardiac myocytes showed non-specific
+Large (>20 μm), vacuolated,
+features consisting of focal myofibrillar lysis, CD68-positive macrophages
+and lipid droplets.
+
+-Case 1: Inflammatory cells associated with –
+endothelium & apoptotic bodies in heart,
+small bowel & lungs
+-Case 2: Lymphocytic endotheliitis in lung,
+heart, kidney, and liver with liver cell
+necrosis. No lymphocytic myocarditis.
+-Case 3: Small intestine resection showed
+prominent endotheliitis of the submucosal
+vessels with apoptotic bodies
+BRAIN:
+
+All cases:-Lymphocytic pan-encephalitis &
+meningitis
+-Patients with age <65yrs: Death due to
+Petechial bleeding and intracranial
+hemmorhage.
+LUNGS:
+− 05 cases: DOD
+=01 case: Organizing Pneumonia Pattern
+-All cases:Acute hypoxic injury in cerebrum
+& cerebellum with loss of neurons in the
+cerebral cortex, hippocampus & cerebellar
+Purkinje cell layer. No thrombi/vasculitis.
+− 02 cases: perivascular lymphocytes
+− 01 case: focal leptomeningeal
+inflammation
+-Perivascular acute disseminated
+encephalomyelitis (ADEM)-like pathology:
+Foci of intraparenchymal blood that
+disrupted the white matter, with
+macrophages at periphery of the lesions
+
+Electron microscopy
+
+Single / small groups of viral
+particles with electron-dense
+spike-like structures & size
+between 70–120 nm within
+the interstitial cells of
+myocardium.
+Case 1: In transplanted
+kidney- Viral inclusion
+structures (dense circular
+surface with lucid centre) in
+endothelial cells
+
+–
+
+–
+
+IHC to detect SARS-CoV:
+
+–
+
+Negative in neurons, glia,
+endothelium& immune cells.
+
+–
+
+–
+
+- Luxol fast blue: loss of myelin,
+(continued on next page)
+
+Pathology - Research and Practice 224 (2021) 153384
+
+Solomon IH et
+al, England
+
+Early evidence of
+pronounced brain
+involvement in fatal
+COVID-19
+
+Histopathology & Cytomorphology
+
+A. Singh et al.
+
+Table 1 (continued )
+
+Authors,
+Country
+
+Aim of study
+
+No. of
+cases
+studied
+
+Clinical features & Radiological details
+
+Biomarkers &
+Haematological findings
+
+Histopathology & Cytomorphology
+
+Poyiadji N et
+al, USA
+
+COVID-19–associated
+Acute Hemorrhagic
+Necrotizing
+Encephalopathy
+
+01
+
+C/F: 58-year-old female with 3-day history of
+cough, fever & altered mental status.
+
+–
+
+–
+
+Classification of the
+cutaneous manifestations
+of COVID -19
+
+375
+
+NC-CT head: Symmetric hypoattenuation
+within the bilateral medial thalami.
+MRI: Haemorrhagic rim enhancing lesions
+within the bilateral thalami, medial temporal
+lobes & subinsular regions
+C/F:
+
+–
+
+–
+
+–
+
+–
+
+18
+
+-Pseudo-chilbain: 71cases
+-Vesicular: 34
+-Urticarial: 73
+-Maculo-papular: 176
+-Livedo/ necrosis: 21
+C/F:
+
+–
+
+–
+
+–
+
+–
+
+-Varicella-like papulovesicular exanthem
+showing:Basket-wave hyperkeratosis,
+slightly atrophic epidermis, vacuolar
+degeneration of the basal layer with
+multinucleate, hyperchromatic
+keratinocytes & dyskeratotic cells
+− 02 cases: Grover & Kaposi’s varicelliform
+eruption- dyskeratotic cells, ballooning
+multinucleated cells, sparse necrotic
+keratinocytes with lymphocytic satellitosis.
+− 3rd case:Perivascular spongiotic
+dermatitis with exocytosis with a large nest
+of Langerhans cells, dense perivascular
+lymphocytic infiltration with eosinophils
+around the swollen blood vessels.
+− 4th case: Papular erythematous exanthema
+-edematous dermis with abundant
+eosinophils & lymphocytic vasculitis
+− 5th case: severe maular haemorrhagic rash
+d/t fintravascular microthrombi within the
+small dermal vessels
+Endoscopic biopsy: (01 case):
+-Lympho-plasmacytic infiltration along with
+interstitial edema in the lamina propria of
+stomach, duodenum, & rectum
+
+–
+
+–
+
+–
+
+–
+
+Galvan et al,
+Spain
+
+Recalcati et al, Cutaneous manifestations
+Spain
+in COVID-19: a first
+perspective
+
+out of 88
+cases
+-Skin
+lesions
+
+7
+Marzano AV,
+Italy
+
+Varicella-like exanthem as
+a specific COVID19–associated skin
+manifestation
+
+Gianotti R et
+al, Italy
+
+Clinical &
+05
+histopathological study of
+skin dermatoses in patients
+with COVID-19
+
+Evidence for
+Gastrointestinal Infection
+of SARS-CoV-2
+
+73
+
+Electron microscopy
+
+–
+
+-Erythematous rash: 14
+
+-Urticaria: 03 -Chickenpox-like vesicles :01
+case
+C/F: Fever, cough headache, weakness, coryza –
+dyspnea, hyposmia, hypogeusia,
+pharyngodynia, myalgia with skin lesions
+
+C/F: Fever, sore throat & cough with
+development of skin lesions during hospital
+stay.
+
+–
+
+C/F: 73-year-old hospitalized patients infected
+–
+with COVID19
+
+-Occasional lymphocytes in esophageal
+squamous epithelium
+
+-ACE2: Rarely expressed on
+esophageal epithelium
+-abundantly distributed on
+cilia of glandular epithelia.
+-Viral nucleocapsid
+protein: cytoplasm of
+gastric, duodenal & rectum
+
+–
+
+(continued on next page)
+
+Pathology - Research and Practice 224 (2021) 153384
+
+Xiao F et al,
+China
+
+22
+
+IHC/Immuno-floroscence
+
+A. Singh et al.
+
+Table 1 (continued )
+
+Authors,
+Country
+
+Aim of study
+
+No. of
+cases
+studied
+
+Carvalho A et
+al, USA
+
+Gastrointestinal Infection
+Causing Hemorrhagic
+Colitis in COVID 19
+
+01
+
+Yang M et al,
+China
+
+Pathological Findings in
+the Testes of COVID-19
+
+12
+
+Clinical features & Radiological details
+
+Biomarkers &
+Haematological findings
+
+C/F: 71-year-old hypertensive female with
+Leukocytosis with
+nausea, vomiting, anorexia, diffuse abdominal neutrophilia
+pain & distention
+CE-CT abdomen: Severe colonic
+inflammation, most pronounced in ascending,
+transverse & descending colon
+C/F: Postmortem examination of the testes
+–
+from 12 COVID-19 patients
+
+Histopathology & Cytomorphology
+
+Edema in lamina propria with intact crypts
+with no colitis/ischemia/ or inflammatory
+bowel disease.
+
+-Sertoli cells showed swelling, vacuolation &
+cytoplasmic rarefaction, detachment from
+tubular basement membranes, loss and
+sloughing into lumens of the intratubular
+cell mass seen in all cases
+-Classified injury to seminiferous tubules
+(ST) as:
+Mild – 02 cases
+Moderate – 05
+
+Brancatella A
+et al, Italy
+
+Subacute Thyroiditis After
+Sars-COV-2 Infection
+
+01
+
+C/F: 8-year-old female with fever, neck pain
+radiating to the jaw & palpitations
+
+8
+
+USG neck: Bilateral and diffuse hypoechoic
+areas
+Wei L et al,
+China
+
+Pathology of the thyroid in 05
+severe acute respiratory
+syndrome
+
+C/F: 05 autopsy cases who initially presented
+with fever and shortness of breath
+
+-Elevated free thyroxine
+& free triiodothyronine
+levels
+-High inflammatory
+markers
+-Leukocytosis on
+peripheral smear
+Lymphopenia on
+peripheral smear
+
+Severe - 04
+
+Electron microscopy
+
+glandular epithelial cell, but
+not in esophageal
+epithelium.
+–
+
+–
+
+ACE2:
+
+No viral particles in all 03
+cases tested
+
+-Diffuse expression on Sertoli
+cells.
+-Strongly expressed on
+Leydig cells.
+-No expression on
+spermatogonia.
+
+–
+
+–
+
+All cases:
+
+Apoptosis with TUNEL assay: –
+apoptosis was observed in
+both the follicular epithelium
+and the interfollicular region
+of all patients with SARS
+
+–
+
+Pathology - Research and Practice 224 (2021) 153384
+
+-Destruction of the follicular epithelium and
+exfoliation of epithelial cells into the follicle.
+-Follicles: dilated/ collapsed/distorted with
+an irregular outline/ microfollicle
+configuration.
+− 01 case: congested with severe damage in
+follicular epithelium.
+
+KEY:
+DAD - Diffuse alveolar damage.
+AFOP -Acute fibrinous and organizing pneumonia.
+B/L - bilateral.
+AKI - Acute Kidney injury.
+C/F - clinical features.
+CRP - C-reactive protein.
+IL-6 - Interleukin 6.
+hs-TnI - Troponin I.
+
+IHC/Immuno-floroscence
+
+A. Singh et al.
+
+Table 1 (continued )
+
+A. Singh et al.
+
+Pathology - Research and Practice 224 (2021) 153384
+
+Like in the kidney and liver, the cardiac involvement can be depicted
+by various elevated bio-markers, which increase in case of myocardial
+injury. Troponin I and Troponin T appear to be the biomarkers of in­
+terest. Various studies have evaluated that increased Troponin I and
+Troponin T levels are associated with higher mortality among COVID19
+patients and are mostly seen in older comorbid patients [27,28]. It was
+observed by Yishay Szekely et al., that higher troponin levels were
+associated with higher left atrial pressure and also decreased left ven­
+tricular diastolic function [29]. Other markers which have shown
+increased mortality include Interleukin-6, D-dimer, Lactate dehydroge­
+nase (LDH), Ferritin, which in contrary to Troponins suggest inflam­
+matory cytokine storm, rather than direct myocardial damage as a
+mechanism for cardiac injury [30].
+The autopsy histo-pathological examination of the heart in most of
+the studies have shown minimal to negligent direct viral cytopathic
+changes on the myocytes. An autopsy series performed in the United
+States, highlighted the same and observed only scattered individual
+myocyte necrosis with no evidence of extensive necrotic areas. They
+found no evidence of massive lymphocytic infiltration, which is nor­
+mally seen in viral myocarditis. At the same time most of the cases,
+grossly only showed cardiomegaly with right ventricular dilatation,
+mostly owing to pulmonary involvement by the virus [31]. Another
+study performed on 03 autopsy cardiac specimens, also revealed only
+scattered individual cell myocyte necrosis rarely with lymphocytes
+adjacent to but not seen to be surrounding degenerating myocytes,
+suggesting the possibility of an early viral cytopathic effect. Grossly,
+most of the specimens showed cardiomegaly and right ventricular
+dilatation [11].
+On the other hand, Tavazzi et al. in 2020, demonstrated the presence
+of viral particles (electron-dense spike-like structures and size between
+70–120 nm) in the interstitial cells of the myocardium, with the absence
+of these particles in endothelial cells or cardiomyocytes, thereby sug­
+gesting direct myocardial involvement during the viraemic stage of the
+disease [32] (Table 1). Zsuzsanna Varga et al., however observed lym­
+phocytic endothelitis in various organs of the body including the cardiac
+vessels, thereby suggesting impaired microcirculation within the
+vascular channels [33]. Moreover, it has also been demonstrated in a
+few cases that the development of fulminant viral myocarditis is mostly
+associated with a higher viral load [34].
+So, as demonstrated by most of the studies the myocardial involve­
+ment by COVID19 may not be as severe as compared to other viral in­
+fections. Also, the elevated Troponin levels may not truly anticipate the
+level of myocardial involvement [35,36]. Cardiac involvement seems to
+be more of a response to the inflammatory storm created by the infection
+as well as the extensive microvascular involvement owing to massive
+endothelitis [33,37]. On the other hand, many studies have also pro­
+posed the role of various drugs that are being used for treatment of
+COVID19 as reasons for potential deterioration in cardiovascular con­
+ditions. As a common example choroquine, which is extensively being
+used to reduce the incidence of complications in COVID19 patients, is
+known to cause cardiac toxicity in the form of restrictive or dilated
+cardiomyopathy along with conduction abnormalities [38].
+
+su et al., in the very first evaluation of renal tissue. They studied 26 renal
+post-mortem cases and observed prominent proximal acute tubular
+injury (ATI) in the form of loss of brush border, vacuolar degeneration
+and dilatation of the tubular lumen with cellular debris. Occasionally
+areas of frank necrosis with detachment of epithelium with bare tubular
+basement membrane were also observed in few cases. The podocytes
+also showed vacuolization and detachment from the glomerular base­
+ment membrane. The peritubular and glomerular capillary loops
+showed diffuse erythrocyte aggregation (confirmed by CD235a) with
+obstruction of the lumen along with endothelial damage. Diabetic
+changes were frequently observed in many cases in the form of nodular
+mesangial expansion with hyalinosis of arterioles. Also, arteriosclerosis
+of medium-size arteries with ischemic glomeruli was seen in 11 of the
+patients with hypertension [23] (Table 1).
+Another study, observed sclerotic glomeruli in a 44-year-old
+COVID19 positive woman who presented with fever, vomiting, wors­
+ening cough, and flank pain. She developed AKI superimposed on known
+chronic kidney disease, type II diabetes and hypertension. They analysed
+24 glomeruli, 14 showed sclerotic changes and rest of the intact
+glomeruli showed features of tuft collapse with overlying epithelial
+hypertrophy and hyperplasia in the Bowman space. Similar to Hua Su
+et al., they also reported significant injury to the tubular epithelium,
+prominently in the proximal tubules in the form of reactive nuclei with
+mitotic figures, along with denudation of the brush borders [24].
+However, they observed no definite viral particles on electron micro­
+scopy. Their direct immunofluorescence findings were negative for im­
+mune reactants in glomeruli, including IgA, IgG, IgM, C3, C1q, kappa,
+and lambda [24], which was in contrast to the other study which showed
+non-specific IgM and C3 trapping [23] (Table 1). But indirect immu­
+nofluorescence (by Hua su et al.) with SARS-CoV nucleoprotein when
+done on the same 06 cases, showed positive granular staining in a nu­
+clear or cytoplasm pattern in tubular epithelium in 03 of the cases [23].
+On the other hand, electron microscopic findings showed the pres­
+ence of coronavirus-like particles in the cytoplasm of renal proximal
+tubular epithelium, also in the podocytes and comparatively lesser in the
+distal tubules. The size of the particles ranged from 65− 136 nm in
+diameter, with characteristic spikes, around 20− 25 nm, in a solar
+“corona” like appearance. Other features seen in coronavirus including
+adjacent double membrane with surface projections, nucleocapsid
+apposing to the viral envelope, and the interior electron-lucence of the
+particles had also been distinctively observed. Furthermore, the weak
+immunostaining with ACE2 on the proximal tubules in close corre­
+spondence with the location of the virus particles observed on electron
+microscopy, further supports the involvement of renal tubules as the
+major site of involvement by COVID19 infection [23]. Also, the detec­
+tion of the presence of viral particles in the blood and urine of patients
+with COVID19 infection by polymerase chain reaction too, supports
+strong renal involvement [24].
+Summarizing, the renal involvement of proximal tubules in the form
+of ATI, endothelial damage and podocyte vacuolization depict direct
+cytopathic effect of the virus. Whether collapsing glomerulopathy,
+which is a fulminant form of kidney disease, as observed in few cases, is
+associated with COVID19 related cytokine storm or is related to other
+underlying conditions still needs further evaluation and studies.
+
+7. Central nervous system manifestations in COVID19:
+Symptoms suggest involvement
+
+6. Cardiac disease in COVID19, involvement analysed
+
+With the onset of various neurological symptoms, the common view
+holds and suggests central nervous system (CNS) involvement by
+COVID19. The major symptoms mostly presenting include headache,
+convulsions, change in mental status and symptoms of encephalitis [39].
+Furthermore, the appearance of anosmia as a fairly common symptoms,
+also may suggest neurological involvement [40]. Jason Netland et al., in
+their experimental study conducted on transgenic mice, showed that the
+entry of SARS-CoV virus into the brain occurred by the olfactory bulb,
+further leading to trans-neuronal spread. They observed significant
+fraction of neurons to be expressing viral antigen by day 4 and suggested
+
+Myocarditis has been known to occur due to multiple causes. Viral
+induced myocarditis is also relatively common, mostly associated with
+Coxsackie virus, Epstein-Barr virus, Cytomegalovirus, Echovirus, Hep­
+atitis B virus, Human Herpes virus 6, HIV -1 and Influenza virus B,
+amongst a few [25]. The abundance of expression of ACE2 receptors on
+the cardiac myocytes also poses easy feasibility of direct attack by the
+virus [26]. So the question arises, “Do COVID19 infection too commonly
+causes myocarditis?”, is still under study and is being evaluated
+worldwide.
+9
+
+A. Singh et al.
+
+Pathology - Research and Practice 224 (2021) 153384
+
+Fig. 1. Diagrammatic picture showing the multisystemic involvement of COVID19 and enumerating the commonly observed histo-pathological changes in each
+affected organ.
+
+that the death of the mice occurred due to the death of infected neurons,
+particularly the neurons located in the cardiorespiratory centres of the
+medulla [41].
+A histo-pathological examination of 06 patients who died of
+COVID19 in Germany, revealed meningitis, lymphocytic pan­
+encephalitis, localized perivascular inflammation and brainstem
+neuronal cell damage, in almost all the cases examined. Also, they
+observed that all the younger aged cases (<65yrs) exhibited diffuse
+petechial haemorrhages owing to massive intracranial haemorrhage due
+to COVID19 associated coagulopathy. Hence, in the younger cases, they
+attributed CNS haemorrhage to be a fatal complication. However, they
+attributed none of these changes to be due to COVID19 induced hypoxia
+[42]. On the other hand, Isaac H. Solomon et al., suggested only hypoxia
+induced injury in the cerebrum and cerebellum, with no evidence of
+meningitis, encephalitis or thrombi and vasculitis. They also found no
+cytoplasmic viral staining on immunohistochemical examination [43].
+The post-mortem brain examination of a 71-year-old male who died
+of COVID19 revealed widespread haemorrhagic white matter lesions
+distributed throughout the cerebral hemisphere. Histo-pathology
+showed a perivascular acute disseminated encephalomyelitis (ADEM)like appearance, along with features of axonal damage. Also, observed
+were clusters of macrophages at the periphery of the lesions. (Table 1)
+Only scant CD3 positive perivascular lymphocytes were observed.
+Hence, this case report highlighted that the postulated mechanism for
+this type of insult could be due to para-infectious post viral autoimmune
+response apart from primary vascular disease [44]. Another case study,
+reported a case of acute necrotizing encephalopathy in a patient with
+COVID19, which they postulated might be due to intracranial inflam­
+matory cytokine storm like seen in patients with Influenza. In this case
+symmetrical hypoattenuation within the bilateral medial thalami was
+seen on non-contrast CT imaging. MRI showed haemorrhagic rim
+enhancing lesions within the bilateral thalami, medial temporal lobes
+and subinsular regions suggestive of acute necrotizing encephalopathy
+
+[45].
+The neurological symptoms so commonly appearing in patients with
+COVID19 infection, could be due to various reasons. Some of the few
+explanations include, direct cytopathic effect by the virus, hypoxia
+induced changes, cerebrovascular insults due to coagulopathy and also
+metabolic changes [46].
+8. Cutaneous involvement: a rare manifestation
+With the establishment of COVID19 as having multisystemic mani­
+festations, cutaneous involvement by the virus is also now being widely
+studied. Various presentations have been described ranging from mac­
+ulopapular rash, vesicular rash, petechia/purpura, perniosis (chil­
+blains), urticaria, livedo racemosa, and also distal ischemia [47]. I
+Hamming et al., studied the localization of ACE2 receptors on various
+tissues of the body and found ACE2 to be present in the basal cell layer of
+the epidermis (including basal layer of hair follicles) and smooth muscle
+cells surrounding the sebaceous glands with weak cytoplasmic staining
+in sebaceous gland cells. Also, strong granular staining was observed in
+eccrine gland cells [5].
+C. Galvan Casaset al., in Spain described 05 cutaneous patterns found
+to be associated with COVID19 which included pseudo-chilblain,
+monomorphic vesicles, urticaria, maculo-papules and livedo/ necrosis.
+Monomorphic disseminated vesicular lesions, which contained hae­
+morrhagic content along with pseudo-chilblain, they suspected might be
+useful indicators of the disease. On the other hand, urticarial and mac­
+ulopapular lesions they postulated might be associated with various
+drug reactions and the occurrence of livedo or necrosis suggesting an
+occlusive vascular disease [47]. Zhang et al., similarly, in the meanwhile
+observed acral ischemic changes in the form of dry gangrene, cyanosis
+and skin bullae in 07 patients through which they highlighted the hy­
+percoagulable states commonly seen in COVID19 patients [48].
+Another study in Italy, evaluated skin manifestations in 18 patients,
+10
+
+A. Singh et al.
+
+Pathology - Research and Practice 224 (2021) 153384
+
+of which 08 showed skin involvement at the onset of the disease, and in
+10 patients, the manifestations happened during the course of hospi­
+talization. Erythematous rash mostly present on the trunk was the most
+commonly observed presentation in 14 patients followed by widespread
+urticaria seen in 03 patients and chickenpox like vesicles seen in only 01
+patient [49]. Varicella-like papulovesicular exanthem has also been
+described as a rare yet specific cutaneous manifestation of COVID19, by
+Marzano AV et al. They described these lesions to be dominant on the
+trunk in a scattered distribution with a few lesions being associated with
+mild pruritis, in others pruritis being absent. These lesions mostly
+appeared 3 days after the onset of systemic symptoms and disappeared 8
+days later. Histo-pathological evaluation of 04 cases revealed
+basket-wave hyperkeratosis with mildly atrophic epidermis. Also seen
+was vacuolar degeneration of the basal layer with hyperchromatic
+multinucleated keratinocytes and dyskeratotic cells. However, they
+observed significant absence of inflammatory infiltrate [50] (Table 1).
+Similarly, another study in Northern Italy which examined 05 pa­
+tients with skin lesions observed maculopapular lesions on the trunk of
+two patients with fever, cough and sore throat, suggestive of Grover
+disease. On histo-pathology, they observed dyskeratotic cells,
+ballooning multinucleation of cells along with presence of sparse
+necrotic keratinocytes with lymphocytic satellitosis, hence showing
+simultaneous features of both Grover and Kaposi’s varicella form
+eruption. The 3rd patients’ skin lesions were studied over a series of
+three punch biopsies at different stages of the disease. The lesion began
+with an exanthema located on the trunk and limbs, which morpholog­
+ically revealed diffuse small telangiectatic blood vessels in the upper
+dermis, subsequently showing within the epidermis, nests of Langerhans
+cells and finally progressing to a purpuric maculo-papulo-vesicular rash.
+The rash revealed perivascular spongiotic dermatitis with exocytosis.
+Also, there were large nests of Langerhans cells along with eosinophil
+rich dense perivascular lymphocytic infiltration surrounding the swollen
+blood vessels with extravasated RBCs. The 4th patient developed
+papular erythematous exanthema which showed an edematous dermis
+with abundant eosinophils with features of lymphocytic vasculitis, with
+the 5th patient revealing a severe macular haemorrhagic rash attributed
+to the formation of intravascular microthrombi within the small dermal
+vessels. The development of the exanthema they attributed to the he­
+matogenous spread of the virus along the cutaneous vascular system
+with subsequent activation of the immune system involving the
+recruitment of lymphocytes and Langerhans cells present along the skinnodal pathway [51].
+Hence, the skin involvement by the virus, presenting as a vast
+spectrum of skin manifestations although slightly uncommon, has
+emerged as a new area of interest for studying COVID19. Although, the
+exact mechanism is still not clear, postulated theories include hema­
+togenous dermal spread of the virus, with further immune activation and
+cytokine release. There may also be the activation of Langerhans cells
+explaining the development of spongiosis and vasodilation. Few other
+symptoms like livedo and gangrene however, can be clearly explained
+by the propensity to form microthrombi during the course of the
+infection [47,48,51]. However, this calls for more studies to further
+establish the specificity of these skin lesions to COVID19 infection.
+
+RNA, hence suggesting viral transmission through faeces as a potential
+risk in people residing in closed and contained premises [54].
+The role of ACE2 receptors and transmembrane serine protease 2
+(TMPRSS2) was emphasized by Hao Zhang et al., in the pathogenesis of
+COVID19 in the GIT. They found that ACE2 and TMPRSS2 were not only
+co-expressed in the alveolar type II cells of the lungs but also in the
+esophageal glandular and upper GI epithelial cells and the absorptive
+enterocytes of the ileum and colon, thereby, suggesting an entry route
+for COVID19 virus in the digestive tract [55]. Tong Meng et al., also
+stated that since the entry of COVID19 into host cells depends on the cell
+receptor recognition as well as proteases cleaving, the host cells should
+be co-expressing both ACE2 receptors and cell proteases TMPRSS2 [56].
+Similarly, immunofluorescent data has also shown ACE2 protein to be
+expressed on the glandular cells of gastric, duodenal and rectal epithe­
+lium [57].
+The most common GIT symptoms include diarrhoea, nausea, vom­
+iting and anorexia [58,59]. In around 50.5 % (103 out of 204) of the
+patients admitted to a hospital in China were found to be showing one or
+more digestive symptoms. Out of these 103 patients, 97 presented with
+both respiratory as well as digestive symptoms and 06 patients only
+developed digestive symptoms without any respiratory symptoms [59].
+Ren Mao et al., in their systemic review and meta-analysis postulated
+that patients presenting with gastrointestinal symptoms tended to have
+an increased risk of acute respiratory distress syndrome and liver injury.
+They also stated that patients with severe COVID-19 disease were more
+likely to present with abdominal pain in comparison to patients with
+non-severe COVID disease [60].
+The histo-pathological data regarding the COVID19 changes in the
+GIT is very limited. The endoscopic biopsy of 01 patient done by Fie Xiao
+et al., revealed no significant damage of the esophageal, gastric,
+duodenal and rectal mucosal epithelium on histological examination.
+However, they reported lympho-plasmacytic infiltration along with
+interstitial edema in the lamina propria of the stomach, duodenum, and
+rectum along with occasional lymphocytes in esophageal squamous
+epithelium [61] (Table 1). Another autopsy report showed segmental
+dilatation and stenosis in the small intestine of an 85-year-old male
+positive with COVID19 infection [62]. A case of hemorrhagic colitis was
+reported in United States, in a 71-year-old COVID19 positive lady, who
+developed nausea, vomiting, anorexia, diffuse abdominal pain with
+distention and 10–20 bloody bowel movements per day. Her CT with
+intravenous contrast, revealed severe colonic inflammation (more pro­
+nounced in the ascending, transverse, and descending colon). The
+endoscopic evaluation showed patchy focal erythema without ulcera­
+tion in the descending colon, sigmoid colon, and rectum and the histo­
+logical examination of the colon and rectal biopsies revealed edema in
+the lamina propria with intact crypts with no evidence of infective
+colitis/ischemia/or inflammatory bowel disease [63].
+In conclusion, GIT involvement by COVID19 is now well established
+with widespread GI manifestations of the disease [58–60]. Feco-oral
+transmission could be another mode of transmission by the virus
+[52–54] which needs to be further studied so that adequate precautions
+and measures can be instilled to curb further spread of the virus. How­
+ever, information regarding the histo-pathological changes in the GIT
+caused by the virus, still remains relatively sparce.
+
+9. Gastrointestinal tract and COVID19: is there a link?
+
+10. Ocular involvement in COVID19: new symptoms emerge
+
+With the isolation of COVID 19 in stool samples, there is increased
+speculation about gastro-intestinal tract (GIT) involvement by the virus
+during the course of the disease. Many studies have been conducted
+throughout the world confirming the same, and also there have been
+cases demonstrating the isolation of COVID19 virus in the stool samples
+of patients presenting without any GIs symptoms, thus raising suspicion
+of an alternate route of infection through feco-oral transmission [52,53].
+Yongjian Wu et al., also observed in their study that fecal samples
+showed positivity for SARS-CoV-2 RNA for a mean period of 11.2 days
+even after the respiratory tract samples tested negative for SARS-CoV-2
+
+COVID19 being a respiratory virus with, aerosol and droplet trans­
+mission being the major mode of transmission, the exposed conjunctival
+surfaces of the eyes also seem to be an important portal of entry for the
+virus, which also explains the new emerging ocular symptoms in
+infected patients [64]. Newer studies, like previously discussed, high­
+light the role of both ACE2 and TMPRSS2 in the entry of the virus [55,
+56]. Dia Ma et al. in 2004, in their study stated that the cornea as
+compared to the conjunctiva had higher propensity to be infected by
+COVID19 as mouse corneal tissue showed higher expression of ACE2
+11
+
+A. Singh et al.
+
+Pathology - Research and Practice 224 (2021) 153384
+
+and TMPRSS2 [65].
+The most common symptom being described in humans is conjunc­
+tivitis, [66] with pyogranulomatous anterior uveitis, choroiditis with
+retinal detachment and retinal vasculitis being described in felines [67].
+A 65-year-old COVID19 positive woman admitted to a hospital in Italy
+presented with cough, sore throat, coryza, and bilateral conjunctivitis.
+An ocular swab when done detected the presence of viral RNA in the
+ocular sample collected [68]. Similarly, Sergio Zaccaria Scalinci et al.,
+also studied 05 patients whose preliminary symptoms included features
+of acute conjunctivitis which showed conjunctival hyperemia, epiphora,
+discharge, and photophobia [69]. Similarly, in a case series of 38 pa­
+tients in Hubei, China, 12 patients presented with ocular symptoms
+which included epiphora, conjunctival congestion and chemosis. Out of
+these 38 patients, 02 patients showed a positive COVID19 test, done on
+the conjunctival specimen. However, they also observed that patients
+who presented with ocular symptoms were more likely to have leuko­
+cytosis and neutrophilia along with higher procalcitonin, CRP, and LDH
+levels as compared to patients without ocular symptoms. This could
+possibly suggest that ocular symptoms appear more commonly in pa­
+tients with severe pneumonia [70].
+The presence of COVID19 was evaluated in the tears and conjunc­
+tival secretions, by Jianhua Xia MM et al. They reported that out of the
+30 COVID19 positive patients that they studied (21 had common disease
+and 09 had severe disease), the only tear and conjunctival sample that
+came out to be positive was that of the only 01 patient who presented
+with symptoms of conjunctivitis. Hence, they reported detection of no
+viral RNA in the tear fluid or the conjunctival secretions of the severe or
+common-type patients without conjunctivitis [71].
+The vast diversity of ocular symptoms of COVID19 along with its late
+sequelae, was also highlighted by Valentin Navel et al., who reported
+haemorrhagic conjunctivitis with pseudomembrane in a 63-year-old
+male who tested positive for COVID19. He initially presented with
+only respiratory symptoms but on day 17, viral conjunctivitis developed
+with subsequent formation of follicles, petechias, tarsal hemorrhages
+and chemosis. Also, observed was the development of a pseudomem­
+brane which was thin yellowish-white translucid on the tarsal con­
+junctiva of lower lids which could be easily peeled off without bleeding.
+However, COVID19 viral RNA could not be demonstrated in the
+conjunctival secretions and tears of the patient [72].
+Despite paucity of literature, the involvement of COVID19 in the
+occurrence of various ocular symptoms, with conjunctivitis being the
+commonest, seems very likely [66,68,69]. The detection of COVID19
+RNA in the tear and conjunctival secretions, even though seen only in a
+few cases, confirms the same [69–71,73]. One of the widely accepted
+theories include direct inoculation of the virus, through aerosol and
+droplet into the conjunctival surface with subsequent movement via the
+nasolacrimal duct or hematogenous spread [74–76].
+
+of testosterone to LH and the ratio of follicle stimulating hormone to LH
+were dramatically decreased in males with COVID19 [79]. An autopsy
+series conducted on the testicular tissue of 11 COVID19 men in China,
+revealed Sertoli cells to be most prominently affected showing cellular
+swelling, vacuolation and cytoplasmic rarefaction along with detach­
+ment from the tubular basement membrane. They also observed
+sloughing and loss of the intratubular cell mass and graded the injury to
+the seminiferous tubular based on its severity into mild (02), moderate
+(05), or severe (04) (Table 1). Also, interstitial edema with mild in­
+flammatory infiltrates comprising of CD3-positive T lymphocytes and
+CD68-positive histiocytes was observed and 08 out of 11 cases showed
+variable degrees of spermatogenic alteration, thereby highlighting evi­
+dence of testicular injury in COVID19 positive men. However, the
+presence of viral RNA was detected in the testis of only 01 case [80].
+Scrotal discomfort was reported by 19 % of COVID19 positive cases
+under evaluation in China, suggestive of viral orchitis, however, no
+comprehensive genitourinary examination was performed to confirm
+the same and none of the semen samples collected from these patients
+detected COVID19 RNA [81]. With the lack of enough evidence of the
+presence of viral RNA in testicular tissue and seminal fluid raises various
+doubts, but the development of viral orchitis and Sertoli cell changes
+during the course of COVID19 infections, calls for the need to evaluate
+and study more data.
+There is paucity of literature regarding the female genital tract and
+COVID19, however, a recent study suggested a possible link between
+polycystic ovarian syndrome (PCOS) and COVID19, stating that females
+with PCOS might be at a higher risk of developing adverse COVID19
+related outcomes [82]. But, the effect of COVID19 infection on the fe­
+male reproductive health still remains unexplored.
+11.2. Thyroid
+Thyroid involvement, especially the development of subacute
+thyroiditis (SAT) post-viral infection is quite common [83]. An isolated
+case report of an 18-year-old female, was reported by Alessandro
+Brancatella et al., in Italy who developed fever, neck pain radiating to
+the jaw along with palpitations, 15 days post a positive COVID19 report.
+Her laboratory tests showed increased free thyroxine and free triiodo­
+thyronine levels, and elevated inflammatory markers and leukocytosis.
+The neck ultrasound revealed bilateral and diffuse hypoechoic areas and
+was diagnosed with SAT [84]. An autopsy series of 05 patients in 2007,
+reported thyroid dysfunction in SARS-CoV patients, and observed par­
+afollicular and follicular cell injury along with evidence cellular necro­
+sis. They found few of the thyroid follicles to be dilated, others collapsed
+and distorted with irregular outline, also with others showing a micro­
+folliclar configuration [85] (Table 1). But with just few studies in this
+area the knowledge of the effect of COVID19 infection on the thyroid
+gland is still scare.
+
+11. Endocrine system and COVID19: understanding the intricate
+changes
+
+11.3. Pancreas
+
+The presence of ACE2 receptors on endocrine organs like pancreas
+and testis [77,78] along with multiple case studies reporting COVID19
+related endocrinal abnormalities, raises the question of a possible link
+between the two.
+
+Exocrinal involvement in the form of acute pancreatitis was reported
+in a 35-year-old COVID19 positive obese female [86] and studies also
+state that the high and aberrantly glycosylated ACE2 in uncontrolled
+hyperglycemia, could aid the cellular entry of COVID19 thereby causing
+a much more severe disease [87]. Increased blood glucose levels and
+abnormal variability of glucose can be seen in diabetic patients with
+COVID19 disease possibly due to stressful conditions triggering elevated
+release of hyperglycemic hormones [88]. Jin-Kui Yang et al., compared
+39 SARS patients who had no previous diabetes and had received no
+steroid treatment with 39 matched healthy siblings in a 3-year follow-up
+period. They found that 20 patients of the 39 developed diabetes during
+hospitalization however after 3 years, only two of these patients
+continued to be diabetic. Hence, they suggested that the localization of
+ACE2 receptors in the endocrine part of the pancreas lead to increased
+uptake of the SARS coronavirus, subsequently leading to uncontrolled
+
+11.1. Genital system
+The effect of COVID19 on the testis is still debated, however, the
+abundance of ACE2 receptors on the testis including spermatogonia,
+Leydig and Sertoli cells, raises the need for more research on the topic
+[78]. Ling Ma et al., in order to study the effects of COVID19 on male sex
+hormones, compared the levels of sex-related hormones between
+COVID19 positive reproductive-aged men and age-matched healthy
+men. They found the levels of serum luteinizing hormone (LH) to be
+significantly increased in COVID19 positive men but observed the ratio
+12
+
+A. Singh et al.
+
+Pathology - Research and Practice 224 (2021) 153384
+
+hyperglycemia and development of acute diabetes [89].
+Thereby, literature suggests that the presence of diabetes not only
+could act as a risk factor for the development of more severe COVID19
+disease, but also COVID19 infection in a previously euglycemic patient
+could cause a sustained inflammatory state causing hyperglycemia and
+subsequently leading to the development of diabetes.
+
+remains unclear. Conjunctivitis is a new symptom, now increasing being
+seen in cases with COVID19, and the expression of ACE2 and TMPRSS2
+on the corneal surface can also act as a new portal of entry for the
+COVID19 virus. Cutaneous involvement, although quite rare, has also
+been observed in the form of livedo and gangrene due to microthrombi
+formation owing to a hypercoagulable state.
+The presence of ACE2 receptors on the testis, and the evidence of
+Sertoli cell injury with varying damage to the seminiferous tubules,
+raises the question of prolonged long term effect on the male repro­
+ductive health. The development of a hyperglycaemic state in patients
+with COVID19 also poses the threat of developing acute diabetes, as
+observed in some studies. However, there remains no evidence of
+maternal to fetal transmission of COVID19 infection till date, to the best
+of our knowledge.
+
+11.4. Does COVID19 adversely affect outcome in pregnancy?
+Maternal to fetal transmission of infections are well known especially
+for the TORCH group of infections, as well as with the newer viruses
+including Zika and Ebola [90]. The prospect of whether there is vertical
+transmission of COVID19 from mother to infant still mostly remains
+unexplored. Various reports exist of miscarriages, intrauterine growth
+restriction and preterm birth in women infected with SARS-CoV, how­
+ever no vertical transmission of infection was noted by Schwartz DA, of
+SARS-CoV in these women [91].
+A recent study in China, analysed 10 neonates born to COVID-19
+positive mothers, out of which nasopharyngeal swabs were collected
+from 09 of these neonates who tested negative for COVID19. They
+clinically assessed all the neonates and concluded that the presence of
+perinatal COVID19 infection may cause adverse effects like: premature
+labor, fetal distress, neonatal respiratory distress, thrombocytopenia
+with abnormal liver function, and even death [92]. On the contrary,
+Xiaotong Wang et al. in 2020, reported the case of a 30-week COVID19
+positive pregnant woman with atypical pneumonia who delivered a
+preterm healthy baby with no evidence of COVID-19 [93]. Similarly, L
+Zhang et al., compared the pregnancy outcomes of 16 COVID19 positive
+women with 45 women without COVID19, they too reported no signif­
+icant difference between the two groups in terms of blood loss, neonatal
+birth weight, fetal distress, meconium-stained amniotic fluid and
+neonatal asphyxia. Also, none of the neonates tested positive for
+COVID19 on RT-PCR [94]. Huijun Chen et al., also when retrospectively
+analysed 09 pregnant woman with COVID 19 they found no significant
+difference in the clinical characteristics of COVID19 pneumonia in
+pregnant women as compared to non-pregnant adult patients with
+COVID19 pneumonia, and reported no fetal infection due to intrauterine
+vertical transmission [95].
+Reviewing the current available literature, none of the studies so far
+provided evidence of maternal to fetal transmission of COVID19 infec­
+tion, however due to the scantiness of the studies available so far, the
+conclusion of no vertical transmission is still premature.
+
+Declaration of Competing Interest
+None.
+Submission declaration and verification
+Not been published previously.
+Study registration
+No registration was required as the article submitted is a review
+article.
+Ethical clearance
+No ethical clearance was required as the article submitted is a review
+article.
+Author contributions
+The authors mentioned in the article confirm being the sole con­
+tributors of this work and have approved it for publication.
+References
+[1] D.S. Hui, E.I. Azhar, T.A. Madani, F. Ntoumi, R. Kock, O. Dar, et al., The continuing
+2019-nCoV epidemic threat of novel coronaviruses to global health—the latest
+2019 novel coronavirus outbreak in Wuhan, China, Int. J. Infect. Dis. 91 (2020)
+264–266, https://doi.org/10.1016/j.ijid.2020.01.009.
+[2] C. Huang, Y. Wang, X. Li, L. Ren, J. Zhao, Y. Hu, et al., Clinical features of patients
+infected with 2019 novel coronavirus in Wuhan, China, Lancet 39 (2020) 497–506,
+https://doi.org/10.1016/s0140-6736(20)30183-5.
+[3] M.Y. Li, L. Li, Y. Zhang, X.S. Wang, Expression of the SARS-CoV-2 cell receptor
+gene ACE2 in a wide variety of human tissues, Infect. Dis. Poverty 9 (2020) 45,
+https://doi.org/10.1186/s40249-020-00662-x.
+[4] R.J. Mason, Pathogenesis of COVID-19 from a cell biology perspective, Eur. Respir.
+J. 55 (2020), 2000607, https://doi.org/10.1183/13993003.00607-2020.
+[5] I. Hamming, W. Timens, M.L. Bulthuis, A.T. Lely, G. Navis, H. van Goor, Tissue
+distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first
+step in understanding SARS pathogenesis, J. Pathol. 203 (2004) 631–637, https://
+doi.org/10.1002/path.1570.
+[6] A. Jain, COVID-19 and lung pathology, Indian J. Pathol. Microbiol. 63 (2) (2020)
+171–172, https://doi.org/10.4103/IJPM.IJPM_280_20.
+[7] H. Zhang, P. Zhou, Y. Wei, J. Zhang, L. Huang, C. Zhang, et al., Histopathologic
+changes and SARS-CoV-2 immunostaining in the lung of a patient with COVID-19,
+Ann. Intern. Med. 172 (2020) 629–632, https://doi.org/10.7326/M20-0533.
+[8] M.C. Copin, E. Parmentier, T. Duburcq, J. Poissy, Mathieu D. Lille, COVID-19 ICU
+and Anatomopathology Group, Time to consider histologic pattern of lung injury to
+treat critically ill patients with COVID-19 infection, Intensive Care Med. 46 (2020)
+1124–1126, https://doi.org/10.1007/s00134-020-06057-8.
+[9] M.B. Beasley, T.J. Franks, J.R. Galvin, B. Gochuico, W.D. Travis, Acute fibrinous
+and organizing pneumonia: a histological pattern of lung injury and possible
+variant of diffuse alveolar damage, Arch. Pathol. Lab. Med. 126 (2002) 1064–1070,
+https://doi.org/10.1043/0003-9985(2002)126<1064:AFAOP>2.0.CO;2.
+[10] Z. Xu, L. Shi, Y. Wang, J. Zhang, L. Huang, C. Zhang, et al., Pathological findings of
+COVID-19 associated with acute respiratory distress syndrome, Lancet Respir. Med.
+8 (2020) 420–422, https://doi.org/10.1016/S2213-2600(20)30076-X.
+[11] S.E. Fox, A. Akmatbekov, J.L. Harbert, G. Li, J. Quincy Brown, R.S. Vander Heide,
+Pulmonary and cardiac pathology in African American patients with COVID-19: an
+
+12. Conclusion
+COVID19 with its myriad of symptoms is now being well established
+as a pan-systemic disease. The lungs, however still seem to be the most
+commonly affected organ, with multiple bilateral patchy ground glass
+opacities being the most frequently observed radiological findings. DAD
+with intra-alveolar fibrinous exudates and loose interstitial fibrosis can
+safely be described as the most common histological pattern observed in
+pulmonary biopsies in patients with COVID19. GI involvement of the
+disease, presenting in the form of diarrhoea raises the speculation of
+feco-oral transmission of COVID19, although the histopathological
+findings of the gastro-intestinal tract and the liver still appear quite nonspecific. Information regarding COVID19 as a renal disease, is sparse,
+however, few studies have established the presence of Corona-virus like
+particles in the cytoplasm of renal proximal tubular epithelium, podo­
+cytes and less so in the distal tubules.
+The histological examination of the heart appears non-specific
+findings with nil to minimal epicardial and myocardial inflammation,
+ruling out the occurrence of viral myocarditis, which is commonly seen
+in other viral infections. Evidence of meningitis and lymphocytic pan­
+encephalitis in patients with COVID19 has also been observed by few
+studies, but, whether to describe these changes as due to direct viral
+cytopathic changes or due to hypoxia and other metabolic changes still
+13
+
+A. Singh et al.
+
+[12]
+
+[13]
+[14]
+[15]
+[16]
+
+[17]
+[18]
+
+[19]
+[20]
+[21]
+[22]
+
+[23]
+[24]
+[25]
+[26]
+[27]
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+[33]
+[34]
+
+[35]
+
+Pathology - Research and Practice 224 (2021) 153384
+[36] A.R. Chapman, A. Bularga, N.L. Mills, High-sensitivity cardiac troponin can Be an
+ally in the fight against COVID-19, Circulation 141 (22) (2020) 1733–1735,
+https://doi.org/10.1161/CIRCULATIONAHA.120.047008.
+[37] Rm Inciardi, L. Lupi, G. Zaccone, L. Italia, M. Raffo, D. Tomasoni, et al., Cardiac
+involvement in a patient with coronavirus disease 2019 (COVID-19), JAMA
+Cardiol. 5 (7) (2020) 819–824, https://doi.org/10.1001/jamacardio.2020.1096.
+[38] S. Aslam, M.R. Mehra, COVID-19: yet another coronavirus challenge in
+transplantation, J. Heart Lung Transpl. 39 (5) (2020) 408–409, https://doi.org/
+10.1016/j.healun.2020.03.007.
+[39] M. Desforges, A. Le Coupanec, P. Dubeau, A. Bourgouin, L. Lajoie, M. Dubé, et al.,
+Human coronaviruses and other respiratory viruses: underestimated opportunistic
+pathogens of the central nervous system? Viruses 12 (1) (2019) 14, https://doi.
+org/10.3390/v12010014.
+[40] J. Kipnis, Immune system: the “seventh sense”, J. Exp. Med. 215 (2) (2018)
+397–398, https://doi.org/10.1084/jem.20172295.
+[41] J. Netland, D.K. Meyerholz, S. Moore, M. Cassell, S. Perlman, Severe acute
+respiratory syndrome coronavirus infection causes neuronal death in the absence
+of encephalitis in mice transgenic for human ACE2, J. Virol. 82 (15) (2008)
+7264–7275, https://doi.org/10.1128/JVI.00737-08.
+[42] C.H. von Weyhern, I. Kaufmann, F. Neff, M. Kremer, Early evidence of pronounced
+brain involvement in fatal COVID-19 outcomes, Lancet 395 (10241) (2020) e109,
+https://doi.org/10.1016/S0140-6736(20)31282-4.
+[43] I.H. Solomon, E. Normandin, S. Bhattacharyya, S.S. Mukerji, K. Keller, A.S. Ali, et
+al., Neuropathological features of Covid-19, N. Engl. J. Med. 383 (10) (2020)
+989–992, https://doi.org/10.1056/NEJMc2019373.
+[44] R.R. Reichard, K.B. Kashani, N.A. Boire, E. Constantopoulos, Y. Guo, C.
+F. Lucchinetti, Neuropathology of COVID-19: a spectrum of vascular and acute
+disseminated encephalomyelitis (ADEM)‑like pathology, Acta Neuropathol. 140
+(2020) 1–6, https://doi.org/10.1007/s00401-020-02166-2.
+[45] N. Poyiadji, G. Shahin, D. Noujaim, M. Stone, S. Patel, B. Griffith, COVID-19associated Acute Hemorrhagic Necrotizing Encephalopathy: Imaging Features,
+Radiology 296 (2) (2020) E119–E120, https://doi.org/10.1148/
+radiol.2020201187.
+[46] Y. Wu, X. Xu, L. Yang, C. Liu, C. Yang, Nervous system damage after COVID-19
+infection: Presence or absence? Brain Behav. Immun. 87 (2020) 55, https://doi.
+org/10.1016/j.bbi.2020.04.043.
+[47] C. Galván Casas, A. Català, G. Carretero Hernández, P. Rodríguez-Jiménez,
+D. Fernández-Nieto, et al., Classification of the cutaneous manifestations of COVID19: a rapid prospective nationwide consensus study in Spain with 375 cases, Br. J.
+Dermatol. 183 (1) (2020) 71–77, https://doi.org/10.1111/bjd.19163.
+[48] Y. Zhang, W. Cao, M. Xiao, Y.J. Li, Y. Yang, J. Zhao, et al., Clinical and coagulation
+characteristics of 7 patients with critical COVID-2019 pneumonia and acroischemia, Zhonghua Xue Ye Xue Za Zhi 41 (Mar (0)) (2020) E006, https://doi.org/
+10.3760/cma.j.issn.0253-2727.2020.0006. Chinese.
+[49] S. Recalcati, Cutaneous manifestations in COVID-19: a first perspective, J. Eur.
+Acad. Dermatol. Venereol. 34 (5) (2020) e212–e213, https://doi.org/10.1111/
+jdv.16387.
+[50] A.V. Marzano, G. Genovese, G. Fabbrocini, P. Pigatto, G. Monfrecola, B.
+M. Piraccini, et al., Varicella-like exanthem as a specific COVID-19-associated skin
+manifestation: multicenter case series of 22 patients, J. Am. Acad. Dermatol. 83 (1)
+(2020) 280–285, https://doi.org/10.1016/j.jaad.2020.04.044.
+[51] R. Gianotti, P. Zerbi, R.P. Dodiuk-Gad, Clinical and histopathological study of skin
+dermatoses in patients affected by COVID-19 infection in the Northern part of Italy,
+J. Dermatol. Sci. 98 (2) (2020) 141–143, https://doi.org/10.1016/j.
+jdermsci.2020.04.007.
+[52] M.L. Holshue, C. DeBolt, S. Lindquist, K.H. Lofy, J. Wiesman, H. Bruce, et al., First
+case of 2019 novel coronavirus in the United States, N. Engl. J. Med. 382 (10)
+(2020) 929–936, https://doi.org/10.1056/NEJMoa2001191.
+[53] W. Wang, Y. Xu, R. Gao, R. Lu, K. Han, G. Wu, et al., Detection of SARS-CoV-2 in
+different types of clinical specimens, JAMA 323 (18) (2020) 1843–1844, https://
+doi.org/10.1001/jama.2020.3786.
+[54] Y. Wu, C. Guo, L. Tang, Z. Hong, J. Zhou, X. Dong, et al., Prolonged presence of
+Sars-CoV-2 viral rna in faecal samples, Lancet Gastroenterol. Hepatol. 5 (2020)
+434–435, https://doi.org/10.1016/S2468-1253(20)30083-2.
+[55] H. Zhang, Z. Kang, H. Gong, D. Xu, J. Wang, Z. Li, et al., Digestive system is a
+potential route of COVID-19: an analysis of single-cell coexpression pattern of key
+proteins in viral entry process, Gut 69 (6) (2020) 1010–1018, https://doi.org/
+10.1136/gutjnl-2020-320953.
+[56] T. Meng, H. Cao, H. Zhang, Z. Kang, D. Xu, H. Gong, et al., The insert sequence in
+SARS–CoV-2 enhances spike protein cleavage by TMPRSS, bioRxiv. (2020),
+https://doi.org/10.1101/2020.02.08.926006.
+[57] F. Xiao, M. Tang, X. Zheng, Y. Liu, X. Li, H. Shan, Evidence for gastrointestinal
+infection of SARS-CoV-2, Gastroenterology 158 (6) (2020), https://doi.org/
+10.1053/j.gastro.2020.02.055, 1831–1833.e3.
+[58] W. Guan, Z. Ni, Y. Hu, W. Liang, C. Ou, J. He, et al., Clinical characteristics of novel
+coronavirus infection in China, N. Engl. J. Med. 382 (2020) 1708–1720, https://
+doi.org/10.1056/nejmoa2002032.
+[59] L. Pan, M. Mu, H.G. Ren, J.Y. Tan, X.H. Li, J. Liang, et al., Clinical characteristics of
+COVID-19 patients with digestive symptoms in Hubei, China: a descriptive, crosssectional, multicenter study, Am. J. Gastroenterol. 115 (2020) 766–773, https://
+doi.org/10.14309/ajg.0000000000000620.
+[60] R. Mao, Y. Qiu, J.S. He, J.Y. Tan, X.H. Li, J. Liang, et al., Manifestations and
+prognosis of gastrointestinal and liver involvement in patients with COVID-19: a
+systematic review and meta-analysis, Lancet Gastroenterol. Hepatol. 5 (7) (2020)
+667–678, https://doi.org/10.1016/S2468-1253(20)30126-6.
+
+autopsy series from New Orleans, Lancet Respir. Med. 8 (7) (2020) 681–686,
+https://doi.org/10.1016/S2213-2600(20)30243-5.
+B.J. Barnes, J.M. Adrover, A. Baxter-Stoltzfus, A. Borczuk, J. Cools-Lartigue, J.
+M. Crawford, et al., Targeting potential drivers of COVID-19: neutrophil
+extracellular traps, J. Exp. Med. 217 (6) (2020) e20200652, https://doi.org/
+10.1084/jem.20200652.
+T. Schaller, K. Hirschbühl, K. Burkhardt, G. Braun, M. Trepel, B. Marki, et al.,
+Postmortem examination of patients with COVID-19, JAMA 323 (2020)
+2518–2520, https://doi.org/10.1001/jama.2020.8907.
+J. Gu, C. Korteweg, Pathology and pathogenesis of severe acute respiratory
+syndrome, Am. J. Pathol. 170 (2007) 1136–1147, https://doi.org/10.2353/
+ajpath.2007.061088.
+J.M. Vanden Brand, S.L. Smits, B.L. Haagmans, Pathogenesis of Middle East
+respiratory syndrome coronavirus, J. Pathol. 235 (2015) 175–184, https://doi.org/
+10.1002/path.4458.
+M. Giani, D. Seminati, A. Lucchini, G. Foti, F. Pagni, Exuberant plasmocytosis in
+Bronchoalveolar Lavage specimen of the first patient requiring extracorporeal
+membrane oxygenation for SARS-CoV-2 in Europe, J. Thorac. Oncol. 15 (2020)
+e65–e66, https://doi.org/10.1016/j.jtho.2020.03.008.
+X. Chai, L. Hu, Y. Zhang, W. Han, Z. Lu, A. Ke, et al., Specific ACE2 expression in
+cholangiocytes may cause liver damage after 2019-nCov infection, bioRxiv (2020),
+https://doi.org/10.1101/2020.02.03.931766.
+Y. Zhang, L. Zheng, L. Liu, M. Zhao, J. Xiao, Q. Zhao, Liver impairment in COVID19 patients: A retrospective analysis of 115 cases from a single centre in Wuhan
+city, China, Liver Int. 40 (9) (2020) 2095–2103, https://doi.org/10.1111/
+liv.14455.
+L. Li, S. Li, M. Xu, P. Yu, S. Zheng, Z. Duan, et al., Risk factors related to hepatic
+injury in patients with corona virus disease 2019, medRxiv (2020), https://doi.
+org/10.1101/2020.02.28.20028514 preprint.
+S. Tian, Y. Xiong, H. Liu, L. Niu, J. Guo, M. Liao, et al., Pathological study of the
+2019 novel coronavirus disease (COVID-19) through postmortem core biopsies,
+Mod. Pathol. 33 (2020) 1007–1014, https://doi.org/10.1038/s41379-020-0536-x.
+Y. Cheng, R. Luo, K. Wang, M. Zhang, Z. Wang, L. Dong, et al., Kidney disease is
+associated with in-hospital death of patients with COVID-19, Kidney Int. 97 (5)
+(2020) 829–838, https://doi.org/10.1016/j.kint.2020.03.005.
+M. Ye, J. Wysocki, J. William, M.J. Soler, I. Cokic, D. Batlle, Glomerular
+localization and expression of Angiotensin-converting enzyme 2 and Angiotensinconverting enzyme: implications for albuminuria in diabetes, J. Am. Soc. Nephrol.
+17 (11) (2006) 3067–3075, https://doi.org/10.1681/ASN.2006050423.
+H. Su, M. Yang, C. Wan, L.X. Yi, F. Tang, H.Y. Zhu, et al., Renal histopathological
+analysis of 26 postmortem findings of patients with COVID-19 in China, Kidney Int.
+98 (1) (2020) 219–227, https://doi.org/10.1016/j.kint.2020.04.003.
+S. Kissling, S. Rotman, C. Gerber, M. Halfon, F. Lamoth, D. Comte, et al., Collapsing
+glomerulopathy in a COVID-19 patient, Kidney Int. 98 (1) (2020) 228–231,
+https://doi.org/10.1016/j.kint.2020.04.006.
+R. Dennert, H.J. Crijns, S. Heymans, Acute viral myocarditis, Eur. Heart J. 29 (17)
+(2008) 2073–2082, https://doi.org/10.1093/eurheartj/ehn296.
+G. Li, R. Hu, X. Zhang, Antihypertensive treatment with ACEI/ARB of patients with
+COVID-19 complicated by hypertension, Hypertens. Res. 43 (6) (2020) 588–590,
+https://doi.org/10.1038/s41440-020-0433-1.
+H. Fan, L. Zhang, B. Huang, M. Zhu, Y. Zhou, et al., Cardiac injuries in patients with
+coronavirus disease 2019: not to be ignored, Int. J. Infect. Dis. 96 (2020) 294–297,
+https://doi.org/10.1016/j.ijid.2020.05.024.
+T. Guo, Y. Fan, M. Chen, X. Wu, L. Zhang, T. He, et al., Association of
+cardiovascular disease and myocardial injury with outcomes of patients
+hospitalized with 2019-corona virus disease (COVID-19), JAMA Cardiol. 5 (2020)
+811–818, https://doi.org/10.1001/jamacardio.2020.1017.
+Y. Szekely, Y. Lichter, P. Taieb, A. Banai, A. Hochstadt, I. Merdler, et al., Spectrum
+of cardiac manifestations in COVID-19: a systematic echocardiographic study,
+Circulation 142 (4) (2020) 342–353, https://doi.org/10.1161/
+CIRCULATIONAHA.120.047971.
+F. Zhou, T. Yu, R. Du, G. Fan, Y. Liu, Z. Liu, et al., Clinical course and risk factors
+for mortality of adult in patients with COVID-19 in Wuhan, China: a retrospective
+cohort study, Lancet 395 (2020) 1054–1062, https://doi.org/10.1016/S0140-6736
+(20)30566-3.
+L.M. Buja, D.A. Wolf, B. Zhao, B. Akkanti, M. McDonald, L. Lelenwa, et al., The
+emerging spectrum of cardiopulmonary pathology of the coronavirus disease 2019
+(COVID-19): report of 3 autopsies from Houston, Texas, and review of autopsy
+findings from other United States cities, Cardiovasc. Pathol. 48 (2020), 107233,
+https://doi.org/10.1016/j.carpath.2020.107233.
+G. Tavazzi, C. Pellegrini, M. Maurelli, M. Belliato, F. Sciutti, A. Bottazzi, et al.,
+Myocardial localization of coronavirus in COVID-19 cardiogenic shock, Eur. J.
+Heart Fail. 22 (5) (2020) 911–915, https://doi.org/10.1002/ejhf.1828.
+Z. Varga, A.J. Flammer, P. Steiger, M. Haberecker, R. Andermatt, A.S. Zinkernagel,
+et al., Endothelial cell infection and endotheliitis in COVID-19, Lancet 395 (10234)
+(2020) 1417–1418, https://doi.org/10.1016/S0140-6736(20)30937-5.
+Y. Liu, Y. Yang, C. Zhang, F. Huang, F. Wang, J. Yuan, et al., Clinical and
+biochemical indexes from 2019-nCoV infected patients linked to viral loads and
+lung injury, Sci. China Life Sci. 63 (3) (2020) 364–374, https://doi.org/10.1007/
+s11427-020-1643-8.
+G. Lippi, C.J. Lavie, F. Sanchis-Gomar, Cardiac troponin I in patients with
+coronavirus disease 2019 (COVID-19): evidence from a meta-analysis, Prog.
+Cardiovasc. Dis. 63 (3) (2020) 390–391, https://doi.org/10.1016/j.
+pcad.2020.03.001.
+
+14
+
+A. Singh et al.
+
+Pathology - Research and Practice 224 (2021) 153384
+[78] C. Fan, K. Li, Y. Ding, W. Lu, J. Wang, et al., ACE2 expression in kidney and testis
+may cause kidney and testis damage after 2019-nCoV infection, medRxiv (2020),
+https://doi.org/10.1101/2020.02.12.20022418.
+[79] L. Ma, W. Xie, D. Li, L. Shi, Y. Mao, Y. Xiong, et al., Effect of SARS-CoV-2 infection
+upon maL.e gonadal function: a single center-based study, medRxiv (2020),
+https://doi.org/10.1101/2020.03.21.20037267.
+[80] M. Yang, S. Chen, B. Huang, J.M. Zhong, H. Su, Y.J. Chen, et al., Pathological
+findings in the testes of COVID-19 patients: clinical implications, Eur. Urol. Focus 6
+(5) (2020) 1124–1129, https://doi.org/10.1016/j.euf.2020.05.009.
+[81] F. Pan, X. Xiao, J. Guo, Y. Song, H. Li, D.P. Patel, et al., No evidence of severe acute
+respiratory syndrome-coronavirus 2 in semen of males recovering from
+coronavirus disease 2019, Fertil. Steril. 113 (6) (2020) 1135–1139, https://doi.
+org/10.1016/j.fertnstert.2020.04.024.
+[82] I. Kyrou, E. Karteris, T. Robbins, K. Chatha, F. Drenos, Hs. Randeva, Polycystic
+ovary syndrome (PCOS) and COVID-19: an overlooked female patient population
+at potentially higher risk during the COVID-19 pandemic, BMC Med. 18 (1) (2020)
+220, https://doi.org/10.1186/s12916-020-01697-5.
+[83] R. Desailloud, D. Hober, Viruses and thyroiditis: an update, Virol. J. 6 (2009) 5,
+https://doi.org/10.1186/1743-422X-6-5.
+[84] A. Brancatella, D. Ricci, N. Viola, D. Sgrò, F. Santini, Latrofa F. Subacute thyroiditis
+after Sars-COV-2 infection, J. Clin. Endocrinol. Metab. 105 (7) (2020) dgaa276,
+https://doi.org/10.1210/clinem/dgaa276.
+[85] L. Wei, S. Sun, C.H. Xu, J. Zhang, Y. Xu, H. Zhu, et al., Pathology of the thyroid in
+severe acute respiratory syndrome, Hum. Pathol. 38 (1) (2007) 95–102, https://
+doi.org/10.1016/j.humpath.2006.06.011.
+[86] M.M. Aloysius, A. Thatti, A. Gupta, N. Sharma, P. Bansal, H. Goyal, COVID-19
+presenting as acute pancreatitis, Pancreatology 20 (5) (2020) 1026–1027, https://
+doi.org/10.1016/j.pan.2020.05.003.
+[87] A. Brufsky, Hyperglycemia, hydroxychloroquine, and the COVID-19 epidemic,
+J. Med. Virol. 92 (7) (2020) 770–775, https://doi.org/10.1002/jmv.25887.
+[88] A. Wang, W. Zhao, Z. Xu, J. Gu, Timely blood glucose management for the
+outbreak of 2019 novel coronavirus disease (COVID-19) is urgently needed,
+Diabetes Res. Clin. Pract. 162 (2020), 108118, https://doi.org/10.1016/j.
+diabres.2020.108118.
+[89] J.K. Yang, S.S. Lin, X.J. Ji, L.M. Guo, Binding of SARS coronavirus to its receptor
+damages islets and causes acute diabetes, Acta Diabetol. 47 (3) (2010) 193–199,
+https://doi.org/10.1007/s00592-009-0109-4.
+[90] D.A. Schwartz, The origins and emergence of Zika virus, the newest TORCH
+infection: what’s old is new again, Arch. Pathol. Lab. Med. 141 (1) (2017) 18–25,
+https://doi.org/10.5858/arpa.2016-0429-ED.
+[91] D.A. Schwartz, A.L. Graham, Potential maternal and infant outcomes from
+Coronavirus 2019-nCoV (SARS-CoV-2) infecting pregnant women: lessons from
+SARS, MERS, and other human coronavirus infections, Viruses 12 (2) (2020) 194,
+https://doi.org/10.3390/v12020194.
+[92] H. Zhu, L. Wang, C. Fang, S. Peng, L. Zhang, G. Chang, et al., Clinical analysis of 10
+neonates born to mothers with 2019-nCoV pneumonia, Transl. Pediatr. 9 (1)
+(2020) 51–60, https://doi.org/10.21037/tp.2020.02.06.
+[93] X. Wang, Z. Zhou, J. Zhang, F. Zhu, Y. Tang, X. Shen, A case of 2019 novel
+coronavirus in a pregnant woman with preterm delivery, Clin. Infect. Dis. 71 (15)
+(2020) 844–846, https://doi.org/10.1093/cid/ciaa200.
+[94] L. Zhang, Y. Jiang, M. Wei, Z. Fu, C. Ke, Z. Zhi, et al., Zhonghua Fu Chan Ke Za Zhi
+Z. 55 (3) (2020) 166–171, https://doi.org/10.3760/cma.j.cn112141-2020021800111.
+[95] H. Chen, J. Guo, C. Wang, F. Luo, X. Yu, P.W. Zhang, et al., Clinical characteristics
+and intrauterine vertical transmission potential of COVID-19 infection in nine
+pregnant women: a retrospective review of medical records, Lancet 395 (10226)
+(2020) 809–815, https://doi.org/10.1016/S0140-6736(20)30360-3.
+
+[61] F. Xiao, M. Tang, X. Zheng, Y. Liu, X. Li, H. Shan, Evidence for gastrointestinal
+infection of SARS-CoV-2, Gastroenterology 158 (6) (2020), https://doi.org/
+10.1053/j.gastro.2020.02.055, 1831-1833.e3.
+[62] Q. Liu, R.S. Wang, G.Q. Qu, Y.Y. Wang, P. Liu, Y.Z. Zhu, et al., Gross examination
+report of a COVID-19 death autopsy, Fa Yi Xue Za Zhi 36 (1) (2020) 21–23, https://
+doi.org/10.12116/j.issn.1004-5619.2020.01.005. English, Chinese.
+[63] A. Carvalho, R. Alqusairi, A. Adams, M. Paul, N. Kothary, S. Peters, et al., SARSCoV-2 gastrointestinal infection causing hemorrhagic colitis: implications for
+detection and transmission of COVID-19 disease, Am. J. Gastroenterol. 115 (6)
+(2020) 942–946, https://doi.org/10.14309/ajg.0000000000000667.
+[64] B. De Broff, COVID-19: ocular manifestations, ocular secretions, and ocular portal
+of entry, Adv. Ophthalmol. Vis. Syst. 10 (2) (2020) 48–49, https://doi.org/
+10.15406/aovs.2020.10.00382.
+[65] D. Ma, C. Chen, V. Jhanji, C. Xu, X.L. Yuan, J.J. Liang, et al., Expression of SARSCoV-2 receptor ACE2 and TMPRSS2 in human primary conjunctival and pterygium
+cell lines and in mouse cornea, Eye 34 (2020) 1212–1219, https://doi.org/
+10.1038/s41433-020-0939-4.
+[66] L. van der Hoek, K. Pyrc, M.F. Jebbink, W. Vermeulen-Oost, R.J. Berkhout, K.
+C. Wolthers, et al., Identification of a new human coronavirus, Nat. Med. 10 (2004)
+368–373, https://doi.org/10.1038/nm1024.
+[67] M.J. Doherty, Ocular manifestations of feline infectious peritonitis, J. Am. Vet.
+Med. Assoc. 159 (1971) 417–424. PMID: 5107089.
+[68] F. Colavita, D. Lapa, F. Carletti, E. Lalle, L. Bordi, P. Marsella, et al., SARS-CoV-2
+isolation from ocular secretions of a patient with COVID-19 in Italy with prolonged
+viral RNA, Ann. Intern. Med. 173 (2020) 242–243, https://doi.org/10.7326/M201176.
+[69] S.Z. Scalinci, E. Trovato Battagliola, Conjunctivitis can be the only presenting sign
+and symptom of COVID-19, IDCases 20 (2020), e00774, https://doi.org/10.1016/
+j.idcr.2020.e00774.
+[70] P. Wu, F. Duan, C. Luo, Q. Liu, X. Qu, L. Liang, et al., Characteristics of ocular
+findings of patients with coronavirus disease 2019 (COVID-19) in Hubei Province,
+China, JAMA Ophthalmol. 138 (5) (2020) 575–578, https://doi.org/10.1001/
+jamaophthalmol.2020.1291.
+[71] J. Xia, J. Tong, M. Liu, Y. Shen, D. Guo, Evaluation of coronavirus in tears and
+conjunctival secretions of patients with SARS-CoV-2 infection, J. Med. Virol. 92 (6)
+(2020) 589–594, https://doi.org/10.1002/jmv.25725.
+[72] V. Navel, F. Chiambaretta, F. Dutheil, Haemorrhagic conjunctivitis with
+pseudomembranous related to SARS-CoV-2, Am. J. Ophthalmol. Case Rep. 19
+(2020), 100735, https://doi.org/10.1016/j.ajoc.2020.100735.
+[73] J. Xia, J. Tong, M. Liu, Y. Shen, D. Guo, Evaluation of coronavirus in tears and
+conjunctival secretions of patients with SARS-CoV-2 infection, J. Med. Virol. 92 (6)
+(2020) 589–594, https://doi.org/10.1002/jmv.25725.
+[74] X. Sun, X. Zhang, X. Chen, D. Chaohua, Z. Xiaojing, L. Weiyong, et al., The infection
+evidence of SARS-COV-2 in ocular surface: a single-center cross-sectional study,
+medRxiv. (2020), https://doi.org/10.1101/2020.02.26.20027938.
+[75] H. Qing, Z. Li, Z. Yang, M. Shi, Z. Huang, J. Song, et al., The possibility of COVID19 transmission from eye to nose, Acta Ophthalmol. (Copenh) 98 (3) (2020) e388,
+https://doi.org/10.1111/aos.14412.
+[76] I. Seah, R. Agrawal, Can the coronavirus disease 2019 (COVID-19) affect the eyes?
+A review of coronaviruses and ocular implications in humans and animals, Ocul.
+Immunol. Inflamm. 28 (3) (2020) 391–395, https://doi.org/10.1080/
+09273948.2020.1738501.
+[77] F. Liu, X. Long, B. Zhang, W. Zhang, X. Chen, Z. Zhang, ACE2 expression in
+pancreas may cause pancreatic damage after SARS-CoV-2 infection, Clin.
+Gastroenterol. Hepatol. 18 (9) (2020), https://doi.org/10.1016/j.
+cgh.2020.04.040, 2128-2130.e2.
+
+15
+
+

@@ -1,0 +1,754 @@
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 102817
+
+Contents lists available at ScienceDirect
+
+American Journal of Otolaryngology–Head and Neck
+Medicine and Surgery
+journal homepage: www.elsevier.com/locate/amjoto
+
+Meniere’s disease: Medical management, rationale for vestibular
+preservation and suggested protocol in medical failure
+Laura H. Christopher a, *, Eric P. Wilkinson b, 1
+a
+b
+
+Division of Neurotology, House Ear Clinic, United States of America
+House Ear Clinic, House Institute Foundation, United States of America
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Meniere’s disease
+Intratympanic steroid
+Intratympanic gentamicin
+Endolymphatic hydrops
+Vestibular migraine
+Treatment of Meniere’s disease
+Endolymphatic sac shunt
+
+Meniere’s disease is a peripheral audiovestibular disorder characterized by vertigo, hearing loss, tinnitus, and
+aural fullness. Management of these symptoms includes medical and surgical treatment. Many patients with
+Meniere’s disease can be managed using nonablative therapy, such as intratympanic steroids and endolymphatic
+shunt surgery, prior to ablative techniques such as intratympanic gentamicin. Recognition of concurrent
+migraine symptoms may aid in medical therapy and also underscore the importance of preserving vestibular
+function where possible. The goal of this review is to explain the importance of nonablative therapy options and
+discuss treatment protocols after medical failure.
+
+Meniere’s disease is an idiopathic peripheral audiovestibular disor­
+der characterized by episodic vertigo, unilateral fluctuating hearing loss,
+tinnitus, and aural fullness. In 1861, Prosper Meniere noted that
+symptoms of vertigo and hearing loss may be attributable to an inner ear
+disorder [1]. Meniere’s disease (MD) affects approximately 50–200 per
+100,000 adults [2]. An approximately 2:1 female gender predilection
+exists, and onset of symptoms is typically during ages 40 through 60
+years [3].
+The American Academy of Otolaryngology—Head and Neck Surgery
+(AAO-HNS) has created strict diagnostic criteria to facilitate diagnosis
+and management of MD. No definitive test for MD exists, therefore
+criteria for diagnosis involve categories based on symptoms. Definite
+MD, as defined by AAO-HNS includes two or more episodes of vertigo,
+each lasting 20 min to 12 h, audiometrically confirmed low frequency
+sensorineural hearing loss associated with vertigo, and fluctuating aural
+symptoms in the affected ear [5]. Typical aural symptoms unilateral
+tinnitus, subjective hearing loss, and aural fullness. The final criterion
+for “definite MD” is to exclude other causes of these symptoms. It is
+important to distinguish MD from other common causes of vertigo which
+may also present with hearing loss, tinnitus, or aural fullness, such as
+autoimmune inner ear disease, vestibular migraine, vestibular schwan­
+noma, otosyphilis, vestibular neuritis, and acute labyrinthitis.
+Meniere’s disease is a clinical diagnosis with significant variation in
+presentation [6]. Patients tend to have attacks that are random and may
+
+have periods of remission lasting months to years. Therefore, an accu­
+rate diagnosis may take months, even in ideal circumstances with an
+experienced neurotologist [6].
+The pathophysiology of Meniere’s disease is not well understood,
+and several theories have been proposed over the years to explain the
+classic symptoms. The most long-standing and well accepted etiology is
+endolymphatic hydrops (ELH), a term used to describe an increase in
+endolymph within the membranous labyrinth resulting in episodic inner
+ear symptoms. In Schuknecht’s rupture theory, the endolymph space
+becomes distended and eventually ruptures Reissner’s membrane.
+Cochlear hair cells and the audiovestibular nerve are then exposed to
+toxic, potassium rich endolymph, responsible for episodic spinning
+vertigo and changes in hearing [7,8]. Additional mechanisms suggested
+to cause hydrops involve excess endolymph production, decreased
+endolymph resorption, altered secretions of the endolymphatic sac, and
+altered immune function of the endolymphatic sac [1].
+Regardless of the mechanism, endolymphatic hydrops is the ultimate
+result and has been pathologically confirmed [9]. The hallmark of
+endolymphatic hydrops seems to be present in all patients with MD, but
+not all patients with ELH have MD [10]. Histopathology records from
+Massachusetts Eye and Ear Infirmary show that many patients with ELH
+have secondary hydrops, or hydrops associated with diseases other than
+MD. These results suggest that “ELH may be necessary but not sufficient
+for MD development” [5].
+
+* Corresponding author at: House Ear Clinic, 2100 West Third Street, Los Angeles, CA 90057, United States of America.
+E-mail addresses: lchristopher@houseclinic.com (L.H. Christopher), ewilkinson@houseclinic.com (E.P. Wilkinson).
+1
+House Ear Clinic, 2100 West Third Street, Los Angeles, CA 90057.
+https://doi.org/10.1016/j.amjoto.2020.102817
+Received 24 August 2020;
+Available online 2 November 2020
+0196-0709/© 2020 Published by Elsevier Inc.
+
+L.H. Christopher and E.P. Wilkinson
+
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 102817
+
+Although the clinical presentation of MD is variable, true “spinning”
+vertigo is a necessary criterion for diagnosis [5]. Patients may use the
+word “dizziness” to describe vertigo, lightheadedness, disequilibrium, or
+balance problems in general. This is particularly relevant in elderly
+patients, with multiple medical comorbidities. Determining whether the
+patient is experiencing the false sense of self movement or movement of
+his or her surroundings is critical to diagnosing MD [11].
+The natural course of MD is variable and unpredictable. Typically,
+MD presents with sudden attacks of vertigo, unilateral hearing loss,
+tinnitus, and aural fullness [1]. Vertigo is often severe, with associated
+nausea and vomiting, lasting for hours. Frequency of attacks may range
+from 6 to 11 attacks per year [6]. These attacks may increase in number
+for several years and then gradually decline over time. Periods of
+remission may last months to years, with recurrences occurring even 20
+years following diagnosis [12]. The usual course of MD is gradual
+decline and eventual cessation of vertiginous attacks. Green et al. re­
+ported absence of vertigo in 54% and decrease in vertigo in 30% of 108
+patients with MD followed for 9 years [13].
+Hearing loss in MD tends to mimic the course of vertigo, in that
+hearing worsens over time with eventual “burn out”. Low frequency
+sensorineural hearing loss is typical in the early disease stages, with
+eventual high frequency SNHL over time. Hearing loss is usually uni­
+lateral and fluctuating and progressively worsens to a flat loss of over 50
+dB [14]. A 20-year longitudinal study reported moderate to severe
+hearing loss in 82% of MD patients over time [14].
+The differential diagnosis for patients presenting with vertigo in
+addition to hearing loss, aural fullness, and tinnitus includes autoim­
+mune ear disease, otosyphilis, perilymphatic fistula, vestibular
+schwannoma, endolymphatic sac tumors, end stage otosclerosis, and
+labyrinthitis. For many patients, response to treatment may be needed to
+confirm the diagnosis. For these reasons, delay in diagnosis is common.
+A Finnish study reported a diagnostic delay of greater than or equal to
+five years in 20% of patients with MD [15].
+The relationship between vestibular migraine (VM) and MD is
+important to note, particularly relevant in patients that do not present
+with hearing loss. There is significant overlap in the clinical features of
+VM and MD, and these diseases may occur concurrently, with some
+studies estimating a 35% rate of VM in MD patients [16]. Although the
+precise pathophysiology involved between these entities is unknown,
+some suggest that the inner ear pathology related to MD may trigger
+migraines. This “neural triggering” may exacerbate migraine symptoms
+in patients with concurrent MD and VM. The recently published AAOHNS Clinical Practice Guidelines highlight this overlap and recom­
+mend that clinicians determine if patients meet diagnostic criteria for
+vestibular migraine when assessing for Meniere’s disease.
+Treatment of patients with concurrent VM and MD is complex, in
+that avoidance of destructive or ablative therapy is important. There­
+fore, effective long-term treatment using nondestructive therapy is ideal.
+Endolymphatic sac surgery along with dietary and medical management
+of migraine symptoms are the treatments of choice in these patients.
+Migraine patients may also be more prone to cervicogenic dizziness, in
+which neck movements or muscle tension may precipitate symptoms.
+These symptoms are related to the vestibulocollic reflex, which causes
+neck movement in response to head movement sensed by the vestibular
+system via the medial vestibulospinal tract. The pathophysiology
+involved is beyond the scope of this paper, but manual neck physical
+therapy may be a useful additional treatment for these symptoms, if
+present.
+Medical management of vestibular migraine is complex and includes
+abortive and preventative therapy. Treatment of acute symptoms in VM
+includes antinausea medications and short-term vestibular suppressants.
+In patients with concurrent MD and VM, treatment is most often focused
+on managing chronic symptoms using preventative medications. Diet
+modifications similar to those of MD have been recommended, including
+limiting caffeine intake. Supplementation with B2, Magnesium glyci­
+nate, and Coenzyme Q have shown some benefit in patients with
+
+migraine [17]. The majority of medications for prevention of vestibular
+migraine are those used for migraine headache and include the
+following: beta blockers, topiramate, calcium channel blockers, tricyclic
+antidepressants (amitriptyline, nortriptyline), selective serotonin reup­
+take inhibitors, serotonin-norepinephrine reuptake inhibitors (ven­
+lafaxine), and benzodiazepines [18]. In a 2015 prospective, randomized,
+controlled clinical trial, venlafaxine and propranolol were both effective
+in reducing vestibular symptoms for VM patients. Venlafaxine provided
+additional anti-depressant benefits [19].
+Botox is an additional option for VM patients. Botox and topiramate
+are the current available chronic migraine treatments with more than
+one high quality randomized controlled trial supporting their use [20].
+Recent literature suggests that topiramate may be particularly beneficial
+for patients with concurrent VM and MD. A recent retrospective review
+from UC Irvine showed improvement in low frequency sensorineural
+hearing loss in patients receiving adjuvant migraine medication, spe­
+cifically nortriptyline and topiramate, in addition to oral and trans­
+tympanic steroids, compared to those receiving only oral and
+transtympanic steroids [21]. The hearing improvement seen with the
+addition of topiramate may be explained by the medication’s ability to
+lower intracranial pressure. In vivo studies using rats demonstrated a
+significant reduction of intracranial pressure following both subcu­
+taneous and oral administration of topiramate [22].
+Calcitonin gene related peptide (CGRP) is a neuropeptide expressed
+in trigeminal neurons and involved in pain perception. Much of the
+current migraine literature is focusing on CGRP and its role in migraine.
+CGRP receptor antagonists and anti-CGRP monoclonal antibodies have
+emerged as new and effective treatment options for chronic migraine
+[20]. Although its role in vestibular migraine is unclear, recent studies
+suggest that targeting CGRP may change the paradigm for migraine
+treatment.
+Treatment of Meniere’s disease is complex and involves both medical
+and surgical management and destructive and nondestructive options. A
+wide variety of treatment options exist, partially due to the lack of un­
+derstanding regarding the pathophysiology of MD and the multiple
+proposed etiologies. Additionally, randomized controlled trials to study
+treatment options are difficulty to carry out because of the fluctuating
+nature of the disease and subjective symptoms. Therefore, anecdotal
+evidence and opinion are used to guide management of MD.
+The goals of treatment are to reduce the severity and frequency of
+vertigo attacks, preserve hearing, alleviate aural fullness and tinnitus,
+and improve quality of life. The episodic and unpredictable nature of the
+disease complicates treatment, due to the difficulty of distinguishing
+asymptomatic periods of the disease versus treatment benefit.
+The purpose of this paper is to highlight the advantages of nonde­
+structive treatment options such as medical management, intratympanic
+dexamethasone, and endolymphatic shunt surgery prior to the ablative
+measures including intratympanic gentamicin and labyrinthectomy.
+Many patients improve using these less invasive measures and are able
+to avoid potentially morbid treatment options and sacrifice of hearing.
+Medical management includes treatment of acute attacks and pro­
+phylaxis. Acute attacks are managed using central vestibular suppres­
+sants [23]. These medications include first generation antihistamines,
+benzodiazepines, and anticholinergics, which work through different
+pathways to alleviate vertigo and nausea. Commonly used first gener­
+ation antihistamines include meclizine, dimenhydrinate, and diphen­
+hydramine. Promethazine is a commonly used phenothiazine with
+antihistamine properties. Scopolamine is an anticholinergic that is
+commonly prescribed in its transdermal form. The AAO-HNS recom­
+mends the use of any of the above-mentioned vestibular suppressants,
+citing similar efficacies [24,25]. Physician and patient preference tend
+to guide which medication is prescribed. These medications are used
+only for acute attacks, as chronic use may prevent vestibular
+compensation.
+Prophylactic treatment for MD focuses on lifestyle modifications and
+management of potential triggers prior to medication use. Limiting salt,
+2
+
+L.H. Christopher and E.P. Wilkinson
+
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 102817
+
+caffeine, and alcohol is recommended, as these may be triggers for at­
+tacks. Salt intake is thought to affect the endolymph fluid in the inner
+ear, and the recommendations for a sodium-restriction diet are based on
+the American Heart Association’s work [26]. Additional triggers include
+stress and allergy. Studies have shown that stress hormones in the
+endolymphatic sac are increased in MD patients, and stress reduction
+techniques have shown to improve symptoms [27–29]. Stress reduction,
+well balanced, regular meals, and allergy management are all recom­
+mended for control of symptoms. Observational studies have shown
+improvement in symptoms of vertigo and dizziness with salt and caffeine
+restrictions [30]. Additionally, most patients are willing and able to try
+these methods prior to medication or surgery [30]. Although there are
+no randomized controlled trials to support their use, these dietary/
+lifestyle modifications have been advocated for decades and improve
+symptoms in many patients.
+Oral pharmacotherapy is used for maintenance therapy in patients in
+whom diet and lifestyle changes do not control symptoms. As stated
+previously, the ultimate result of endolymphatic hydrops may be caused
+by multiple etiologies, including viral infection, ion imbalance, diet,
+autoimmune factors, vascular abnormalities, and allergy [31–33]. Di­
+uretics and betahistine, the most commonly recommended medications
+for MD, target these etiologies. Through different mechanisms of ac­
+tions, diuretics are thought to affect the electrolyte balance of the
+endolymph in the inner ear and thereby reduce the amount of endo­
+lymph. Thiazide diuretics, with or without a potassium sparing diuretic,
+and the carbonic anhydrase inhibitor acetazolamide (Diamox) are the
+most commonly prescribed diuretics for MD [23]. Studies have shown
+improvement in vertigo symptoms with diuretic use [34].
+Betahistine is an additional oral pharmacotherapy option used for
+MD. It is a histamine analogue thought to cause increased vasodilation
+to the inner ear. Since its exact mechanism of action is unclear, there is
+no Food and Drug Administration (FDA) approval for its use in MD.
+However, this drug has been used worldwide for peripheral vertigo
+treatment for many years. Conflicting evidence exists regarding its effect
+on vertigo in clinical trials. A 2016 Cochrane found that 60% of patients
+had an improvement in vertigo after taking betahistine compared to
+placebo [35]. However, a recent double-blind RCT (BEMED trial) did not
+show a change in the number of vertigo attacks in MD patients compared
+to placebo [36]. The MD Clinical Practice Guidelines recommend
+betahistine as an “option” for maintenance therapy to reduce symptoms
+or prevent attacks [5].
+At the House Ear Clinic, betahistine has been offered to MD patients
+for around 10 years with good results. Betahistine is not approved by the
+FDA in the United States. As such, it can be difficult to obtain for patient
+use. The reader is referred to the discussion on Dr. Timothy Hain’s web
+page regarding legal issues and availability of this drug: http://www.
+dizziness-and-balance.com/treatment/drug/SERC%20sources.htm and
+http://www.dizziness-and-balance.com/treatment/drug/serc.html.
+Compounding pharmacies may be able to supply betahistine in certain
+situations. Physicians seeking to counsel their patients on the use of
+Betahistine should refer to local and federal laws regarding supplements
+and medications that are not FDA approved and also have informed
+consent discussions with their patients regarding the advantages and
+disadvantages of using non-FDA approved therapies.
+For many, diet and lifestyle modifications in addition to betahistine
+offer long term control of symptoms. Side effects are minor and include
+headache, nausea, and upper gastrointestinal symptoms [35]. At the
+House Ear Clinic, we have found that most patients tolerate this medi­
+cation quite well with symptom relief.
+Additional prophylactic treatments include allergy treatment, im­
+munosuppressants, migraine treatment, antivirals, oral steroids, and low
+dose benzodiazepines. Significant crossover exists between allergy,
+migraine, and MD. Some suggest that allergy may, in fact, be the link
+between MD and migraine [37]. Limited data exists regarding the effi­
+cacy of oral steroids and MD, but some studies show improvement in
+vertigo symptoms [38]. At the House Ear Clinic, prednisone tapers are
+
+used frequently for symptoms of increased vertigo or significant changes
+in hearing. Most patients tolerate this medication well and show
+improvement in vertigo and hearing. Additionally, low dose benzodi­
+azepines have been used at our institution for symptom control. The low
+dose prescribed tends to minimize the side effects such as sedation and
+provides relief from vertigo.
+In summary, there are many oral pharmacotherapy options available
+for MD patients to control symptoms. Of note, trial of the abovementioned medication options for several months may be necessary to
+show effect. Strict adherence to a low salt, low caffeine diet in addition
+to the prescribed medication is needed in order determine whether pa­
+tients will benefit. At the House Ear Clinic, many patients are able to find
+a regimen that controls symptoms.
+For some patients, however, attacks of vertigo are not controlled
+with these medications used as maintenance therapy. In patients
+without symptom control using noninvasive techniques who have
+serviceable hearing, the next step is intratympanic dexamethasone. The
+mechanism of action is thought to involve anti-inflammatory effects and
+ion homeostasis [39]. The AAO-HNS clinical practice guidelines for MD
+offer intratympanic (IT) steroid therapy as an “option” for patients with
+active MD not responsive to noninvasive techniques. Randomized con­
+trol trials and systematic reviews have shown improvement in vertigo,
+tinnitus, hearing, and aural fullness with intratympanic steroids [40,41].
+Other studies have shown lack of statistically significant changes in
+vertigo rates [42].
+The AAO-HNS Clinical Practice Guidelines note that IT steroid
+therapy provides less control of vertigo than intratympanic gentamicin
+(43–90% of patients versus 70–87% of patients, respectively) [43–46].
+The guidelines go on to state that “IT gentamicin therapy may provide
+superior vertigo control in patients with severe or recurrent vertigo or
+advanced MD.” This is intuitive, as gentamicin is vestibulotoxic, and IT
+gentamicin may be considered a chemical labyrinthectomy. IT genta­
+micin and other ablative techniques such as labyrinthectomies do offer a
+higher likelihood of vertigo control. However, this comes at a cost: the
+sacrifice of hearing. In patients without serviceable hearing, the decision
+to proceed with IT gentamicin prior to IT steroids may be appropriate.
+The low dose transtympanic gentamicin protocol developed by the Mayo
+Clinic recommends injecting approximately 0.75 mL of a 40 mg/mL
+gentamicin solution into the middle ear [47].This dose may be repeated
+at one month for continued symptoms and may be diluted to 20 mg/mL
+in patients older than 65 years. Reported incidences of sensorineural
+hearing loss following transtympanic gentamicin injections vary. Using
+their low dose protocol, the Mayo Clinic results show no major changes
+in hearing [47]. A meta-analysis comparing techniques of intratympanic
+gentamicin administration reported an overall hearing loss rate of 25%
+[48]. Higher rates of hearing loss were seen with multiple daily dosing
+regimens.
+In the large subset of patients with good or serviceable hearing,
+destructive therapies should be avoided until all nondestructive thera­
+pies have been exhausted. Therefore, it is our practice to advocate for
+nonablative techniques prior to ablative or destructive techniques.
+Emphasis is also placed on ruling out concurrent vestibular migraine.
+Specifically, patients should be managed with oral pharmacotherapy, IT
+steroids, or endolymphatic shunt surgery prior to destructive techniques
+such as IT gentamicin.
+The risks associated with IT steroids are minimal and avoid the
+systemic side effects of oral steroids. Tympanic membrane perforation is
+cited as a risk factor, with some studies reporting a nearly 40% risk of
+perforation [49]. In our experience, permanent tympanic membrane
+perforation following IT therapy is rare. Cost, time for treatment, and
+patient discomfort have been cited as additional “risks”. We have found
+that patients tolerate the procedure well. IT steroid treatment is most
+commonly offered for patients with active Meniere’s disease and has a
+relatively quick onset of action. This is particularly desirable for patients
+whose quality of life is poor due to vertigo and additional inner ear
+symptoms. The additional time and cost are far outweighed by the
+3
+
+L.H. Christopher and E.P. Wilkinson
+
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 102817
+
+improvement in symptoms, hearing preservation, and lack of systemic
+side effects.
+IT steroids may be administered multiple times, depending on pa­
+tient symptoms. For some, maintenance therapy using oral medications
+with intermittent IT steroid injections for flareups provides lifelong
+control of symptoms. In patients without a good response to IT steroid
+injections or those desiring a more long-term solution for vertigo con­
+trol, endolymphatic sac surgery is recommended.
+Endolymphatic sac (ELS) surgery has been a controversial subject in
+neurotology for many years, with conflicting evidence in the literature
+regarding its efficacy. Since its initial description in 1927 by Portmann,
+four types of surgical techniques have evolved: endolymphatic sac
+incision, endolymphatic-subarachnoid shunt, endolymphatic-mastoid
+shunt, and endolymphatic sac decompression [50]. William House is
+recognized for his description of the endolymphatic subarachnoid shunt.
+However, the House Clinic now consistently performs the
+endolymphatic-mastoid shunt using silastic sheeting, with a reduced risk
+for intracranial complications and hearing decline.
+The Danish Sham Study, published by Thomsen et al. in 1981,
+sparked controversy regarding the efficacy of ELS surgery, reporting no
+difference in vertigo control when comparing ELS surgery to “placebo”
+mastoidectomy [51]. Critics, including Pillsbury, Welling, and Nagaraja,
+reviewed the data and reported statistically significant improvement in
+vertigo with ELST surgery [2,52]. A review of the current literature
+supports that 80–90% of MD patients have vertigo control for 2 years
+after surgery, decreasing to approximately 60% at 5 years [53–55].
+Hearing is preserved, with a less than 2% incidence of total SNHL, based
+on the recent AAO-HNS Clinical Practice Guidelines [5].
+In response to the controversy surrounding the efficacy of ELS sur­
+gery and the recent emphasis in the medical community regarding cost
+effective treatment options, Pensak et al. reported a five-year control
+rate for vertigo of 68–92% in patients undergoing ELS surgery [56]. A
+follow up study in 2008 demonstrated a 78% control rate of vertigo
+using ELS surgery, emphasizing the surgery’s long-term efficacy using
+evidence-based results in contrast to transtympanic steroids’ unknown
+long-term results [57]. Convert et al. studied long term quality of life
+results after undergoing endolymphatic sac decompression for MD.
+Using a 40 item MD Outcome Questionnaire, the authors reported a 71%
+control rate for vertigo at 2 years following surgery. Additionally,
+hearing was improved or stable at three months after surgery [58].
+Despite these results, the recently released AAO-HNS Clinical Prac­
+tice Guidelines do not make a recommendation for or against ELS sur­
+gery for MD. At the House Ear Clinic, ELS surgery is routinely offered to
+patients with good hearing and uncontrolled symptoms despite maximal
+medical management. This procedure offers an additional long-term
+treatment option prior to destructive management. The surgery is a
+low risk procedure, and elderly patients tolerate the procedure well
+[59]. We have found that most patients opt for ELS surgery prior to
+undergoing any kind of destructive treatment, highlighting the value
+placed on hearing preservation by patients. Revision ELS surgery may
+also be provided, with significant improvement in vertigo control in
+76–95% of patients [60,61]. ELS surgery is particularly important in
+patients with bilateral disease at risk of bilateral hearing loss.
+Attempting to treat unilateral MD without ablative therapy may avoid
+the complex treatment situation of an only hearing ear in the future. The
+literature suggests that ELS surgery may limit the need for destructive
+treatment to approximately 2% in some estimates [2].
+Delayed endolymphatic hydrops is defined by new onset of MD
+symptoms following a previous unilateral severe hearing loss and is a
+form of bilateral Meniere’s disease [1]. A longitudinal follow up study of
+Meniere’s patients estimated up to a 45% incidence of bilateral MD [13].
+Results showed that a larger percentage of patients with bilateral MD
+continued to require medical treatment at 14 year follow up, compared
+to patients with unilateral MD [13]. A 2006 retrospective review at our
+institution found a 25% prevalence of bilateral involvement [62].
+Contralateral ear involvement may occur up to decades after unilateral
+
+MD, therefore, long term follow up for MD patients is imperative [62].
+Bilateral vestibular loss may occur in patients with bilateral MD. The
+bilateral vestibular loss in these patients may be present with symptoms
+of imbalance, as opposed to spinning vertigo [62]. Additionally, these
+patients may have difficulty with oscillopsia, further complicating their
+imbalance. In summary, the decision to proceed with ablative therapy
+for unilateral disease is made complicated by the risk of developing
+contralateral disease.
+Patients may not have immediate results after ELS surgery, however,
+at our institution we recommend waiting two to three months before
+proceeding with any additional changes to therapy or ablative therapy.
+This allows time to assess the efficacy of the ELS surgery. During this
+time, intratympanic steroids may be used for additional symptom con­
+trol. The addition of IT steroids as a “boost” therapy postoperatively is
+not uncommon [54]. Some surgeons may recommend cessation of
+medical therapy (i.e. diuretics and betahistine) post operatively. We
+recommend that patients continue all medications for several months
+following ELS surgery, with a gradual tapering as symptoms improve.
+Again, this allows the ELS surgery time to prove effective.
+Vestibular nerve section (VNS) is considered a hearing preservation
+technique but is a vestibular ablative technique in that the vestibular
+input is destroyed. Patients with contralateral disease are not candidates
+for this procedure. Videonystagmography must be performed in the
+contralateral ear preoperatively to avoid creating bilateral vestibular
+loss, resulting in oscillopsia. Studies have reported vertigo control rates
+from >90% after vestibular nerve section [63–65]. Some surgeons favor
+VNS over ELS surgery. However, VNS carries a higher risk of SNHL as the
+cochlear nerve fibers are sometimes difficult to dissect from the
+vestibular nerve. The surgery is more invasive than ELS surgery and adds
+the risks of a craniotomy. Finally, complete vertigo control may not be
+attained if residual nerve fibers are left intact [66].
+Vestibular nerve sectioning was first described in the early 1900s
+using a suboccipital approach [67]. Since that time, additional ap­
+proaches to VNS have been described, including retrolabyrinthine,
+middle fossa, and combined retrolabyrinthine/retrosigmoid approaches.
+The retrolabyrinthine approach was first described in 1978 by Drs.
+Brackmann and Hitselberger and is the preferred approach at the House
+Clinic today. Benefits of the retrolabyrinthine approach include hearing
+preservation, reduced cerebellar retraction, direct view of the vestibu­
+locochlear and facial nerves, and consistent outcomes for symptom relief
+[67]. One indication for proceeding directly to VNS rather than medical
+management or ELS surgery is drop attacks. Due to the potentially
+morbid risks associated with drop attacks, ablative techniques may be
+indicated [68].
+While the goal of this paper is to emphasize attempting nonde­
+structive therapy in MD, ablative techniques certainly play a role in
+management. Patients with uncontrolled vertigo despite medical man­
+agement, IT steroids, and ELS shunt are candidates for ablative therapy
+(Fig. 1). Destructive therapy options include IT gentamicin and laby­
+rinthectomy. Patients with nonserviceable hearing may be offered these
+options early during management, as these options provide good control
+of symptoms. Prior to initiation of IT gentamicin, particularly in patients
+with class A or B hearing, patients should be tested for a specific mito­
+chondrial mutation which is well known to cause aminoglycoside
+sensitivity, resulting in rapid onset severe to profound hearing loss, even
+with small doses [69]. Saint Francis Health System offers testing for this
+genotype, MT-RNR1, and the resulting mutation, m.1555A > G, using a
+simple blood test (St. Francis Laboratory, St. Louis, MO). This testing is
+particularly important in patients who have any serviceable hearing
+[69].
+Elderly patients with MD are unique in that they may have delayed
+or failed vestibular compensation following ablative therapies [70,71].
+Surgical procedures for ablative therapy and also nonablative therapies,
+such as ELS surgery, may not be possible due to medical comorbidities.
+In these cases, intratympanic gentamicin is the procedure of choice.
+Dilution of gentamicin or titrating the dosage may be useful in the
+4
+
+L.H. Christopher and E.P. Wilkinson
+
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 102817
+
+Fig. 1. Meniere’s disease treatment algorithm.
+
+elderly. Additionally, vestibular rehabilitation therapy in older patients
+may improve their recovery following ablative techniques [71].
+In conclusion, MD patients should be offered nondestructive thera­
+pies before proceeding with IT gentamicin or other destructive tech­
+niques. Many patients are able to be managed using migraine treatment,
+MD oral pharmacotherapy, IT dexamethasone, or ELS surgery. Surgical
+treatment of MD is necessary only in the minority of patients. ELS sur­
+gery is a good nonablative option and is routinely offered to patients at
+our institution prior to vestibular nerve section. The value of these
+treatment options should be emphasized in MD treatment algorithms.
+
+[11] Bisdorff A, Von Brevern M, Lempert T, Newman-Toker DE. Classification of
+vestibular symptoms: towards an international classification of vestibular
+disorders. J Vestib Res 2009;19:1–2–13.
+[12] Havia M, Kentala E, Pyykko I. Prevalence of Meniere’s disease in general
+population of southern Finland. Otolaryngol Head Neck Surg 2005;133(5):762–8.
+[13] Green Jr JD, Blum DJ, Harner SG. Longitudinal followup of patients with Menière’s
+disease. Otolaryngol Head Neck Surg 1991;104(6):783–8.
+[14] Friberg U, Stahle J, Svedberg A. The natural course of Me’nie’re’s disease. Acta
+Otolaryngol Suppl 1984;406:72–7.
+[15] Pyykko I, Nakashima T, Yoshida T, Zou J, Naganawa S. Me’nie’re’s disease: a
+reappraisal supported by a variable latency of symptoms and the MRI visualisation
+of endolymphatic hydrops. BMJ Open 2013;3(2).
+[16] Shin CH, Kim Y, Yoo MH, et al. Management of Me’nie’re’s disease: how does the
+coexistence of vestibular migraine affect outcomes? Otol Neurotol 2019;40(5):
+666–73.
+[17] Gaul C, Diener HC, Danesch U. Migravent® Study Group. Improvement of migraine
+symptoms with a proprietary supplement containing riboflavin, magnesium and
+Q10: a randomized, placebo-controlled, double-blind, multicenter trial.
+J Headache Pain 2015;16:516.
+[18] Bisdorff AR. Management of vestibular migraine. Ther Adv Neurol Disord 2011;4
+(3):183–91.
+[19] Salviz M, Yuce T, Acar H, Karatas A, Acikalin RM. Propranolol and venlafaxine for
+vestibular migraine prophylaxis: a randomized controlled trial. Laryngoscope
+2016;126(1):169–74.
+[20] Agostoni EC, Barbanti P, Calabresi P, et al. Current and emerging evidence-based
+treatment options in chronic migraine: a narrative review. J Headache Pain 2019;
+20(1):92 [Published 2019 Aug 30].
+[21] Abouzari M, Goshtasbi K, Chua JT, et al. Adjuvant migraine medications in the
+treatment of sudden sensorineural hearing loss [published online ahead of print,
+2020 Apr 3]. Laryngoscope 2020. https://doi.org/10.1002/lary.28618 [doi:
+10.1002/lary.28618].
+[22] Scotton WJ, Botfield HF, Westgate CS, et al. Topiramate is more effective than
+acetazolamide at lowering intracranial pressure. Cephalalgia 2019;39(2):209–18.
+https://doi.org/10.1177/0333102418776455.
+[23] Slattery 3rd WH, Fayad JN. Medical treatment of Meniere’s disease. Otolaryngol
+Clin North Am 1997;30(6):1027–37.
+[24] Clissold SP, Heel RC. Transdermal hyoscine (scopolamine): a preliminary review of
+its pharmacodynamic properties and therapeutic efficacy. Drugs 1985;29(3):
+189–207.
+[25] Hahn A, Sejna I, Stefflova B, Schwarz M, Baumann W. A fixed combination of
+cinnarizine/dimenhydrinate for the treatment of patients with acute vertigo due to
+vestibular disorders: a randomized, reference-controlled clinical study. Clin Drug
+Investig 2008;28(2):89–99.
+[26] Cogswell ME, Zhang Z, Carriquiry AL, et al. Sodium and potassium intakes among
+US adults: NHANES 2003–2008. Am J Clin Nutr 2012;96(3):647–57.
+[27] Kitahara T, Doi K, Maekawa C, et al. Meniere’s attacks. Occur in the inner ear with
+excessive vasopressin type-2 receptors. J Neuroendocrinol 2008;20(12):1295–300.
+
+Declaration of competing interest
+None.
+No disclosures.
+This research did not receive any specific grant from funding
+agencies in the public, commercial, or not-for-profit sectors.
+References
+[1] Antonio SM, Friedman R. Meniere’s disease. In: Jackler RK, Brackmann DE, editors.
+Neurotology. Philadelphia: Elsevier; 2005. p. 621–38.
+[2] Packer MD, Welling DB. Surgery of the endolymphatic sac. In: Brackmann DE,
+Shelton C, Arriaga MA, editors. Otologic surgery. Philadelphia: Elsevier; 2016.
+p. 362–76.
+[3] Harris JP, Alexander TH. Current-day prevalence of Meniere’s syndrome. Audiol
+Neurootol 2010;15(5):318–22.
+[5] Basura GJ, Adams ME, Monfared A, et al. Clinical practice guideline: Ménière’s
+disease. Otolaryngol Head Neck Surg 2020;162(2_suppl):S1–55.
+[6] Watanabe Y, Mizukoshi K, Shojaku H, Watanabe I, Hinoki M, Kitahara M.
+Epidemiological and clinical characteristics of Meniere’s disease in Japan. Acta
+Otlaryngol Suppl 1995;519:06–210.
+[7] Schuknecht HF, Gulya AJ. Endolymphatic hydrops: an overview and classification.
+Ann Otol Rhinol Laryngol Suppl 1983;106:1–20.
+[8] Oberman BS, Patel VA, Cureoglu S, Isildak H. The aetiopathologies of Meniere’s
+disease: a contemporary review. Acta Otorhinolaryngol Ital 2017;4:250–63.
+[9] Paparella MM, Djalilian HR. Etiology, pathophysiology of symptoms, and
+pathogenesis of Me’nie’re’s disease. Otolaryngol Clin North Am 2002;35(3):
+529–45.
+[10] Merchant SN, Adams JC, Nadol Jr JB. Pathophysiology of Meniere’s syndrome:
+are symptoms caused by endolymphatic hydrops? Otol Neurotol 2005;26(1):
+74–81.
+
+5
+
+L.H. Christopher and E.P. Wilkinson
+
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 102817
+
+[28] Maekawa C, Kitahara T, Kizawa K, et al. Expression and translocation of aquaporin2 in the endolymphatic sac in patients with Me’nie’re’s disease. J Neuroendocrinol
+2010;22(11):1157–64.
+[29] Yardley L, Kirby S. Evaluation of booklet-based self management of symptoms in
+Me’nie’re disease: a randomized controlled trial. Psychosom Med 2006;68(5):
+762–9.
+[30] Luxford E, Berliner KI, Lee J, Luxford WM. Dietary modification as adjunct
+treatment in Me’nie’re’s disease: patient willingness and ability to comply. Otol
+Neurotol 2013;34(8):1438–43.
+[31] Derebery MJ. The role of allergy in Meniere’s disease. Otolaryngol Clin North Am
+1997;30(6):1007–16.
+[32] Vrabec JT. Herpes simplex virus and Me’nie’re’s disease. Laryngoscope 2003;113
+(9):1431–8.
+[33] Derebery MJ, Rao VS, Siglock TJ, Linthicum FH, Nelson RA. Me’nie’re’s disease: an
+immune complex-mediated illness? Laryngoscope 1991;101(3):225–9.
+[34] Torok N. Old and new in Me’nie’re disease. Laryngoscope 1977;87(11):1870–7.
+[35] Murdin L, Hussain K, Schilder AGM. Betahistine for symptoms of vertigo. Cochrane
+Database Syst Rev 2016;6:CD010696.
+[36] Adrion C, Fischer CS, Wagner J, Gurkov R, Mansmann U, Strupp M. Efficacy and
+safety of betahistine treatment in patients with Me’nie’re’s disease: primary results
+of a long term, multicentre, double blind, randomised, placebo controlled, dose
+defining trial (BEMED trial). BMJ 2016;352:h6816.
+[37] Sen P, Georgalas C, Papesch M. Co-morbidity of migraine and Me’nie’re’s
+disease—is allergy the link? J Laryngol Otol 2005;119(6):455–60.
+[38] Morales-Luckie E, Cornejo-Suarez A, Zaragoza-Contreras MA, Gonzalez-Perez O.
+Oral administration of prednisone to control refractory vertigo in Me’nie’re’s
+disease: a pilot study. Otol Neurotol 2005;26(5):1022–6.
+[39] Shirwany NA, Seidman MD, Tang W. Effect of transtympanic injection of steroids
+on cochlear blood flow, auditory sensitivity, and histology in the guinea pig. Am J
+Otol 1998;19(2):230–5.
+[40] Phillips JS, Westerberg B. Intratympanic steroids for Me’nie’re’s disease or
+syndrome. Cochrane Database Syst Rev 2011;7:CD008514.
+[41] Garduno-Anaya MA, Couthino De Toledo H, Hinojosa-Gonzalez R, Pane-Pianese C,
+Rios-Castaneda LC. Dexamethasone inner ear perfusion by intratympanic injection
+in unilateral Me’nie’re’s disease: a two-year prospective, placebo controlled,
+double-blind, randomized trial. Otolaryngol Head Neck Surg 2005;133(2):285–94.
+[42] Lambert PR, Carey J, Mikulec AA, LeBel C. Intratympanic sustained-exposure
+dexamethasone thermosensitive gel for symptoms of Me’nie’re’s disease:
+randomized phase 2b safety and efficacy trial. Otol Neurotol 2016;37(10):
+1669–76.
+[43] Casani AP, Piaggi P, Cerchiai N, Seccia V, Franceschini SS, Dallan I. Intratympanic
+treatment of intractable unilateral Meniere disease: gentamicin or dexamethasone?
+A randomized controlled trial. Otolaryngol Head Neck Surg 2012;146(3):430–7.
+[44] ElBeltagy Y, Shafik A, Mahmoud A, Hazaa N. Intratympanic injection in
+Me’nie’re’s disease; symptomatic and audiovestibular; comparative, prospective
+randomized 1-year control study. Egypt J Otolaryngol 2012;28(3):171–83.
+[45] Patel M, Agarwal K, Arshad Q, et al. Intratympanic methylprednisolone versus
+gentamicin in patients with unilateral Me’nie’re’s disease: a randomised, doubleblind, comparative effectiveness trial. Lancet 2016;388(10061):2753–62.
+[46] Sarafraz M, Saki N, Nikakhlagh S, Mashali L, Arad A. Comparison the efficacy of
+intratympanic injections of methylprednisolone and gentamicin to control vertigo
+in unilateral Me’nie’re’s disease. Biomed Pharmacol J 2015;8:705–9.
+[47] Harner SG, Kasperbauer JL, Facer GW, Beatty CW. Transtymp.
+[48] Chia SH, Gamst AC, Anderson JP, Harris JP. Intratympanic gentamicin therapy for
+Ménière’s disease: a meta-analysis. Otol Neurotol 2004;25(4):544–52. https://doi.
+org/10.1097/00129492-200407000-00023.
+[49] Lambert PR, Nguyen S, Maxwell KS, et al. A randomized, double-blind, placebocontrolled clinical study to assess safety and clinical activity of OTO-104 given as a
+
+[50]
+[51]
+[52]
+[53]
+[54]
+[55]
+[56]
+[57]
+[58]
+
+[59]
+[60]
+[61]
+[62]
+[63]
+[64]
+[65]
+[66]
+[67]
+[68]
+[69]
+[70]
+[71]
+
+6
+
+single intratympanic injection in patients with unilateral Me’nie’re’s disease. Otol
+Neurotol 2012;33(7):1257–65.
+Portmann G. The saccus endolymphaticus and an operation for draining for the
+relief of vertigo. Proc R Soc Med 1927;20(12):1862–7.
+Thomsen J, Bretlau P, Tos M, Johnsen NJ. Placebo effect in surgery for Ménière’s
+disease. A double-blind, placebo-controlled study on endolymphatic sac shunt
+surgery. Arch Otolaryngol 1981;107(5):271–7.
+Welling DB, Nagaraja HN. Endolymphatic mastoid shunt: a reevaluation of
+efficacy. Otolaryngol Head Neck Surg 2000;122(3):340–5.
+Brackmann DE, Nissen RL. Meniere’s disease: results of treatment with the
+endolymphatic subarachnoid shunt compared with the endolymphatic mastoid
+shunt. Am J Otol 1987;8(4):275–82.
+Brinson GM, Chen DA, Arriaga MA. Endolymphatic mastoid shunt versus
+endolymphatic sac decompression for Meniere’s disease. Otolaryngol Head Neck
+Surg 2007;136(3):415–21.
+Telischi FF, Luxford WM. Long-term efficacy of endolymphatic sac surgery for
+vertigo in Me’nie’re’s disease. Otolaryngol Head Neck Surg 1993;109(1):83–7.
+Pensak ML, Friedman RA. The role of endolymphatic mastoid shunt surgery in the
+managed care era. Am J Otol 1998;19(3):337–40.
+Lee L, Pensak ML. Contemporary role of endolymphatic mastoid shunt surgery in
+the era of transtympanic perfusion strategies. Ann Otol Rhinol Laryngol 2008;117
+(12):871–5. https://doi.org/10.1177/000348940811701201.
+Convert C, Franco-Vidal V, Bebear JP, Darrouzet V. Outcome-based assessment of
+endolymphatic sac decompression for Ménière’s disease using the Ménière’s
+disease outcome questionnaire: a review of 90 patients. Otol Neurotol 2006;27(5):
+687–96.
+Paparella MM, Fina M. Endolymphatic sac enhancement: reversal of pathogenesis.
+Otolaryngol Clin North Am 2002;35(3):621–37.
+Paparella MM. Revision of endolymphatic sac surgery for recurrent Meniere’s
+disease. Otolaryngol Clin North Am 2002;35(3):607–19.
+Schwager K, Baier G, El-Din N, Shehata-Dieler W, Carducci F, Helms J. Revision
+surgery after saccotomy for Meniere’s disease: does it make sense? Eur Arch
+Otorhinolaryngol 2002;259(5):239–42.
+House JW, Doherty JK, Fisher LM, Derebery MJ, Berliner KI. Meniere’s disease:
+prevalence of contralateral ear involvement. Otol Neurotol 2006;27(3):355–61.
+Glasscock 3rd ME, Thedinger BA, Cueva RA, Jackson CG. An analysis of the
+retrolabyrinthine vs. the retrosigmoid vestibular nerve section. Otolaryngol Head
+Neck Surg 1991;104(1):88–95.
+Ortiz Armenta A. Retrolabyrinthine vestibular neurectomy. 10 years’ experience.
+Rev Laryngol Otol Rhinol (Bord) 1992;113(5):413–7.
+Silverstein H, Norrell H, Rosenberg S. The resurrection of vestibular neurectomy: a
+10-year experience with 115 cases. J Neurosurg 1990;72(4):533–9.
+Alarcon AV, Hidalgo LO, Arevalo RJ, Diaz MP. Labyrinthectomy and vestibular
+neurectomy for intractable vertiginous symptoms. Int Arch Otorhinolaryngol 2017;
+21(2):184–90.
+Barnard ZR, Lekovic GP, Wilkinson EP, Peng KA. Vestibular nerve section via
+retrolabyrinthine craniotomy. Oper Tech Otolayngol Head Neck Surg 2019;30(3):
+212–6.
+Nevoux J, Barbara M, Dornhoffer J, Gibson W, Kitahara T, Darrouzet V.
+International consensus (ICON) on treatment of Me’nie’re’s disease. Eur Ann
+Otorhinolaryngol Head Neck Dis 2018;135(1s):S29–s32.
+Dean L. Gentamicin therapy and MT-RNR1 genotype. In: Pratt VM, McLeod HL,
+Rubinstein WS, et al., editors. Medical genetics summaries. Bethesda (MD):
+National Center for Biotechnology Information (US); 2012.
+Blakley BW. Update on intratympanic gentamicin for Meniere’s disease.
+Laryngoscope 2000;110(2 Pt 1):236–40.
+Rosenberg SI. Vestibular surgery for Ménière’s disease in the elderly: a review of
+techniques and indications. Ear Nose Throat J 1999;78(6):443–6.
+
+

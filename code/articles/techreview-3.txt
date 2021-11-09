@@ -1,0 +1,876 @@
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 103141
+
+Contents lists available at ScienceDirect
+
+American Journal of Otolaryngology–Head and Neck
+Medicine and Surgery
+journal homepage: www.elsevier.com/locate/amjoto
+
+Differences in responsiveness of intratympanic steroid injection for
+intractable vertigo in Meniere's disease
+Hiroshi Okuda a, Mitsuhiro Aoki a, b, Bakushi Ogawa a, Hirofumi Shibata a, Natsuko Ueda a,
+Toshimitsu Ohashi a, Hisamitsu Hayashi a, Takezumi Nishihori a, Bunya Kuze a,
+Takenori Ogawa a, *
+a
+b
+
+Department of Otolaryngology, Gifu University School of Medicine, Japan
+Center for Healthcare Information Technology, Tokai National Higher Education and Research System, Japan
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Meniere's disease
+Intratympanic steroids
+Vestibular evoked myogenic potential
+Saccule
+Endolymphatic hydrops
+
+Objectives: The efficacy of intratympanic steroid (ITS) injection for intractable Meniere's disease has been re­
+ported; however, its differences in responsiveness are not fully understood. This study investigated the clinical
+characteristics of patients who responded to ITS injection treatment.
+Methods: This retrospective study included 32 patients with Meniere's disease who were unable to control
+frequent vertigo attacks despite conservative treatment for at least 3 months. They received an intratympanic
+injection of dexamethasone (3.3 mg/mL) in the affected side at least three times. We measured hearing threshold,
+subjective symptom scores, cervical and ocular vestibular evoked myogenic potential (cVEMP and oVEMP), and
+performed glycerol and bithermal caloric tests.
+Results: Satisfactory control of vertigo for 1 year after the first round of injection was found in 18 patients (56.3%;
+the response group). However, the injections failed to control vertigo in the other 14 patients (43.8%; the nonresponse group), and they were then treated with middle ear micropressure therapy. The response group showed
+improvement in low-frequency hearing, whereas hearing acuity did not change in the non-response group.
+Significantly reduced amplitude of cVEMP on the affected side was found in 62.5% of patients in the response
+group; however, no patients in the non-response group showed reduced amplitude of cVEMP.
+Conclusions: ITS injection significantly improved the subjective symptoms for intractable Meniere's disease;
+however, the long-term effects were heterogeneous. Our results suggest that reduced amplitude in cVEMP is
+associated with the effectiveness of ITS injection treatment.
+
+1. Introduction
+Patients with Meniere's disease suffer from frequent vertigo attacks,
+progressive hearing loss, tinnitus, and ear fullness. The common path­
+ological condition is endolymphatic hydrops arising in the cochlea and
+vestibule; however, pathogenesis has not been fully elucidated. It has
+often been proposed that Meniere's disease is an immunoinflammatory
+illness in the endolymphatic sac [1–3]. Initial conservative treatment
+includes improving lifestyle and diet, with drug therapy such as di­
+uretics, antivertigo drugs, or antianxiety drugs. Patients with intractable
+Meniere's disease who fail to control vertigo using conservative treat­
+ment have experienced invasive treatments including surgical
+
+endolymphatic sac drainage, intratympanic injection of gentamicin, and
+vestibular neurectomy [4,5]. Recently, the efficacy of intratympanic
+steroid (ITS) injection for intractable Meniere's disease has been re­
+ported, and it is considered as an option preceding more invasive
+treatment in the clinical practice guideline of the American Academy of
+Otolaryngology–Head and Neck Surgery (AAO-HNS) [6].
+ITS injection is a treatment method whereby steroids are adminis­
+tered via the tympanic cavity. The goal is to reach the inner ear with a
+higher concentration of medication compared with systemic adminis­
+tration [7]. However, the therapeutic mechanism remains unclear. Hy­
+pothetically, an anti-inflammatory action is induced by changing the
+gene expression of the cochlea and vestibule, with action to improve
+
+Abbreviations: ITS, intratympanic steroid; cVEMP, cervical vestibular evoked myogenic potential; oVEMP, ocular vestibular evoked myogenic potential; AAOHNS, American Academy of Otolaryngology–Head and Neck Surgery; CP, canal paresis.
+* Corresponding author at: Department of Otolaryngology, Gifu University School of Medicine, 1-1 Yanagido, Gifu 501-1194, Japan.
+E-mail address: md395220@gmail.com (T. Ogawa).
+https://doi.org/10.1016/j.amjoto.2021.103141
+Received 21 May 2021;
+Available online 18 June 2021
+0196-0709/© 2021 Elsevier Inc. All rights reserved.
+
+H. Okuda et al.
+
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 103141
+
+cochlear blood flow and to enhance the expression of the lymph ho­
+meostasis regulatory factor aquaporin [8–10].
+The long-term effectiveness of ITS injections for intractable Meniere's
+disease has been described in various reports [11–18]. However, the
+success rates of controlling vertigo are heterogeneous. Few articles have
+discussed the characteristics of responders and non-responders to ITS
+injection. In this study, we considered the differences in responsiveness
+of ITS injection treatment on the basis of the characteristics of clinical
+course and various physiological examinations.
+
+We determined the average hearing threshold at 125, 250, and 500
+Hz defined it as the low-frequency range, the average at 500, 1000,
+2000, and 3000 Hz as the mid-frequency range, and the average at 2000,
+4000, and 8000 Hz as the high-frequency range. The hearing examina­
+tion was recorded every month from pre-treatment to post-ITS injection
+treatment until the observation was completed.
+VEMP was evaluated using the amplitude of the affected side (Aa)
+and amplitude of the unaffected side (Au) to calculate the asymmetry
+ratio expressed as asymmetry ratio (%) = 100|(Aa − Au)| / |(Aa + Au)|.
+Based on guidelines and previous reports of normal asymmetry ratios
+[20–22], an asymmetry ratio of >33% in cVEMP and an asymmetry ratio
+of >50% in oVEMP were considered to indicate significantly reduced
+amplitude.
+For the glycerol test, the results were considered positive when a
+threshold improvement of 10 dB or more was observed in two or more
+ranges.
+As to bithermal caloric test, Jongkees's formula was used to deter­
+mine semicircular canal paresis (CP) using the maximum slow-phase
+velocity (with a 25% difference in CP being considered significant).
+VEMP, glycerol test, and bithermal caloric test were examined before
+the treatment.
+
+2. Materials and methods
+2.1. Participants
+This retrospective study included 32 patients who were definitively
+diagnosed with Meniere's disease based on the diagnostic criteria of the
+AAO-HNS and Barany Society [19]. They visited our hospital after initial
+conservative treatment failed to control their vertigo for at least 3
+months between November 2018 and November 2019. The observation
+period was set to 12 months. No patient had a previous history of other
+disease and drug administration affecting hearing and vestibular func­
+tion. The study was approved by the institutional review board of our
+hospital (approval number: 2020-227).
+
+2.4. Statistical analysis
+
+2.2. Treatments
+
+The statistical significance of the difference between before and after
+ITS injection was determined using a paired t-test. Fisher's exact test and
+two-tailed unpaired t-test were applied to evaluate characteristic dif­
+ferences between responders and non-responders. Values of p < 0.05
+were considered significant. The illustrated values are shown as the
+mean ± 1 standard error (se).
+
+All patients received ITS injection as a second-line treatment. A pa­
+tient was placed in a semi-sitting 45-degree position with the affected
+ear facing upward. Approximately 0.5 mL dexamethasone solution (3.3
+mg/mL) was injected into the tympanic cavity near the posterosuperior
+quadrant of the tympanic membrane. The patient remained in the supine
+position without swallowing for 30 min. Injection was administered
+three times on consecutive days or in one–two week intervals. When the
+patient became aware of the therapeutic effect and requested the readministration of ITS injection to maintain good condition, we admin­
+istered the injection once. When patients observed no change in the
+control of vertigo attacks by ITS injection and requested other treat­
+ment, transtympanic middle ear pressure treatment was provided.
+
+3. Results
+Participants included 32 patients with a median age of 64.5 years
+(range: 26–82 years), and there were 13 males and 19 females (Table 2).
+Regarding the treatment outcome, 18 of 32 patients (56.3%) were
+responders. In 13 responders, improvement was maintained with the
+initial injection treatment alone. One additional injection was admin­
+istered in four patients, and two additional injections were administered
+in one patient. They all achieved good control of vertigo attacks for 1
+year. Non-responders included 14 patients (43.8%). Ten patients
+showed no improvement in symptoms with the initial treatment and
+quickly received transtympanic middle ear pressure treatment. Four
+patients exhibited a temporary improvement in symptoms following the
+initial treatment but subsequently experienced re-exacerbation of
+symptoms. These non-responders received one additional ITS injections
+with no improvement in symptoms, and they then received trans­
+tympanic middle ear pressure treatment. No instances of adverse events,
+such as tympanic membrane perforation, were observed during followup.
+Fig. 1 presents the changes in symptom scores. Upon examining the
+overall mean scores for the 32 patients at the completion of the followup observation, levels of all four categories of symptoms were signifi­
+cantly reduced. Changes in the average scores in vertigo, distress, ac­
+tivity, and tinnitus from pre-treatment to the end of the observation
+were from 23.1 to 8.1, from 32.0 to 12.7, from 26.5 to 8.8, and from 46.1
+
+2.3. Main outcome measures
+Patients were considered responders if symptom improvement could
+be maintained by ITS injection alone for 1 year, and they were consid­
+ered non-responders if treatment was changed to transtympanic middle
+ear pressure treatment during the observation period.
+We measured subjective symptom scores, hearing threshold, cervical
+and ocular vestibular evoked myogenic potential (cVEMP and oVEMP),
+and performed glycerol and bithermal caloric tests.
+Patients kept a daily record of symptom scores. Symptoms were
+scored according to a five-point scale of 0–4 points for the levels of
+following four items: vertigo, distress, activity, and tinnitus (Table 1).
+For symptom scores recorded from 1 month before treatment until the
+completion of the follow-up observation period, the total of each score
+was calculated each month, and changes were recorded.
+Table 1
+Symptom scores.
+Score
+
+Vertigo
+
+Distress
+
+Activity
+
+Tinnitus
+
+0
+1
+2
+
+None
+Attack within 20 min
+Attack within 1 h, no nausea
+And vomiting
+Attack over 1 h, or vertigo with
+nausea and vomiting
+Terrible attack never
+experienced over 20 min
+
+None
+Mild
+Moderate
+
+Normal
+Little limited
+Moderate
+limited
+At home for
+upset
+Bedridden
+
+None
+Mild
+Moderate
+
+3
+4
+
+Severe
+Extreme
+
+Table 2
+Patient characteristics.
+Total
+Gender
+Male
+Female
+Age (years)
+Median
+Range
+
+Severe
+Extreme
+
+2
+
+32
+13
+19
+64.5
+26–82
+
+H. Okuda et al.
+
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 103141
+
+vergo
+
+Score
+80
+
+p<0.01
+
+ʖʁaverage
+
+distress
+
+Score
+
+p<0.01
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+0
+
+2
+
+4
+
+Months
+
+acvity
+
+Score
+
+6
+
+8
+
+10
+
+12
+
+Months
+
+nnitus
+
+Score
+
+p<0.01
+
+80
+
+p<0.01
+100
+
+60
+
+80
+60
+
+40
+
+40
+20
+0
+
+20
+0
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+0
+
+12
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Months
+
+Months
+
+Fig. 1. Symptom scores of all participants.
+Thick red line: average.
+Statistical analysis: paired t-test. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+
+to 33.9, respectively (p < 0.01).
+Changes in auditory acuity (mean dB ± SD) of overall patients were
+as follows: the low-frequency range, from 52.4 ± 14.3 to 45.3 ± 18.1 (p
+< 0.01); mid-frequency range, from 44.9 ± 17.1 to 41.3 ± 18.8 (p =
+0.07); and high-frequency range, from 51.1 ± 16.7 to 50.2 ± 18.5 (p =
+0.54), with a significant difference observed in the low-frequency range
+(Fig. 2).
+Table 3 presents the characteristics of responders and non-
+
+low-frequency range
+
+responders. Regarding symptom scores, we observed no significant dif­
+ference in pre-treatment scores for any item. We also compared score
+ratios between pre-treatment and 1 month after treatment. For the three
+items of vertigo, distress, and activity, in responders, mean values were
+0.61, 0.68, and 0.60, respectively, whereas in non-responders, mean
+values were 0.95, 1.41, and 1.13, respectively, indicating significantly
+lower score ratios in responders (p < 0.05). However, regarding the
+score ratio in tinnitus, there was no significant change between
+
+mid-frequency range
+
+ːː
+dB
+
+dB
+
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+90
+80
+70
+60
+50
+40
+30
+20
+10
+
+n.s.
+
+dB
+
+n.s.
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+0
+
+before aer
+
+high-frequency range
+
+before aer
+
+before aer
+
+ːːʁp<0.01
+Fig. 2. Changes in auditory acuity of all participants.
+Double asterisks (**) indicates significant difference at p < 0.01.
+n.s.: no significance.
+Statistical analysis: paired t-test.
+3
+
+H. Okuda et al.
+
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 103141
+
+Table 3
+Pre-treatment scores and Score ratios (average ± SD).
+Responders
+
+Table 5
+Age, VEMP, glycerol test, caloric test.
+
+Non-responders
+
+p-Value
+
+Pretreatment
+scores
+
+Score
+ratios
+
+Pretreatment
+scores
+
+Score
+ratios
+
+Pretreatment
+scores
+
+Score
+ratios
+
+Vertigo
+
+23.4 ±
+16.6
+
+22.8 ±
+19.9
+
+0.928
+
+0.928
+
+<0.05
+
+Distress
+
+30.0 ±
+19.2
+
+33.7 ±
+23.8
+
+0.636
+
+0.636
+
+<0.05
+
+Activity
+
+26.4 ±
+24.5
+
+26.6 ±
+19.0
+
+0.973
+
+0.973
+
+<0.05
+
+Tinnitus
+
+47.2 ±
+34.0
+
+0.61
+±
+0.49
+0.68
+±
+0.55
+0.60
+±
+0.51
+0.90
+±
+0.55
+
+45.2 ±
+19.5
+
+0.846
+
+0.846
+
+0.66
+
+Age (mean ± SD)
+cVEMP↓
+oVEMP↓
+Glycerol test (+)
+CP (+)
+
+The AAO-HNS Committee on Hearing and Equilibrium Guidelines for
+the diagnosis and evaluation of therapy in Meniere's disease is often used
+for evaluating therapeutic outcomes. These criteria determine a nu­
+merical value expressed in percentage ((mean number of vertigo attacks
+for 18–24 months after treatment / mean number of vertigo attacks for 6
+months before treatment) × 100) [23]. Regarding the effectiveness of
+ITS injections for intractable Meniere's disease, the success rate of con­
+trolling vertigo attacks at 2 years after the start of treatment (numerical
+value of ≦1) ranged from 15.1% to 91% in a mini-review previously
+reported by Miteth, indicating considerable variation [24]. This was
+attributed to differences in the methodology of the ITS injection,
+including the type, number of injections, and concentration of steroid.
+Additionally, the definition of “vertigo attacks” depends on the subjec­
+tive symptoms of the individual patient regardless of the degree of
+vertigo. The symptom scores used in our study defined the level of
+Table 4
+Auditory acuity before Intratympanic steroids (average ± SD).
+p-Value
+
+56.9 ± 17.5
+49.6 ± 19.2
+56.2 ± 16.5
+
+0.145
+0.174
+0.13
+
+63.2 ± 14.9
+0/6 (0%)
+3/6 (50%)
+8/13 (61.5%)
+11/15(73.3%)
+
+0.517
+<0.05
+1
+1
+0.7
+
+Our study showed that there were significantly more responders than
+non-responders with low cVEMP amplitude in the initial objective test
+findings. However, there was no significant difference in the results of
+oVEMP. In Meniere's disease, cVEMP reflects the formation of hydrops in
+the sacculus, whereas oVEMP reflects the formation of hydrops in the
+utricle [25]. We believe that most patients in the responsive group could
+have presented with endolymphatic hydrops primarily in the sacculus.
+The transtympanically injected steroids mainly reach the inner ear via
+the round window [2,3]; thus, there are two conceivable pathways for
+steroids to reach the vestibule after passing through the round window.
+First, for a pathway via the membranous labyrinth, the steroids infiltrate
+scala media in the process of passing from the scala tympani to the scala
+vestibuli, and then, the steroids pass through the canalis reuniens to
+disperse into the endolymphatic spaces of each vestibular tissue. Second,
+for a pathway via the osseous labyrinth, the steroids that have moved
+from the scala tympani to the scala vestibuli disperse into the osseous
+labyrinth of the vestibule and infiltrate the endolymphatic spaces of
+each vestibular organ. In previous animal experiments, the concentra­
+tion of steroids reaching each fluid was simultaneously measured after
+intratympanic injection of dexamethasone, including the scala tympani
+perilymph, vestibular scala perilymph, and scala media endolymph. The
+concentration in the scala media endolymph was close to six-fold greater
+than that in the scala tympani perilymph and the scala vestibuli peri­
+lymph [26]. Thus, the therapeutic mechanism of the ITS injection may
+be mainly associated with the pathway via the membranous labyrinth.
+The sacculus is located immediately after passing through the canalis
+reuniens from the scala vestibuli, the utricle is in the site passing through
+the endolymphatic duct and utriculosaccular duct from the sacculus,
+whereas the semicircular canal is more distally located. Hence, the
+transtympanic steroid injection may easily penetrate with high con­
+centration via the membranous labyrinth in patients with Meniere's with
+large hydrops in the sacculus. We suggest that cases with low amplitude
+of cVEMP are highly responsive to ITS injection compared with those
+without low amplitude cVEMP.
+Furthermore, conservative treatment of Meniere's disease that de­
+pends on blood circulation to the inner ear, such as transvenous infusion
+and oral therapy, may be affected by individual differences, such as
+
+4.1. Determination of therapeutic outcomes using symptom scores
+
+Non-responders
+
+59.5 ± 16.7
+5/8 (62.5%)
+2/5 (40%)
+9/14 (64.3%)
+9/14(64.3%)
+
+4.2. Characteristics of the responsive group, inner ear dynamics of
+steroids, and localization of endolymphatic hydrops
+
+4. Discussion
+
+48.9 ± 10.4
+41.3 ± 14.8
+47.1 ± 16.2
+
+p-Value
+
+vertigo not only on the basis of the presence or absence of attacks but
+also on basis of the duration and symptoms of each attack. Recording the
+scores each day was helpful for quantitatively evaluating vertigo
+symptoms and the efficacy of treatment. Furthermore, we noted a sig­
+nificant difference in the score ratio at 1 month after the start of treat­
+ment for 1-year outcome of ITS injection. Accordingly, monthly followup using symptom scores is useful for relatively quickly estimating the
+mid- to long-term effects of ITS injection by comparing the symptom
+scores each month. We can proactively change to second-line treatment
+in patients who quickly appear to be unresponsive to treatment.
+
+responders and non-responders.
+Regarding auditory acuity, responders tended to have somewhat
+lower pre-treatment auditory acuity thresholds compared with the un­
+responsive group for all frequency ranges (Table 4).
+Table 5 presents the comparison of age, VEMP, glycerol test, and
+caloric test results. There was no clear difference in age between re­
+sponders and non-responders. Regarding cVEMP, reduced amplitude
+was observed in five of eight patients in the responders, whereas none of
+the six non-responders showed reduced amplitude (p < 0.05). There was
+no difference between responders and non-responders in terms of other
+results.
+
+Responders
+
+Non-responders
+
+cVEMP↓: asymmetry ratio (AR) >33%.
+oVEMP↓: asymmetry ratio (AR) >50%.
+Glycerol test (+): threshold improvement of 10 dB or more was observed in two
+or more ranges.
+CP (+): 25% difference in semicircular canal paresis (CP).
+Statistical analysis: two-tailed unpaired t-test and Fisher's exact test.
+
+Pre-treatment scores: Symptom scores before Intratympanic steroids injection.
+Score ratios: ratios of scores between pre-treatment and one month after treat­
+ment.
+Statistical analysis: two-tailed unpaired t-test.
+
+Low-frequency range
+Mid-frequency range
+High-frequency range
+
+Responders
+
+Low-frequency range: average hearing threshold of 125, 250 and 500 Hz (dB).
+Mid-frequency range: average hearing threshold of 500, 1000, 2000 and 3000
+Hz (dB).
+High-frequency range: average hearing threshold of 2000, 4000 and 8000 Hz
+(dB).
+Statistical analysis: two-tailed unpaired t-test.
+4
+
+H. Okuda et al.
+
+American Journal of Otolaryngology–Head and Neck Medicine and Surgery 42 (2021) 103141
+
+aging and osmotic pressure in blood associated with decreased kidney
+function [27]. Given these mechanisms, we considered that ITS injection
+has the potential to achieve a localized pharmacological action, even in
+patients in whom drug delivery to the inner ear is hindered because of a
+peripheral circulation disorder.
+In recent years, inner ear contrast-enhanced magnetic resonance
+imaging (MRI) has enabled separate evaluation of the location and level
+of endolymphatic hydrops of the cochlea and vestibule in patients with
+Meniere's disease [28], and several reports have emerged on the rela­
+tionship between MRI findings and the results of laboratory tests
+[29–32]. When severe hydrops in the vestibule are observed on MRI, it is
+believed to be caused by reduced VEMP amplitude [32]. Combining
+contrast-enhanced MRI findings of the inner ear with the findings of
+these physiological function tests may enable a more detailed evaluation
+of the localization and level of endolymphatic hydrops, as well as the
+therapeutic effects of ITS injection.
+The present study has several limitations. First, the observation
+period in our study was relatively short, and it was difficult to compare
+its effectiveness with other literature based on the criteria of the AAOHNS for determining therapeutic outcomes [23]. Second, we focused
+on the differences in the proportion of patients with reduced cVEMP
+amplitude in the responders and non-responders. However, the number
+of patients in our study was small. Third, patients showing bilateral
+hyporesponse of cVEMP were included in the group without low
+amplitude of cVEMP. If latent endolymphatic hydrops were present in
+the unaffected side, cVEMP results would be false negative. It may be
+preferable to verify the presence or absence of hydrops by contrastenhanced MRI of the inner ear.
+
+References
+[1] Gürkov R, Pyykö I, Zou J, Kentala E. What is Menière’s disease? A contemporary
+re-evaluation of endolymphatic hydrops. J Neurol 2016;263(Suppl. 1):S71–81.
+[2] Devantier L, Djurhuus BD, Hougaard DD, et al. Intratympanic steroid for Menière’s
+disease: a systematic review. Otol Neurotol 2019;40(6):806–12.
+[3] Phillips JS, Westerberg B. Intratympanic steroids for Ménière’s disease or
+syndrome. Cochrane Database Syst Rev 2011;6(7):CD008514.
+[4] Magnan J, Özgirgin ON, Trabalzini F, et al. European position statement on
+diagnosis, and treatment of Meniere’s disease. J Int Adv Otol 2018;14(2):317–21.
+[5] Nevoux J, Barbara M, Dornhoffer J, Gibson W, Kitahara T, Darrouzet V.
+International consensus (ICON) on treatment of Ménière’s disease. Eur Ann
+Otorhinolaryngol Head Neck Dis 2018;135(1S):S29–32.
+[6] Basura Gregory J, Adams Meredith E, Monfared Ashkan, Schwartz Seth R,
+Antonelli Patric J, Burkard Robert, et al. Clinical practice guideline: Meniere’s
+disease. Otolaryngol Head Neck Surg 2020;162(2S):S1-S55.
+[7] Hamid M, Trune D. Issues, indications, and controversies regarding intratympanic
+steroid perfusion. Curr Opin Otolaryngol Head Neck Surg 2008;16(5):434–40.
+[8] Rarey KE, Curtis LM. Receptors for glucocorticoids in the human inner ear.
+Otolaryngol Head Neck Surg 1996;115(1):38–41.
+[9] Shirwany NA, Shirwany NA, Seidman MD, Tang W. Effect of transtympanic
+injection of steroids on cochlear blood flow, auditory sensitivity, and histology in
+the guinea pig. Am J Otol 1998;19(2):230–5.
+[10] Fukushima M, Kitahara T, Fuse Y, Uno Y, Doi K, Kubo T. Changes in aquaporin
+expression in the inner ear of the rat after i.p. injection of steroids. Acta
+Otolaryngol Suppl 2004;553(553):13–8.
+[11] Sanz EM, Zschaeck C, Gonzalez M, et al. Control of vertigo after intratympanic
+corticoid therapy for unilateral Ménière’s disease: a comparison of weekly versus
+daily fixed protocols. Otol Neutorol 2013;34:1429–33.
+[12] McRackan TR, Best J, Pearce EC, et al. Intratympanic dexamethasone as a
+symptomatic treatment for Ménière’s disease. Otol Neutorol 2014;35(9):1638–40.
+[13] Patel M, Agarwal K, Arshad Q, et al. Intratympanic methylprednisolone versus
+gentamicin in patients with unilateral Ménière’s disease: a randomised, doubleblind, comparative effectiveness trial. Lancet 2016;388(10061):2753–62.
+[14] Herraiz C, Plaza G, Aparicio JM, Gallego I, Marcos S, Ruiz C. Transtympanic
+steroids for Ménière’s disease. Otol Neurotol 2010;31(1):162–7.
+[15] Casani AP, Piaggi P, Cerchiai N, Seccia V, Franceschini SS, Dallan I. Intratympanic
+treatment of intractable unilateral Meniere disease: gentamicin or dexamethasone?
+A randomized controlled trial. Otolaryngol Head Neck Surg 2012;146(3):430–7.
+[16] She W, Lv L, Du X, et al. Long-term effects of intratympanic methylprednisolone
+perfusion treatment on intractable Ménière’s disease. J Laryngol Otol 2015;129(3):
+232–7.
+[17] Albu S, Nagy A, Doros C, et al. Treatment of Meniere’s disease with intratympanic
+dexamethazone plus high dosage of Betahistine. Am J Otolaryngol 2016;37(3):
+225–30.
+[18] Leng Y, Liu B, Renhong Zhou, et al. Repeated courses of intratympanic
+dexamethasone injection are effective for intractable Meniere’s disease. Acta
+Otolaryngol 2017;137(2):154–60.
+[19] Lopez-Escamez JA, Carey J, Chung WH, et al. Diagnostic criteria for Menière’s
+disease. J Vestib Res 2015;25(1):1–7.
+[20] Papathanasiou ES, Murofushi T, Akin FW, Colebatch JG. International guidelines
+for the clinical application of cervical vestibular evoked myogenic potentials: an
+expert consensus report. Clin Neurophysiol 2014;125(4):658–66.
+[21] Nagai N, Ogawa Y, Hagiwara A, et al. Ocular vestibular evoked myogenic
+potentials induced by bone-conducted vibration in patients with unilateral inner
+ear disease. Acta Otolaryngol 2014;134(2):151–8.
+[22] Lamounier P, de Souza TSA, Gobbo DA, Bahmad Jr F. Evaluation of vestibular
+evoked myogenic potentials (VEMP) and electrocochleography for the diagnosis of
+Ménière’s disease. Braz J Otorhinolaryngol 2017;83(4):394–403.
+[23] Committee on Hearing and Equilibrium guidelines for the diagnosis and evaluation
+of therapy in Menière's disease. American Academy of Otolaryngology-Head and
+Neck Foundation, Inc. Otolaryngol Head Neck Surg 1995;113(3):181–5.
+[24] Patel M. Intratympanic corticosteroids in Ménière’s disease: a mini-review.
+J Otolaryngol 2017;12(3):117–24.
+[25] Murofushi T, Matsuzaki M, Takegoshi H. Glycerol affects vestibular evoked
+myogenic potentials in Meniere’s disease. Auris Nasus Larynx 2001;28(3):205–8.
+[26] Parnes LS, Sun AH, Freeman DJ. Corticosteroid pharmacokinetics in the inner ear
+fluids: an animal study followed by clinical application. Laryngoscope 1999;109(7
+Pt 2):1–17.
+[27] Valame DA, Gore GB. Role of cervical vestibular evoked myogenic potentials
+(cVEMP) as outcome-measure of glycerol test. Indian J Otolaryngol Head Neck
+Surg 2019;71(Suppl. 1):425–33.
+[28] Nakashima T, Naganawa S, Sugiura M, et al. Visualization of endolymphatic
+hydrops in patients with Meniere’s disease. Laryngoscope 2007;117(3):415–20.
+[29] Seo YJ, Jinna Kim, Choi JY, Lee WS. Visualization of endolymphatic hydrops and
+correlation with audio-vestibular functional testing in patients with definite
+Meniere’s disease. Auris Nasus Larynx 2013;40(2):167–72.
+[30] Katayama N, Yamamoto M, Teranishi M, et al. Relationship between
+endolymphatic hydrops and vestibular-evoked myogenic potential. Acta
+Otolaryngol 2010;130(8):917–23.
+[31] Wang P, Yu D, Wang H, et al. Contrast-enhanced MRI combined with the glycerol
+test reveals the heterogeneous dynamics of endolymphatic hydrops in patients with
+Menière’s disease. J Magn Reson Imaging 2020;52(4):1066–73.
+[32] Kato M, Teranishi M, Katayama N, Sone M, Naganawa S, Nakashima T. Association
+between endolymphatic hydrops as revealed by magnetic resonance imaging and
+caloric response. Otol Neurotol 2011;32(9):1480–5.
+
+5. Conclusions
+Our results suggest that ITS injection treatment with follow-up
+observation using daily symptom scores is useful for early prediction
+of the mid- to long-term therapeutic effect after the start of the treat­
+ment. It is also useful to determine changes in the intensity of the
+treatment for intractable Meniere's disease. Furthermore, we suggest
+that ITS injection is more effective for controlling vertigo attacks when
+endolymphatic hydrops is present mainly in the sacculus. The effec­
+tiveness of ITS injection can be predicted before treatment based on
+reduced cVEMP amplitude.
+Funding
+This research did not receive any specific grant from funding
+agencies in the public, commercial, or not-for-profit sectors.
+CRediT authorship contribution statement
+Conception and design of study: H. Okuda, M. Aoki, T. Ohashi, T.
+Ogawa
+Acquisition of data: H. Okuda, B. Ogawa, H. Shibata, N. Ueda
+Analysis and/or interpretation of data: H. Okuda, M. Aoki, T. Ohashi,
+H. Hayashi
+Drafting the manuscript: H. Okuda, M. Aoki
+Revising the manuscript critically for important intellectual content:
+H. Shibata, T. Ohashi, T. Nishihori, B. Kuze
+Approval of the manuscript to be published: H. Okuda, M. Aoki, B.
+Ogawa, H. Shibata, N. Ueda, T. Ohashi, H. Hayashi, T. Nishihori, B.
+Kuze, T. Ogawa.
+Declaration of competing interest
+None.
+
+5
+
+

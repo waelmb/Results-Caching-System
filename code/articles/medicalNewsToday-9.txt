@@ -1,0 +1,32 @@
+Social isolation linked to increased inflammation
+Many people define social isolation as an absence of social contact. It can lead to loneliness in older adults and an increased risk of serious health conditions. According to the authors of the recent study, 1 in 4 adults aged 65 years and older are socially isolated. 
+A 2016 review of published data found that social isolation, loneliness, or both were associated with a 29% increased risk of heart disease and 32% greater risk of stroke. 
+As the authors of the current study explain, Social isolation is a risk factor for morbidity and mortality comparable to well-established risk factors, including smoking 15 cigarettes a day, hypertension, and a sedentary lifestyle.
+However, experts do not yet understand fully why social isolation affects health in this way.
+Researchers in the U.S. recently completed a study using data from the National Health and Aging Trends Study (NHATS). They found a significant link between social isolation and markers for inflammation. 
+The research appears in the Journal of the American Geriatrics Society.
+This work is a step in the journey to disentangle the mechanisms by which social isolation leads to higher levels of morbidity and mortality, explains lead author Dr. Thomas K.M. Cudjoe from Johns Hopkins School of Medicine in Baltimore, MD.
+My hope is that investigators incorporate objective measures of social isolation and biological markers in future longitudinal studies so that we might continue to advance our understanding of these complex biopsychosocial interactions.
+Inflammation is one of the bodys defense mechanisms. When working correctly, it helps fight against toxins, injury, and infection. For example, acute inflammation, following a cut on a knee, lasts a few hours or days. 
+However, chronic inflammation can last months or years. White blood cells can flood the body and damage healthy tissues  the body is in a state of high alert.
+Research suggests that triggers of chronic inflammation in older people might include:
+It could also be that social isolation itself creates emotional stress, which triggers an inflammatory response. 
+Another theory states that an evolutionary mechanism might be at work: there is an increased likelihood that socially-isolated organisms will get attacked. Readied inflammatory molecules could generate a faster and more efficient biological response to such threats. 
+Interleukin-6 (IL-6) and C-reactive protein (CRP) are two prominent molecules involved in inflammation. Elevated IL-6 and CRP are associated with many adverse health outcomes, such as an increased risk of cardiovascular events, decreased physical performance and cognitive performance, and a higher risk of death.
+In the recent study, the researchers set out to clarify prior findings by examining the relationship between social isolation, IL-6, and CRP using data from the NHATS.
+NHATS is a representative cohort of Medicare beneficiaries aged 65 years and over. The researchers analyzed data from 4,648 participants, who gave a 2-hour interview and a blood sample in 2017.
+The scientists calculated participants level of social isolation by allocating one point for each of the following: 
+The researchers classified participants with a total score of 0 as severely socially isolated, those with a total score of 1 were classified as socially isolated, and those with total scores of 2 or more as not socially isolated.
+The average participant age was 76 years, and 55.4% of the participants were female. About 4% of them were severely socially isolated, while another 17% were in the socially isolated group.
+The analysis found that people who experienced social isolation had higher levels of CRP compared with those who did not experience social isolation. This relationship stayed the same when adjusting for sociodemographic and health factors.
+The same was true of the IL-6 levels, except that when they adjusted for sociodemographic and health factors, older adults who experienced severe social isolation did not have statistically significant higher levels of IL-6.
+Dr. Cathy Slack, Director of the Aston Research Centre for Healthy Ageing and Secretary for the British Society for Research on Ageing in the United Kingdom, told Medical News Today: 
+This is a really interesting  and timely  study. Social isolation and feelings of loneliness have long been correlated with adverse health outcomes. The COVID-19 pandemic has of course exacerbated issues of loneliness and isolation in older people, as restrictions and lockdowns have limited their social networks even more than during pre-pandemic times.
+This study provides important biological markers of social isolation that could be used to identify those most at risk of serious health consequences. [And] could allow more targeted interventions to be implemented earlier. 
+MNT also spoke with Dr. Steven Albert, Ph.D., professor and chair of the Department of Behavioral and Community Health Sciences at the University of Pittsburgh Graduate School of Public Health, PA. Discussing the importance of the results, he said:
+If social isolation truly increases [the] risk of poor health by elevating immune markers, we need to redouble our efforts to reduce social isolation.
+The authors of the paper outline several limitations:
+Prof. David L. Roth, a co-author of the paper and Director at the Centre on Aging and Health at Johns Hopkins University, told MNT: 
+It is important to continue this work, as we seek to understand [better] the pathways of how psychosocial stress can be a risk factor for [reduced] physical health and design better treatment options to protect those who are vulnerable to these stressors.
+Dr. Slack added, It would be interesting to see if similar associations between social isolation and the reported biological markers are observed in other vulnerable groups  certain minority and immigrant groups, for example. Adverse health effects of social isolation are also observed in these groups.
+Discussing the direction of future research, Dr. Albert told MNT, The strength of the association between [the] level of isolation and IL-6 and CRP differed and only showed a dose response for CRP. This suggests a complex association. The clinical significance of the size of the association also needs further study.

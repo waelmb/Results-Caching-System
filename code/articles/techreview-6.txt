@@ -1,0 +1,387 @@
+Otolaryngology Case Reports 21 (2021) 100362
+
+Contents lists available at ScienceDirect
+
+Otolaryngology Case Reports
+journal homepage: www.elsevier.com/locate/xocr
+
+An infrequent type of nystagmus during a vertigo crisis in Meniére’s disease
+Antonio Miguel Moreno Rueda a, Víctor Suárez-Vega b, Ángela Milán-Tomás c,
+Nicolás Pérez-Fernández d, *
+a
+
+Department of Otorhinolaryngology, Hospital Universitario de Móstoles, Madrid, Spain
+Department of Radiology, Clínica Universidad de Navarra, Madrid, Spain
+c
+Department of Neurology, Clínica Universidad de Navarra, Madrid, Spain
+d
+Department of Otorhinolaryngology, Clínica Universidad de Navarra, Madrid, Spain
+b
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Downbeat nystagmus
+Meniere disease
+Vertigo crisis
+
+Background: Meniere’s disease is often characterized by a changing horizontal nystagmus during the crisis;
+however, vertical nystagmus is not often detected. The horizontal nystagmus is frequently studied in the irritative
+or destructive phases of the disease.
+Clinical findings: We report the case of a 70 years-old man suffering for 3 years of Meniere’s disease in his right
+ear. During an attack we found an infrequent nystagmus that was a downbeat nystagmus in primary position. He
+was then closely followed in the ward during 5 days and daily tests were performed. We first ruled out a central
+cause and were able to explain that as due to a peripheral deficit in the right posterior semicircular canal. Other
+features of the vertigo attacks in patients with MD were recorded.
+Summary: We studied a patient presenting a vertigo attack with a downbeat nystagmus. Our findings show that
+this nystagmus was caused by his own Meniere’s disease, specifically by a posterior canal hypofunction, and not
+by a central disorder. There is no evidence about this kind of nystagmus in Meniere disease and, to the best to our
+knowledge, this is one of the first reports its evaluation using the test nowadays available.
+Conclusion: In this case, our result demonstrate that the downbeat nystagmus was caused by a hypofunction of
+the posterior semicircular canal.
+
+1. Introduction
+
+acetazolamide (250mg once a day) with periodic analytical control. This
+treatment established good control as demonstrated in different followups and we remove it in December 2020 (see Fig. 1).
+The day seen at emergency he was very dizzy and when moving
+severe nausea and vomiting occurred. He noticed a more intense tinnitus
+and pressure in his right ear. He showed normal cognition and alertness
+without slurred or scanning speech and exam was considered normal
+unless a doubtful and subtle decomposition of movement in the right
+heel–knee–shin test was observed, however, a true dysmetria in the
+limbs or truncal ataxia were not appreciated. The gait of the patient was
+unsteady and tended to veer to the right side, but it was not wide-base.
+There was an intense downbeat nystagmus on primary gaze that
+increased in intensity in leftward gaze but decreased in rightward gaze,
+becoming only apparent a horizontal left beating nystagmus (video 1).
+When visual fixation was removed the same but more intense nystagmus
+was found. On vHIT (Fig. 3) we found a reduced gain for stimulation in
+the planes of the right horizontal and posterior semicircular canals: in
+
+In patients with clinically active Meniere’s disease (MD) the results
+of the vestibular examination are in part dependent on the lapse of time
+since the last vertigo crisis or attack [1] and, during the crisis, this will
+change to an orderly manner [2]. Here, we report the case of a patient
+diagnosed with definite MD that suffered an activation displaying some
+confusing signs at initial exam. (see Table 1)
+1.1. Clinical case
+In February 2021, we assisted a 70-year-old man suffering from an
+intense vertigo crisis, which had started that same day. In 2009 he
+suffered a heart attack which required the installation of a stent. In
+2016, he suffered an acute pancreatitis and was further diagnosed of
+hypercholesterolemia and diabetes type 2. He was diagnosed in 2017 of
+Meniere’s disease in his right ear and begun treatment with
+
+* Corresponding author. Dpto. de Otorrinolaringología Clinica Universidad de Navarra, Marquesado de Santa Marta, 1, 28022, Madrid, Spain.
+E-mail address: nperezfer@unav.es (N. Pérez-Fernández).
+https://doi.org/10.1016/j.xocr.2021.100362
+Received 8 July 2021; Received in revised form 19 September 2021; Accepted 22 September 2021
+Available online 24 September 2021
+2468-5488/© 2021 Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+A.M. Moreno Rueda et al.
+
+Otolaryngology Case Reports 21 (2021) 100362
+
+Table 1
+Summary of findings.
+Pre-crisis (2 months before)
+
+Day 1
+
+Day 3.1
+
+Day 3.2
+
+Day 4
+
+Post-crisis (1 month after)
+
+Smooth pursuit
+Sp nystagmus 1
+
+Normal
+No
+
+Saccadic
+Down
+
+Normal
+Right
+
+No
+No
+No
+Right
+0.90
+0.96
+0.62
+0.76
+0.86
+0.84
+13%
+− 50%
+56.25
+20
+100%
+100%
+
+Left
+Down (++)
+–
+Down
+N/D
+0.72
+0.34
+0.61
+0.93
+N/D
+–
+–
+–
+–
+–
+–
+
+–
+23.9◦ /s
+Right
+Right
+Right
+–
+–
+0.47
+0.86
+0.81
+1.32
+1.2
+0.75
+–
+–
+–
+–
+–
+–
+
+Normal
+Left
+
+Sp nystagmus rwg
+Sp nystagmus lwg
+SVIN
+Pos nystagmus
+rSSC
+rHSC
+rPSC
+lSSC
+lHSC
+lPSC
+oVEMP
+cVEMP
+rPTA
+lPTA
+rSDS
+lSDS
+
+–
+49◦ /s
+Right
+Right (+++)
+Right
+–
+–
+0.26
+0.72
+0.47
+1.19
+0.04
+0.53
+–
+–
+–
+–
+–
+–
+
+Left
+Left (++)
+Left (+++)
+–
+1.01
+0.82
+0.58
+0.88
+1.01
+0.95
+25%
+1%
+56.25
+22.5
+64%
+100%
+
+Right (++)
+No
+–
+–
+0.81
+0.68
+0.63
+0.85
+0.83
+0.75
+–
+–
+52.5
+23.75
+100%
+100%
+
+Fig. 1. MRI for hidrops detection in 2018. A, axial inversion recovery with REAL reconstruction at a midmodiolar level. The MRI study is obtained 4 hours after a
+single dose of intravenous contrast is administrated. The image shows severe endolymphatic hidrops (black signal) both vestibular and cochlear. All vestibular cavity
+is occupied with endolymph, even with some degree of herniation to the non-ampullar segment of the horizontal semicircular canal (White arrow). Also, endolymph
+encompasses half or more of the scala vestibuli, with displacement of the Reissner’s membrane (arrowhead). B, 3D volume-rendered image of the inner ear with
+color-coded overlay of vestibular hydrops (violet) showing severe distention of the endolymphatic space reaching the boundaries of vestibular cavity. (For inter­
+pretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)
+
+both, saccades were covert and overt, and in the later with the fast phase
+of the downbeat nystagmus as seen also in the recordings of the left
+superior semicircular canal. During testing the patient became
+extremely dizzy so we had to stop exam. An MRI was ordered at the
+moment of the crisis (Fig. 2a and b) that showed no changes to that done
+in 2018 and also a CT angiogram (Fig. 2c and d). We decided not to treat
+the patient but only medication in case of vomiting was recommended as
+PRN.
+Supplementary video related to this article can be found at htt
+ps://doi.org/10.1016/j.xocr.2021.100362.
+The next day (day 2) the patient was not symptomatic. The following
+day (day 3) he started to feel again vertigo and tinnitus worsened: an
+intense third degree right beating spontaneous nystagmus was recorded,
+its slow phase velocity (SPV) was 42◦ s− 1. This nystagmus was more
+intense for rightward gaze and similar for leftward gaze, and direction
+did not change neither for upward nor for downward gaze; vHIT is
+shown in Fig. 3. The fourth day the patient felt better but still dizzy: the
+nystagmus was a 2nd degree left-beating and vHIT (Fig. 3) changed from
+previous. He was treated with intratympanic dexamethasone (23mg/ml
+in one dose). Because of a good follow-up, the patient was discharged in
+good status the sixth day.
+
+2. Discussion
+When the patient visited the emergency room, we first considered a
+patient with a low activity MD in his right ear for the last 2 years who
+was facing an increase in this activity for the last 2 weeks. However
+coincident with his vascular risk factors now the most striking finding at
+the emergency room was the downbeat nystagmus which usually points
+to a lesion in the flocculus. A floccular (or parafloccular) lesion could
+result in loss of inhibition of the superior vestibular nucleus neurons and
+consequently in a relative hyperexcitation of the superior rectus moto­
+neurons in the third nucleus: this elicits and upward slow eye deviation
+[3]. In the evaluation of the observed spontaneous nystagmus our pur­
+pose was first to detect whether this occurred in eye- or head-fixed co­
+ordinates which is a quick bedside indication of a central or peripheral
+dysfunction respectively [4]. For that, nystagmus has to be examined
+when the patient looks in a direction orthogonal to that of the
+nystagmus: in our case when looking right and left and considering that
+the further the eye is moved, the greater the eye-referenced and
+head-referenced characteristics of the nystagmus will be seen [5]. In our
+patient we could rule out with some degree of certainty a central from
+peripheral origin as nystagmus was almost pure left-beating in right­
+ward gaze and additionally, because of the effect of visual fixation that
+2
+
+A.M. Moreno Rueda et al.
+
+Otolaryngology Case Reports 21 (2021) 100362
+
+Fig. 2. Imaging studies ordered to rule out
+alternative pathologies obtained during the
+crisis described in this case. A, MRI with
+heavily
+T2-weighted
+cysternography
+sequence shows normal appearing cerebellar
+floculum (white arrow). B, axial T2weighted turbo spin-echo sequence depicts
+small right cerebellar chronic infarct
+(arrowhead). C and D, coronal maximum
+intensity projection (MIP) reformatted im­
+ages of CT angiography. C shows clearly left
+vertebral artery dominance (long arrow). D
+depicts elongated vertebro-basilar junction
+with a filiform V4 portion of the right
+vertebral artery.
+
+3
+
+A.M. Moreno Rueda et al.
+
+Otolaryngology Case Reports 21 (2021) 100362
+
+Fig. 3. First day’s vHIT. lHSC: Left horizontal semicircular canal; rHSC: right horizontal semicircular canal; lSSC: left superior semicircular canal; rPSC: right
+posterior semicircular canal.
+
+reduced in part its intensity as well the absence of gaze-evoked
+nystagmus, and ocular tilt reaction [6].
+The previous assumption was further supported by the findings
+during the vHIT testing that pointed to an acute right labyrinth deficit at
+least in the horizontal and posterior semicircular canals. Taking that into
+consideration nystagmus could be explained as a mixed loss of excit­
+atory projections to the right superior oblique and medial rectus and to
+the left inferior and lateral rectus muscles. The right superior oblique
+losses its main action (intorsion) as well secondary (depression and
+abduction) so that the eyes slowly drift upward (facilitated by left
+inferior inhibition) and rightward (facilitated by the right medial and
+left lateral inhibition). The optimal gaze position to test for the right
+superior oblique and left inferior is the primary and leftward gaze so that
+we observe the most downbeat nystagmus. In the rightward gaze posi­
+tion their action is less relevant so that mainly the horizontal disfacilitation will be best appreciated as leftward nystagmus.
+Given these findings, those at neurological examination and MRI, the
+follow-up has confirmed a peripheral vestibulopathy in the context of
+his disease as the cause of this patient’s crisis.
+
+3. Conclusion
+In this case, we report a patient with MD which, in an acute crisis,
+had a downbeat nystagmus. This case in one of the first which report it.
+Furthermore, we contribute with a physiopathology theory for this
+downbeat nystagmus. The extreme variability in results in different re­
+ports stresses the importance of serial evaluation not only since the
+initiation of the attack but also days after.
+Financial disclosure
+Nothing to disclose.
+CRediT author statement
+Antonio Miguel Moreno Rueda: Investigation, Project administra­
+tion, Writing Original Draft, Visualization. Víctor Suárez-Vega: Writing
+Original Draft. Ángela Milán-Tomás: Writing Original Draft. Nicolás
+Pérez-Fernández: Conceptualization, Investigation, Writing Review &
+Editing, Supervision.
+
+4
+
+A.M. Moreno Rueda et al.
+
+Otolaryngology Case Reports 21 (2021) 100362
+
+Declaration of competing interest
+
+[3] Pierrot-Deseilligny C, Milea D. Vertical nystagmus: clinical facts and hypotheses.
+Brain 2005;128:1237–46.
+[4] Shemesh A, Zee D. Eye movement disorders and the cerebellum. J Clin Neurophysiol
+2019;36:405–14.
+[5] Eggers S, Bisdorff A, von Brevern M, Zee D, Kim J, Perez-Fernandez N, et al.
+Classification of vestibular signs and examination techniques: nystagmus and
+nystagmus-like movements. J Vestib Res 2019;29:57–87.
+[6] Zwergal A, Feil K, Schniepp Strupp M. Cerebellar dizziness and vertigo: etiologies,
+diagnostic assessment, and treatment. Semin Neurol 2020;40:87–96.
+
+None.
+References
+[1] Marques P, Perez-Fernandez N. Bedside vestibular examination in patients with
+unilateral definite Ménière’s disease. Acta Otolaryngol 2012;132:498–504.
+[2] Hirai C, Yamamoto Y, Takeda T, Tasaki A, Inaba Y, Kiyokawa Y, et al. Nystagmus at
+the onset of vertiginous attack in ménière’s disease. Otol Neurotol 2017;38:110–3.
+
+5
+
+

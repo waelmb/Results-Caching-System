@@ -1,0 +1,24 @@
+Lower blood lead reference level doesnt change clinical management
+ Disclaimer Advertising 
+The Centers for Disease Control and Prevention (CDC) announced on Oct. 28 that it is lowering the blood lead reference level from 5 micrograms/deciliter (mcg/dL) to 3.5 mcg/dL. However, the new reference level does not significantly change clinical management.
+Since 2012, the term reference level has been used to describe the level that represents the 97.5th percentile for blood lead concentrations in preschool children based on National Health and Nutrition Examination Survey (NHANES) data. A confirmed lead level at or above 3.5 mcg/dL is found in 2.5% of children ages 1-5 years.
+The reference level is a statistical definition that is helpful for surveillance purposes and to prioritize public health interventions. However, it is not intended to stratify risk or present a level at which any specific intervention is required. In fact, many laboratories and point-of-care tests may not be able to accurately provide a result below 5 mcg/dL.
+Therefore, the message is still the same: No level of lead exposure or blood lead level (BLL) is safe, and even low levels can impact neurodevelopment.
+The AAP offers the following interpretation of the effect of lowering the reference level.
+<3.5 mcg/dL
+A blood lead below this reference level is found in 97.5% of children ages 1-5 years, according to NHANES data. However, no level of lead should be considered acceptable. The clinician may need to reassess the childs environment in the future. The child may need to be retested depending on age or other factors.
+3.5-5 mcg/dL
+This result may be within the variability of the test and presents uncertainty as to the accuracy of the result. Clinicians should retest to establish a trend. Clinicians also should discuss possible sources of lead exposure, consider an assessment of the childs environment through local lead programs and/or public health departments, and follow state and local health department guidelines for public health intervention.
+5 mcg/dL
+The clinician should discuss possible sources of lead exposure, consider an assessment of the childs environment and retest to establish a trend. Clinical management for these children is not changed by the lowered blood lead reference level.
+Disparities in BLLs
+The updated reference level indicates that we are doing a better job at removing lead from the environment and keeping children safe. However, low-income and minority communities experience a prevalence of elevated BLL in children at rates higher than the national average.
+Black children are two times more likely to have elevated BLLs as White children (https://www.cdc.gov/mmwr/volumes/65/wr/mm6539a9.htm), which is partly attributed to racist housing policies. This reinforces the need for pediatricians to continue discussing with high-risk families the dangers of lead and where it may lie as well as address structural drivers of health disparities.
+Guidance for pediatricians
+The AAP Council on Environmental Health and Climate Change offers the following guidance for pediatric practitioners to protect all children from the adverse effects of lead:
+Finally, the AAP urges commercial and state laboratories to assess and improve precision in all technical aspects of testing blood for lead concentration. This not only provides better surveillance at the community, state and national levels, but also helps clinicians better care for their patients with lead exposures.
+Dr. Sample is immediate past chair and Dr. Zajac is a member of the AAP Council on Environmental Health and Climate Change Executive Committee.
+Resources
+Copyright  2021 American Academy of Pediatrics
+ Advertising Disclaimer 
+Sign In or Create an Account

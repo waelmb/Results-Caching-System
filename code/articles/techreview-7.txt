@@ -1,0 +1,873 @@
+European Journal of Radiology 139 (2021) 109682
+
+Contents lists available at ScienceDirect
+
+European Journal of Radiology
+journal homepage: www.elsevier.com/locate/ejrad
+
+Comparison of inner ear MRI enhancement in patients with Meniere’s
+disease after intravenous injection of gadobutrol, gadoterate meglumine,
+or gadodiamide
+Jiapei Xie b, Weidong Zhang a, Jingyi Zhu a, Lian Hui c, Songbai Li a, Bo Zhang a, *
+a
+b
+c
+
+Department of Radiology, The First Hospital of China Medical University, Shenyang, Liaoning 110001, China
+Department of Radiology, The Fourth Affiliated Hospital of China Medical University, Shenyang, Liaoning 110032, China
+Department of Otorhinolaryngology, The First Hospital of China Medical University, Shenyang, Liaoning 110001, China
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Magnetic resonance imaging
+Inner ear
+Intravenous injection
+Perilymph
+
+Purpose: To compare the enhancement results of three gadolinium contrast agents in the inner ear of patients
+with Meniere’s disease 4 h after intravenous injection of gadobutrol, gadoterate meglumine, or gadodiamide.
+Methods: We enrolled 60 patients with a definitive diagnosis of unilateral Meniere’s disease and divided them
+into three groups of 20 patients; each group received a double dose of gadobutrol, gadoterate meglumine, or
+gadodiamide. The postcontrast signal intensity of the basal cochlear turn was scored quantitatively, and quali­
+tative visual evaluation of the cochlea, vestibule and semi-circular canals was also performed. The results of both
+evaluations were compared between the three patient groups.
+Results: The cochlear basal turn signal intensity of the gadobutrol group was significantly higher than that of the
+gadoterate meglumine and gadodiamide groups; however, no significant difference was observed between the
+gadoterate meglumine and gadodiamide groups. The intensity of visualization of the semi-circular canals was
+significantly better in the bilateral gadobutrol group than in the gadoterate meglumine and gadodiamide groups;
+however, there was no significant difference in terms of the intensity of visualization of the semi-circular canals
+between the gadoterate meglumine and gadodiamide groups. There were no significant differences in the in­
+tensity of visualization of the cochlea and vestibule among the three groups.
+Conclusions: Compared with gadoterate meglumine and gadodiamide, gadobutrol can provide a higher degree of
+perilymphatic enhancement and better anatomical details of the semi-circular canals in the ears of patients with
+Meniere’s disease.
+
+1. Introduction
+Meniere’s disease is a chronic disease with intermittent episodes of
+vertigo, fluctuating hearing loss, tinnitus, and aural fullness [1]. In
+1938, endolymphatic hydrops was observed during autopsies of patients
+with Meniere’s disease and is now known to be a pathological substrate
+for the disease [2]. With developments in magnetic resonance imaging
+(MRI), transtympanic and intravenous injection of gadolinium contrast
+agent followed by MRI has made visualization of endolymphatic
+hydrops possible [3–6]. Compared with transtympanic injection, intra­
+venous injection does not require invasive puncture of the tympanic
+membrane; indeed, intravenous injection is relatively harmless, and is
+not affected by the round window membrane permeability [7].
+
+Advantages of intravenous administration include a shorter delay be­
+tween the administration and MRI and the ability to indirectly evaluate
+the permeability of the blood-perilymphatic barrier [8]. Therefore,
+although the change has been gradual, intravenous injection is now
+being used extensively. Following intravenous injection of gadolinium
+contrast agent, the contrast agent enters the perilymph through the
+blood–perilymph barrier, causing the perilymph to appear as hyperin­
+tense signals. However, as the contrast agent cannot penetrate the
+blood–endolymph and endolymph–perilymph barriers, the endolymph
+appears in the form of hypointense signals [9,10]. Currently, several
+ionic and non-ionic gadolinium contrast agents are used for this purpose.
+Gadobutrol, gadodiamide, and gadoterate meglumine are the
+commonly used gadolinium contrast agents for MRI in clinical practice.
+
+* Corresponding author.
+E-mail addresses: 1454314461@qq.com (J. Xie), zwd_205@163.com (W. Zhang), Jingyizhu0910@163.com (J. Zhu), Huilian613@126.com (L. Hui),
+songbaili001@163.com (S. Li), zxfzbzfl@126.com (B. Zhang).
+https://doi.org/10.1016/j.ejrad.2021.109682
+Received 17 December 2020; Received in revised form 1 March 2021; Accepted 18 March 2021
+Available online 26 March 2021
+0720-048X/© 2021 Elsevier B.V. All rights reserved.
+
+J. Xie et al.
+
+European Journal of Radiology 139 (2021) 109682
+
+Fig. 1. Three 1-mm2 regions of interest were randomly selected at the perilymph of the bilateral cochlear base turns in areas with optimal visualization. A 50-mm2
+region of interest was selected from the bilateral cerebellar white matter in the same slice.
+
+Most gadolinium contrast agents can cause an adverse drug reaction
+called nephrogenic systemic fibrosis, the risk of which is higher in pa­
+tients with severe kidney injury or acute renal impairment [11].
+Therefore, attention must be paid to safety in addition to the enhance­
+ment effects when selecting a contrast agent. Among the three contrast
+agents used in this study, gadodiamide has a non-ionic linear structure,
+whereas gadobutrol and gadoterate meglumine have macrocyclic
+structures. Because the stability of macrocyclic structures is higher than
+that of non-ionic linear structures, free gadolinium does not easily occur
+in nature. Previous researchers injected different doses of gadodiamide,
+gadobutrol, and gadoterate meglumine into rats and found that the
+amount of gadodiamide deposited in the skin of rats was significantly
+higher than that of gadobutrol and gadoterate meglumine, with some
+rats showing a nephrogenic systemic fibrosis-like presentation [12].
+Owing to differences in the physicochemical characteristics of the
+numerous gadolinium contrast agents, different contrast agents may
+have different enhancement results at the same site [13,14]. Anzalone
+et al. found that the image quality obtained on enhanced MRI scanning
+of brain tumours after intravenous injection of gadobutrol was consid­
+erably better than that obtained after intravenous injection of gado­
+terate meglumine [15]. Moreover, Saake et al. found that in patients
+with multiple sclerosis, the signal intensity of gadobutrol-enhanced MRI
+was higher than that of gadoterate meglumine-enhanced MRI [16].
+Studies have also shown that the use of different gadolinium contrast
+agents for inner ear enhanced scanning may lead to different enhance­
+ment results [17,18]. In the current study, the enhancement results of
+three gadolinium contrast agents in the inner ear of patients with
+Meniere’s disease were compared by MRI scans 4 h after intravenous
+injection of gadobutrol, gadoterate meglumine, or gadodiamide.
+
+agents, sensorineural deafness, otitis media, or ear surgery. We chose
+patients with a “definite” diagnosis of unilateral Meniere’s disease based
+on the 2015 diagnostic criteria formulated by the American Academy of
+Otolaryngology-Head and Neck Surgery [19]. All of the included pa­
+tients had visited the otolaryngology outpatient clinic of our Hospital
+from March 2019 to August 2020. Sixty patients were ultimately
+included in this study and were divided into three groups as follows:
+gadobutrol (n = 20, 7 men and 13 women; 7 left and 13 right ears;
+age:56.4 ± 8.1 year; duration of the disease:4.6 ± 4.9 year), gadodia­
+mide (n = 20, 9 men and 11 women; 11 left and 9 right ears;
+age:50.8 ± 12.3 year; duration of the disease:2.6 ± 3.2 year), and gado­
+terate meglumine (n = 20, 10 men and 10 women; 13 left and 7 right
+ears; age:54.5 ± 13.6 year; duration of the disease:4.0 ± 4.7 year). All
+patients had persistent tinnitus, intermittent vertigo, and hearing loss.
+This study was approved by the Medical Ethics Committee of our
+Hospital(2018-298-2). All patients signed the informed consent form.
+2.2. MRI scan and intravenous injection of gadolinium contrast agent
+A 0.2 ml/kg double dose of gadobutrol (7.5 ml/vial, 1.0 mmol/mL;
+Bayer AG) was administered to 20 patients. A 0.4 ml/kg double dose of
+gadodiamide (15 ml/vial, 0.5 mmol/mL; General Electric, Inc) was
+administered to 20 patients. A 0.4 ml/kg double dose of gadoterate
+meglumine (15 ml/vial, 0.5 mmol/mL; Guerbet France) was adminis­
+tered to 20 patients. A 3 T MRI scanner (SIGNA Pioneer 3.0 T; GE, Inc.)
+and a 21-channel head coil were used for three-dimensional fluidattenuated inversion recovery (3D-FLAIR) sequence scanning 4 h after
+the injection.
+Prior to gadolinium injection, head T2 FLAIR scan (repetition time
+(TR), 9,000 ms; echo time (TE), 95 ms; inversion time (TI), 2,468 ms;
+slice thickness, 5 mm; matrix size, 256 × 256; field of view (FOV),
+24 × 0.9; echo train length, 22; acceleration factor, 1; scan time, 1 min
+and 57 s) and inner ear fast imaging employing steady-state acquisition
+cycled phases (3D FIESTA-C) Shim scan (TR, 6.6 ms; TE, 95 ms; slice
+thickness, 0.8 mm; matrix size, 256 × 256; FOV, 18 × 1; acceleration
+factor, 2; scan time, 3 min and 37 s) were performed. T2 FLAIR and 3D
+FIESTA-C Shim were used to exclude patients with organic brain syn­
+drome, inner ear deformities, and acoustic neuroma. Four hours after
+
+2. Materials and methods
+2.1. Patients
+For this prospective study, we recruited patients with Meniere’s
+disease who were intravenously injected with double gadolinium for
+MRI scanning and were found to have unilateral endolymphatic
+hydrops. The patients had no history of allergy to gadolinium contrast
+2
+
+J. Xie et al.
+
+European Journal of Radiology 139 (2021) 109682
+
+Table 1
+Clinical features of the patients in the three groups.
+
+Age(y)
+Weight(kg)
+Duration of
+tinnitus(y)
+Duration of
+vertigo (y)
+Low tone (Hz)
+Middle tone
+(Hz)
+High tone (Hz)
+
+Table 3
+Signal intensities of the basal turn of the cochlea in the three patient groups.
+
+Gadobutrol
+
+Gadodiamide
+
+Gadoterate
+meglumine
+
+Pvalue
+
+64.5(49.8, 66)
+65(60, 70)
+4(2, 9.25)
+
+53.5(41, 59)
+65(60, 75)
+1(0.3, 6)
+
+58(43.3, 66.8)
+65(60, 70)
+2.5(1, 3.75)
+
+0.052
+0.730
+0.062
+
+2.5(2, 6.25)
+
+1(0.4, 2.75)
+
+2(1.3, 3.75)
+
+0.054
+
+55(40, 70)
+56.3(43.5,
+73.75)
+70(60, 77.5)
+
+45(30, 69.4)
+45(33.1,
+67.5)
+50(40.6, 70)
+
+53.8(40, 68.75)
+57.5(35.6,
+66.88)
+62.5(41.3, 75)
+
+0.648
+0.292
+
+Gadobutrol
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+0.081
+
+gadolinium was injected, a 3D-FLAIR sequence scan (TR, 9,000 ms; TE,
+189 ms; TI, 2,134 ms; slice thickness, 1 mm; matrix size, 320 × 320;
+FOV, 22 × 0.8; echo train length, 180; voxel size, 0.7*0.7mm2; accel­
+eration factor, 4; scan time, 10 min and 52 s) was performed. None of the
+patients moved during the scan.
+2.3. Image analysis
+The 3-grade classification criteria proposed by Nakashima et al. were
+used as a reference for evaluating cochlear and vestibular endolym­
+phatic hydrops and classifying it into mild, moderate, or significant
+grades [20].
+Based on the method of Shi et al. [21], we randomly selected three
+1-mm2 regions of interest from bilateral cochlear basal turns with
+optimal visualization and measured the mean signal intensity of these
+three regions. We also selected one 50-mm2 region of interest at each
+side of the cerebellar white matter in the same layer (Fig. 1) and
+calculated the ratio of the mean signal intensity on the affected and
+healthy side’s cochlear basal turn perilymph over the cerebellar white
+matter signal intensity on the same side. The signal intensity ratio was
+used to represent the degree of perilymph enhancement. Two experi­
+enced radiologists conducted double-blinded measurements of the im­
+ages from all patients, and the mean values of measurements from these
+two physicians were calculated.
+We also conducted two-grade visual evaluation of the degree of
+enhancement at the cochlea, vestibule, and semi-circular canals (grade
+0, blurry visualization; grade 1, significant visualization). Two experi­
+enced diagnostic radiology physicians conducted double-blinded mea­
+surements and diagnosis of the images from all patients. Discussion was
+held between the physicians when there was a difference in results until
+a consensus was reached.
+
+Gadodiamide
+
+Gadoterate meglumine
+
+affected
+
+unaffected
+
+affected
+
+unaffected
+
+affected
+
+unaffected
+
+4.863
+7.663
+5.892
+7.832
+5.329
+6.311
+4.744
+4.506
+4.663
+6.922
+4.927
+5.418
+5.857
+6.378
+8.438
+4.930
+5.720
+4.710
+4.727
+4.786
+
+3.577
+3.515
+6.684
+3.700
+3.044
+4.492
+3.629
+7.077
+3.933
+3.916
+3.859
+3.890
+3.281
+3.045
+5.407
+4.549
+5.481
+3.692
+4.368
+4.050
+
+4.375
+4.524
+5.267
+2.403
+3.205
+4.097
+1.996
+6.532
+5.114
+3.545
+3.626
+2.514
+3.331
+3.878
+3.814
+6.658
+3.227
+3.518
+5.577
+6.257
+
+3.513
+3.049
+3.311
+2.871
+2.458
+2.485
+2.424
+5.840
+2.919
+3.238
+3.331
+1.912
+4.624
+3.187
+3.976
+5.699
+3.014
+2.637
+3.562
+4.554
+
+2.692
+2.764
+4.974
+4.271
+4.066
+3.410
+2.932
+3.741
+3.513
+3.322
+3.963
+4.931
+4.186
+5.190
+4.179
+4.067
+3.606
+3.801
+6.132
+3.824
+
+2.509
+2.173
+2.577
+2.958
+4.646
+3.098
+3.421
+3.537
+2.847
+3.372
+3.716
+5.378
+3.464
+3.822
+2.993
+2.811
+3.371
+3.998
+3.930
+4.076
+
+Table 4
+Pairwise comparison of the bilateral ear signal intensity of the three contrast
+agents.
+Gadolinium 1-Gadolinium 2
+
+Effected (P-value)
+
+Unaffected (P-value)
+
+Gadobutrol-gadodiamide
+Gadobutrol-gadoterate meglumine
+Gadodiamide-gadoterate meglumine
+
+0.000*
+0.000*
+0.631
+
+0.004*
+0.012*
+0.684
+
+*
+
+P values <0.05 were considered statistically significant.
+
+Independent sample analysis was used to analyse the differences in age
+and weight among the three groups. P values <0.05 were considered
+statistically significant.
+3. Results
+There were no significant differences in the clinical features among
+the three groups (Table 1). Based on the 3-grade classification criteria
+developed by Nakashima et al., there were no significant differences in
+cochlear hydrops and vestibular hydrops among the three groups (Ta­
+bles 2 and 6). The interference of other factors on signal intensity was
+excluded.
+The signal intensities in the affected ear in the gadobutrol, gado­
+diamide, and gadoterate meglumine groups were as follows: me­
+dian = 5.37, Q1 = 4.75, Q3 = 6.36, range = 4.51–8.44; median = 3.84,
+Q1 = 3.25, Q3 = 5.23, range = 2.00–6.66; and median = 3.89,
+Q1 = 3.44, Q3 = 4.25, range = 2.69–6.13, respectively. The signal in­
+tensities in the healthy ear in the gadobutrol, gadodiamide, and gado­
+terate meglumine groups were as follows: median = 3.90, Q1 = 3.59,
+Q3 = 4.53, range = 3.04–7.08; median = 3.21, Q1 = 2.70, Q3 = 3.87,
+range = 1.91–5.84; and median = 3.40, Q1 = 2.87, Q3 = 3.90,
+range = 2.17–5.37, respectively (Table 3). The results of Kruskal–Wallis
+analysis showed that there were significant differences in the cochlear
+base turn intensity ratio among the three groups (affected ear,
+
+2.4. Data analysis
+Data analysis was performed using SPSS 20.0 software (IBM Corp.,
+Armonk, NY). Normally distributed data were expressed as
+mean ± standard deviation, and non-normally distributed data were
+expressed as median. The Kruskal–Wallis H test was used to analyse the
+differences in bilateral ear signal intensity ratio and clinical features
+(duration of tinnitus, duration of vertigo; low tone, middle tone, high
+tone) among the three groups. Fisher’s exact probability test was used to
+analyse the differences in visual evaluation among the three groups.
+Table 2
+Signal intensities of the basal turn of the cochlea in the three patient groups.
+Gadobutrol
+Mild
+Moderate
+Significant
+
+Gadodiamide
+
+Gadoterate meglumine
+
+Cochlea
+
+Vestibule
+
+Cochlea
+
+Vestibule
+
+Cochlea
+
+Vestibule
+
+5 (25 %)
+4 (20 %)
+11 (55 %)
+
+4 (20 %)
+10 (50 %)
+6 (30 %)
+
+7 (35 %)
+5 (25 %)
+8 (40 %)
+
+7 (35 %)
+5 (25 %)
+8 (40 %)
+
+8 (40 %)
+4 (20 %)
+8 (40 %)
+
+8 (40 %)
+5 (25 %)
+7 (35 %)
+
+3
+
+European Journal of Radiology 139 (2021) 109682
+
+J. Xie et al.
+
+Fig. 2. Three-dimensional fluid-attenuated
+inversion recovery (3D-FLAIR) images of
+the cochlear base turn level in three pa­
+tients. a: A 65-year-old patient (weight,
+60 kg) with a definitive diagnosis of
+Meniere’s disease of the right ear received a
+double dose of gadobutrol by intravenous
+injection. The basal turn signal intensity of
+the right ear was 8.438 and that of the left
+ear was 5.407. b: A 38-year-old patient
+(weight, 70 kg) with a definitive diagnosis of
+Meniere’s disease of the right ear received a
+double dose of gadodiamide by intravenous
+injection. The basal turn signal intensity of
+the right ear was 3.518 and that of the left
+ear was 2.637. c: A 57-year-old patient
+(weight, 70 kg) with a definitive diagnosis of
+Meniere’s disease of the left ear received a
+double dose of gadoterate meglumine by
+intravenous injection. The basal turn signal
+intensity of the right ear was 2.173 and that
+of the left ear was 2.764.
+
+Table 5
+Visual evaluation of the three contrast agents in the bilateral cochlea, vestibule, and semi-circular canal.
+Gadobutrol
+Cochlea
+Vestibule
+Semicircular canal
+
+Gadodiamide
+
+Gadoterate meglumine
+
+Affected (1/0)
+
+Unaffected (1/0)
+
+Affected (1/0)
+
+Unaffected (1/0)
+
+Affected (1/0)
+
+Unaffected (1/0)
+
+20/0
+20/0
+19/1
+
+20/0
+20/0
+19/1
+
+19/1
+19/1
+13/7
+
+20/0
+20/0
+13/7
+
+20/0
+20/0
+12/8
+
+20/0
+20/0
+13/7
+
+4
+
+J. Xie et al.
+
+European Journal of Radiology 139 (2021) 109682
+
+vestibule, and semi-circular canals for the three groups. Fisher’s exact
+probability results showed that the affected side’s semi-circular canal
+visualization in the gadobutrol group was better than that in the gado­
+diamide (P = 0.044) and gadoterate meglumine (P = 0.02) groups. The
+healthy side’s semi-circular canal visualization in the gadobutrol group
+was better than that in the gadodiamide (P = 0.044) and gadoterate
+meglumine (P = 0.044) groups. There was no significant difference in
+bilateral semi-circular canal visualization between the gadodiamide and
+gadoterate meglumine groups (Fig. 3). There were no significant dif­
+ferences in visual evaluation of the cochlea and vestibule among the
+three groups (P > 0.05).
+
+Table 6
+Pairwise comparison of the severity of cochlear and vestibular endolymphatic
+hydrops in the three patient groups.
+Gadolinium 1-Gadolinium 2
+
+Cochlea (P-value)
+
+Vestibule (P-value)
+
+Gadobutrol-gadodiamide
+Gadobutrol-gadoterate meglumine
+Gadodiamide-gadoterate meglumine
+
+0.632
+0.558
+0.915
+
+0.250
+0.215
+0.936
+
+P = 0.000; healthy ear, P = 0.007). Pairwise comparison showed that the
+bilateral signal intensities in the gadobutrol group were higher than
+those in the gadodiamide and gadoterate meglumine groups. However,
+there were no significant differences in bilateral signal intensities be­
+tween the gadodiamide and gadoterate meglumine groups (Table 4,
+Fig. 2).
+Table 5, shows the visual evaluation results for the cochlea,
+
+4. Discussion
+In contrast agent imaging in MRI, the imaging effectiveness of the
+contrast agent is associated with the ability of the contrast agent to
+Fig. 3. Three-dimensional fluid-attenuated
+inversion recovery (3D-FLAIR) images of the
+semi-circular canal level in three patients.
+a1–a2: A 62-year-old patient(weight, 80 kg)
+with a definitive diagnosis of Meniere’s disease
+of the left ear received a double dose of gado­
+butrol by intravenous injection. The lateral
+(thin arrow) and posterior (thick arrow) semicircular canals show significant enhancement.
+b: A 43-year-old patient(weight, 70 kg) with a
+definitive diagnosis of Meniere’s disease of the
+left ear received a double dose of gadodiamide
+by intravenous injection. The lateral (thin
+arrow) and posterior (thick arrow) semicircular canals appear blurry. c: A 63-year-old
+patient(weight, 70 kg) with a definitive diag­
+nosis of Meniere’s disease of the left ear
+received a double dose of gadoterate meglu­
+mine by intravenous injection. The lateral (thin
+arrow) and posterior (thick arrow) semicircular canals appear blurry.
+
+5
+
+J. Xie et al.
+
+European Journal of Radiology 139 (2021) 109682
+
+shorten the tissue T1 relaxation time, and the ability to shorten the T1
+relaxation time is affected by the concentration and relaxation rate of
+the contrast agent. If the tissue concentration or the relaxation rate of
+the contrast agent is higher, the ability to shorten the T1 relaxation time
+is stronger, and a better quality image is obtained as a result. The con­
+centration of gadobutrol used in this study was 1.0 mmol/L, and that of
+gadodiamide and gadoterate meglumine was 0.5 mmol/L. Thus, the
+concentration of gadobutrol was twice that of the other contrast agents.
+Injection of leading to greater effects in local contrast agent level, and
+more contrast agent molecules will carry out their effect in local tissues.
+In this study, there were no significant differences in weight between the
+three groups, and double doses were used for all contrast agents; this
+resulted in a higher concentration of gadobutrol compared to the other
+contrast agents. The relaxation rate refers to the quantitative value of
+relaxation time that is shortened by the MRI contrast agent under
+standard conditions. Studies have shown that the relaxation rate of
+gadobutrol is higher than that of gadodiamide and gadoterate meglu­
+mine in a field strength range of 0.47–4.7 T [22]. As the concentration
+and relaxation rate of gadobutrol are both higher than those of gado­
+diamide and gadoterate meglumine, gadobutrol can significantly
+shorten the tissue T1 relaxation time, leading to better quality can be
+obtained images. This study showed that the measured signal intensities
+in the basal turn of the cochlea in the gadobutrol group were higher than
+those in the gadodiamide and gadoterate meglumine groups. Eliezer
+et al. found that in the asymptomatic ear of patients with Meniere’s
+disease, gadobutrol showed higher signal intensity than gadoterate
+meglumine [17]. This result is consistent with the results of the current
+study.
+However, Eliezer et al. also found that the signal intensity of the
+symptomatic ear in the gadobutrol group was not significantly different
+to that of the gadoterate meglumine group [17], which is not consistent
+with the results of our study. One reason for this discrepancy may be that
+although our study showed no significant difference in the degree of
+cochlear and vestibular endolymphatic hydrops among the three groups
+(Table 5), the ratio of patients with moderate to significant endolym­
+phatic hydrops in the gadobutrol group (cochlea: 75 %, vestibula: 80 %)
+was higher than that of the gadodiamide (cochlea: 65 %, vestibula: 65
+%) and gadoterate meglumine (cochlea: 60 %, vestibula: 60 %) groups.
+Moreover, previous studies have shown that the permeability of the
+blood–labyrinth barrier is positively correlated with the severity of
+endolymphatic hydrops [23], the signal intensity in the basal turn of the
+cochlea in the affected ear is higher than the unaffected ear [24,25].The
+severity of endolymphatic hydrops in the gadobutrol group was higher
+than that in the other two groups in the current study, resulting in
+increased blood–labyrinth barrier permeability. This causes the con­
+centration of contrast agent in the perilymph to be higher and can
+explain the higher affected ear signal intensity in the gadobutrol group
+compared with the other two groups.
+Our study found that visualization of the semi-circular canals in both
+ears in the gadobutrol group was better than that in the gadodiamide
+and gadoterate meglumine groups; this finding is consistent with the
+study of Eliezer who found that semi-circular canal visualization in the
+gadobutrol group was better than that in the gadoterate meglumine
+group [17]. This can be explained by the fact that the concentration and
+relaxation rate of gadobutrol are higher than those of gadoterate
+meglumine. In addition, we found no significant differences in cochlear
+and vestibular visualization among the three contrast agent groups. This
+may be because of the anatomy of the inner ear as the arteries of the
+inner ear are mainly located at the cochlea and vestibule. After intra­
+venous injection with contrast agent, the contrast agent enters the
+perilymph through the blood–labyrinth barrier. The contrast agent is
+mostly distributed in the cochlea and vestibule. The differences in
+cochlear and vestibular distribution of the contrast agent between the
+three groups may be less than ideal because double doses of contrast
+agents were injected.
+Our study has some limitations. First, we did not measure signal
+
+intensity and conduct visual evaluation for the three types of gadolinium
+contrast agents in the same patient. Previous studies have shown that
+blood–labyrinth barrier permeability is positively correlated with the
+severity of endolymphatic hydrops [23]. Therefore, the signal intensity
+in the affected ear may be affected as a result of the different severities of
+endolymphatic hydrops in different patients. However, measurements of
+three different contrast agents in the same patient are not a clinical
+necessity, and we ensured that there was no significant difference in the
+severity of endolymphatic hydrops among the three groups, which
+weakens this limitation.
+Compared with gadoterate meglumine and gadodiamide, gadobutrol
+can provide a higher degree of perilymphatic enhancement and better
+anatomical details of the semi-circular canals in the bilateral ears of
+patients with Meniere’s disease.
+Funding
+This study has received funding by SKY Image Research Foundation
+(Z-2014-07-1912).
+Guarantor
+The scientific guarantor of this publication is Zhang Bo.
+Statistics and biometry
+No complex statistical methods were necessary for this paper.
+Informed consent
+Written informed consent was obtained from all subjects (patients) in
+this study.
+Ethical approval
+Institutional Review Board approval was obtained.
+Methodology
+• Prospective
+CRediT authorship contribution statement
+Jiapei Xie: Conceptualization, Methodology, Data curation, Writing
+- original draft. Weidong Zhang: Visualization, Investigation. Jingyi
+Zhu: Investigation. Lian Hui: Data curation. Songbai Li: Supervision,
+Project administration. Bo Zhang: Conceptualization, Methodology,
+Writing - review & editing.
+Declaration of Competing Interest
+The authors of this manuscript declare no relationships with any
+companies, whose products or services may be related to the subject
+matter of the article.
+References
+[1] T. Nakashima, I. Pyykko, M.A. Arroll, et al., Meniere’s disease, Nat. Rev. Dis.
+Primers 2 (1) (2016) 1–18.
+[2] C.S. Hallpike, H. Cairns, Observations on the pathology of Menie`re’s syndrome,
+Proc. R. Soc. Med. 31 (11) (1938) 1317–1336.
+[3] T. Nakashima, S. Naganawa, M. Sugiura, et al., Visualization of endolymphatic
+hydrops in patients with Meniere’s disease, Laryngoscope 117 (3) (2007) 415–420.
+[4] T. Nakashima, S. Naganawa, M. Teranishi, Endolymphatic hydrops revealed by
+intravenous gadolinium injection in patients with Ménière’s disease, Acta
+Otolaryngol. 130 (2010) 338–343.
+
+6
+
+J. Xie et al.
+
+European Journal of Radiology 139 (2021) 109682
+[15] N. Anzalone, T. Scarabino, C. Venturi, et al., Cerebral neoplastic enhancing lesions:
+multicenter, randomized, crossover intraindividual comparison between
+gadobutrol (1.0M) and gadoterate meglumine (0.5M) at 0.1 mmol Gd/kg body
+weight in a clinical setting, Eur. J. Radiol. 82 (1) (2013) 139–145.
+[16] M. Saake, S. Langner, C. Schwenke, et al., MRI in multiple sclerosis: an intraindividual, randomized and multicentric comparison of gadobutrol with gadoterate
+meglumine at 3 T, Eur. Radiol. 26 (3) (2016) 820–828.
+[17] M. Eliezer, G. Poillon, A. Gillibert, et al., Comparison of enhancement of the
+vestibular perilymph between gadoterate meglumine and gadobutrol at 3-Tesla in
+Meniere’s disease, Diagn. Interv. Imaging 99 (5) (2018) 271–277.
+[18] H. Suzuki, M. Teranishi, S. Naganawa, et al., Contrast-enhanced MRI of the inner
+ear after intratympanic injection of meglumine gadopentetate or gadodiamide
+hydrate, Acta Otolaryngol. 131 (2) (2011) 130–135.
+[19] J.A. Lopez-Escamez, J. Carey, W.H. Chung, et al., Diagnostic criteria for Meniere’s
+disease, J. Vestib. Res. 25 (1) (2015) 1–7.
+[20] T. Nakashima, S. Naganawa, I. Pyykko, et al., Grading of endolymphatic hydrops
+using magnetic resonance imaging, Acta Otolaryngol. Suppl. 129 (560) (2009) 5–8.
+[21] S. Shi, P. Guo, W. Wang, Magnetic resonance imaging of Meniere’s disease after
+intravenous administration of gadolinium, Ann. Otol. Rhinol. Laryngol. 127 (11)
+(2018) 777–782.
+[22] P. Martin Rohrer, P. Hans Bauer, Comparison of magnetic properties of MRI
+contrast media solutions at different magnetic field strengths, Invest. Radiol. 40
+(2005) 715–724.
+[23] M. Tagaya, M. Yamazaki, M. Teranishi, et al., Endolymphatic hydrops and bloodlabyrinth barrier in Meniere’s disease, Acta Otolaryngol. 131 (5) (2011) 474–479.
+[24] A. Bernaerts, R. Vanspauwen, C. Blaivie, et al., The value of four stage vestibular
+hydrops grading and asymmetric perilymphatic enhancement in the diagnosis of
+Meniere’s disease on MRI, Neuroradiology 61 (4) (2019) 421–429.
+[25] J.M. van Steekelenburg, A. van Weijnen, L.M.H. de Pont, et al., Value of
+endolymphatic Hydrops and perilymph signal intensity in suspected Meniere
+disease, AJNR Am. J. Neuroradiol. 41 (3) (2020) 529–534.
+
+[5] T. Iida, M. Teranishi, T. Yoshida, et al., Magnetic resonance imaging of the inner
+ear after both intratympanic and intravenous gadolinium injections, Acta
+Otolaryngol. 133 (5) (2013) 434–438.
+[6] T. Imai, A. Uno, T. Kitahara, et al., Evaluation of endolymphatic hydrops using 3-T
+MRI after intravenous gadolinium injection, Eur. Arch. Otorhinolaryngol. 274 (12)
+(2017) 4103–4111.
+[7] F. Fiorino, F.B. Pizzini, A. Beltramello, et al., Reliability of magnetic resonance
+imaging performed after intratympanic administration of gadolinium in the
+identification of endolymphatic hydrops in patients with Ménière’s disease, Otol.
+Neurotol. 32 (2011) 472–477.
+[8] M. Yamazaki, S. Naganawa, H. Kawai, et al., Gadolinium distribution in cochlear
+perilymph: differences between intratympanic and intravenous gadolinium
+injection, Neuroradiology 54 (10) (2012) 1161–1169.
+[9] D.M. Niyazov, J.C. Andrews, D. Strelioff, et al., Diagnosis of endolymphatic
+hydrops in vivo with magnetic resonance imaging, Otol. Neurotol. 22 (2001)
+813–817.
+[10] K. Jahnke, The blood-perilymph barrier, Arch Otorhinolaryngo 228 (1980) 29–34.
+[11] R.D. Swartz, L.J. Crofford, S.H. Phan, et al., Nephrogenic fibrosing dermopathy: a
+novel cutaneous fibrosing disorder in patients with renal failure, Am. J. Med. 114
+(7) (2003) 563–572.
+[12] M.A. Sieber, P. Lengsfeld, T. Frenzel, et al., Preclinical investigation to compare
+different gadolinium-based contrast agents regarding their propensity to release
+gadolinium in vivo and to trigger nephrogenic systemic fibrosis-like lesions, Eur.
+Radiol. 18 (10) (2008) 2164–2173.
+[13] J. HaraldKramer, E. Arnoldi, C.J. Francois, et al., Dynamic and static magnetic
+resonance angiography of the supra-aortic vessels at 3.0 T: intraindividual
+comparison of gadobutrol,gadobenate dimeglumine, and gadoterate meglumine at
+equimolar dose, Invest. Radiol. 48 (2013) 121–128.
+[14] J.N. Morelli, V.M. Runge, F. Ai, et al., Magnetic resonance evaluation of renal
+artery stenosis in a swine model: performance of low-dose gadobutrol versus
+gadoterate meglumine in comparison with digital subtraction intra-arterial
+catheter angiography, Invest. Radiol. 47 (2012) 376–382.
+
+7
+
+

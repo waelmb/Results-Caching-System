@@ -16,28 +16,13 @@ Courtesy from scraper.ipynb by Bhavya
 # pip install bs4 selenium
 class JavaScript_scrape():
     """
-    scrapping javascript based website,
-    extracting the url, abstract, and title for all websites
+    scrapping javascript based website
     """
-
-    def __init__(self):
-        """
-        generate search links
-        :param query:
-            search keywords
-        :type  query:
-            `unicode`
-        :param source_weight:
-            source priority
-        :type  source_weight:
-            `float`
-        """
 
     def get_js_soup(self, url):
         """
         uses webdriver object to  generate the first 10 results ( first page)
-        execute javascript code and
-        get dynamically loaded webcontent
+        execute javascript code and get dynamically loaded webcontent
         """
         # create a webdriver object and set options for headless browsing
         options = Options()
@@ -90,13 +75,45 @@ class JavaScript_scrape():
         #close the display if the system is linux
         if platform == "linux" or platform == "linux2":
             display.stop()
-            
-        return soup
+        
+        #remove script and style
+        for script in soup(["script", "style"]):
+            script.decompose()
 
+        return soup        
 
-    def scrape_medicalNewsToday(self, limit=5):
+    def process_output(self, articles=[], output='list', source="unknown"):
         """
-        extracts the title, url, and abstract for upToDate
+        Processes the output according to the user needs
+        """
+        if output == 'txt':
+            curr_path = os.getcwd()
+            output_path = curr_path + '\\articles'
+            
+            if len(articles) == 0:
+                return []
+
+            #make directory articles if it does not exist 
+            if not os.path.exists(output_path):
+                os.makedirs(output_path)
+
+            #iterate through articles and print them out
+            for i, article in enumerate(articles):                
+                if len(article) < 1:
+                    continue
+                
+                with open(output_path+'\\'+source+'-'+str(i)+'.txt', 'w') as f:
+                    f.write(article)
+
+        return articles
+
+    def removeNonAsciiCharacters(self, string):
+        return string.encode('ascii',errors='ignore').decode('utf-8')   #removes non-ascii characters
+
+
+    def scrape_medicalNewsToday(self, limit=5, output='list'):
+        """
+        extracts newest articles from medical news today
         """
         news_links = []
         base_url = 'https://www.medicalnewstoday.com/'
@@ -129,21 +146,21 @@ class JavaScript_scrape():
 
             #get article titles
             if article_holder.find('h1') != None:
-                article+= article_holder.find('h1').text + '\n'
+                article+= self.removeNonAsciiCharacters(article_holder.find('h1').text) + '\n'
 
             #get paragraphs
             for p_holder in article_holder.find_all('p'):
                 if p_holder != None:
-                    article+= p_holder.text + '\n'
+                    article+= self.removeNonAsciiCharacters(p_holder.text) + '\n'
             
             if len(article) > 0:
                 articles.append(article)
 
-        return articles
+        return self.process_output(articles=articles, output=output, source='medicalNewsToday')
 
-    def scrape_aapNews(self, limit=5):
+    def scrape_aapNews(self, limit=5, output='list'):
         """
-        extracts the title, url, and abstract for upToDate
+        extracts newest articles from AAP news
         """
         news_links = []
         news_url = 'https://www.aappublications.org/news'
@@ -152,7 +169,7 @@ class JavaScript_scrape():
         # scrape to find news links in the base url
         soup = self.get_js_soup(news_url)
 
-        for i, link_holder in enumerate(soup.find_all('div',class_='highwire-cite-highwire-news-story')):
+        for i, link_holder in enumerate(soup.find_all('div',class_='widget-SelectableContentList')):
             if link_holder != None:
                 links = link_holder.find('a')['href'] #get url
                 news_links.append(links) 
@@ -167,34 +184,32 @@ class JavaScript_scrape():
         # scrape articles
         for link in news_links:
             #url returned is relative, so we need to add base url
-            soup = self.get_js_soup(base_url+link)
+            soup = self.get_js_soup(link)
             article = ""
-            print(base_url+link)
 
             #get div that contains the article
-            article_holder = soup.find('div', class_='panel-display panels-960-layout jcore-2col-layout')
 
-            if article_holder == None:
+            if soup == None:
                 continue 
 
             #get article titles
-            title_holder = article_holder.find('div', {"id": "page-title"})
-            if title_holder != None and title_holder.find('span') != None:
-                article+= article_holder.find('span').text + '\n'
-
+            title_holder = soup.find('span', {"class": "header-title"})
+            if title_holder != None:
+                article+= self.removeNonAsciiCharacters(title_holder.text) + '\n'
+    
             #get paragraphs
-            for p_holder in article_holder.find_all('p'):
+            for p_holder in soup.find_all('p'):
                 if p_holder != None:
-                    article+= p_holder.text + '\n'
+                    article+= self.removeNonAsciiCharacters(p_holder.text) + '\n'
 
             if len(article) > 0:
                 articles.append(article)
 
-        return articles
+        return self.process_output(articles=articles, output=output, source='aapNews')
         
 
 if __name__ == '__main__':
-    items = JavaScript_scrape().scrape_aapNews()
+    items = JavaScript_scrape().scrape_aapNews(limit=1, output='txt')
     print(items)
     print('articles', len(items))
 

@@ -1,0 +1,44 @@
+Crohn's and the second brain: Study identifies serotonin as trigger
+A new study has discovered a link between serotonin, autophagy, and the gut microbiome, suggesting that a high level of the neurotransmitter could be partly to blame for the inflammation in chronic gastrointestinal diseases such as Crohns.
+Crohns is one of the two major forms of IBD, which causes the gastrointestinal tract to become inflamed, resulting in sores, ulcers, or scarring in the digestive system. The cause of the inflammation in Crohns disease is still not known.
+Health experts can describe autophagy best as the routine housework that the cells carry out to clean out impaired or malfunctioning subcellular elements.
+The study adds to existing research linking IBDs to stress and the health of the gut microbiome. 
+The study, from McMaster University in Hamilton, Canada, appears in the journal Science Advances. 
+As part of the study, the researchers analyzed blood and biopsy samples from 18 people with Crohns disease. They then compared them to the same number of individuals from healthy control groups. 
+The team also used a mouse model of IBD.
+They investigated interactions between mucosal serotonin, autophagy, and microbiota in the regulation of intestinal inflammation.
+The scientists came to the following conclusions:
+Conversely, reduced 5-HT in the gut increased autophagy in the colon and decreased the severity of intestinal inflammation.
+Therefore, the study identified serotonin as a novel regulator of the autophagy-microbiota axis in IBDs.
+Findings of our present study suggest that in IBD, such as in Crohns disease, there is an increase in gut serotonin level, which acts as a brake on the autophagy process of intestinal epithelial cells. This impairment of autophagy in the epithelial cells leads to a reduction in antimicrobial peptide production, which alters the normal gut microbiota composition towards the colitogenic type, said Prof. Waliul Khan, senior author of the study and professor of pathology and molecular medicine at McMaster University.
+This disrupted microbiota stimulates the secretion of proinflammatory mediators, which ultimately increases the severity of colitis, he told Medical News Today.
+The gut microbiota comprises trillions of microorganisms that live in the digestive tract. It helps digestion, aids the immune system, and prevents pathogens from invading the body. 
+Recent studies have suggested that gut microbiota plays a crucial role in the pathogenesis of Crohns disease. A disrupted microbiome also has associations with an increased risk of IBD.
+On the other hand, serotonin is a neurotransmitter that regulates many functions in the brain and the nervous system, affecting mood, behavior, and anxiety levels.
+Previous research has found that patients with Crohns disease had elevated levels of serotonin.
+In recent years, the link between the two has come to the forefront, with researchers calling the gut the second brain of the body.
+This largely stems from the fact that the gut produces most of the serotonin in the body.
+What is often underappreciated is that the vast majority of serotonin in the body is found in the gut, not the brain. The gut contains about 95% of the bodys serotonin and is generated mainly in hormone-producing cells, known as enterochromaffin cells, in the gut, said Prof. Khan.
+He went on to explain that changes in these cells numbers and serotonin levels are observable in various gastrointestinal (GI) diseases, including Crohns.
+Due to the strategic location of enterochromaffin cells near the gut microbiota and the important emerging role of serotonin and microbiota in GI pathology and pathophysiology, I decided to explore the relationship between serotonin, microbiota, and Crohns disease, he said.
+Dr. Arun Swaminath, chief of gastroenterology and director of the Inflammatory Bowel Diseases program at Lenox Hill Hospital, NY, said the study shows how cell deaths and inflammation are linked.
+Whats interesting is that serotonin in the gut appears to mediate how well autophagy works [directly]. Increased levels inhibit autophagy, and this results in changes to the surrounding microbiota, increasing susceptibility to inflammation. This seems to hold true for cells collected from Crohns patients. Dr. Arun Swaminath
+Dr. Swaminath also touched on gene involvement in Crohns.
+There have been many genes associated with the potential development of Crohns [or] IBD (over 200 to date), but each gene mutation accounts for only a part of the risk, and the puzzle of how each gene is involved in the pathogenesis is still being unraveled, he said.
+One of those identified gene mutations is ATG16, which has to do with cell autophagy. In this study, the authors have started to unravel exactly how autophagy is involved in intestinal inflammation using a Crohns mouse model, he told MNT. 
+Meanwhile, Dr. Ashkan Farhadi, a gastroenterologist at MemorialCare Orange Coast Medical Center in California, said the results were in line with expectations, as serotonin was one of the most important neurotransmitters in the gut.
+We know that stress has a major role in the disease. Stress works in a different way by messing up gut functions, causing changes in intestinal permeability. And then, when the permeability changes, bacteria or germs can get access to this system. [T]he bacteria can damage the mucosa of the intestines, he explained.
+This, in turn, activates the immune function and heightens inflammation in the body.
+He said that although research and discussions on serotonin footprints in the etiology or pathophysiology of ulcerative colitis have been around for some time, having it associated with autophagy was interesting.
+He added that the study was a step forward in identifying a target or trigger for IBDs, such as Crohns, but did not explain the whole story.
+What you see here is another part of the puzzle that they are putting together, with a focus on serotonin and autophagy. The whole concept is not that new, [but] it creates a hypothesis for future studies, Dr. Farhadi told MNT.
+However, as with many modern studies on the microbiome, the problem is that they all fall short of showing causation versus association, he pointed out, saying it was too early to talk about clinical implications.
+In 2018, an estimated 135,000 Canadians received a diagnosis of Crohns disease, with thousands more living with other forms of IBD. An analysis by Crohns and Colitis Canada predicted that by 2030, this prevalence will increase by 50%.
+With numbers on the rise, scientists are focusing on finding a cure or treatment.
+According to the studys findings, Prof. Khan said that blocking serotonin signaling in the colon could release the brake on autophagy and promote proper functioning, therefore reducing the severity of colitis.
+The next step will be to translate these findings to the clinic to devise potential new treatments.
+Prof. Khan and his team plan to study this association in larger cohorts and also in individuals with ulcerative colitis, another form of IBD. Ulcerative colitis causes similar symptoms to Crohns but only affects the intestines.
+Dr. Swaminath said that although the studys findings had the potential of having a large effect in treating Crohns, researchers would have to replicate the data in a larger patient population. 
+[The findings] could provide new pathways for drugs that inhibit serotonin production or accelerate serotonin destruction to play a role in the treatment of Crohns disease. Currently, drugs that increase serotonin are sometimes used for Crohns patients to mitigate pain and visceral hypersensitivity. Dr. Arun Swaminath
+However, he pointed out a caveat.
+We may be dissuaded from that treatment strategy if long-term exposure actually potentiates underlying inflammation, he said.

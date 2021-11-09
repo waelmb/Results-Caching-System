@@ -1,0 +1,525 @@
+Auris Nasus Larynx 48 (2021) 803–808
+Contents lists available at ScienceDirect
+
+Auris Nasus Larynx
+journal homepage: www.elsevier.com/locate/anl
+
+The relationship between nutrition and Ménière’s disease
+Esma Oğuz a,1, Aybike Cebeci a,1, Cennet Reyyan Geçici b,1,∗
+a Department
+b Department
+
+A R T I C L E
+
+of Nutrition and Dietetics, Institute of Health Sciences, Marmara University, Istanbul, Turkey
+of Audiology, Faculty of Health Sciences, Marmara University, Istanbul, Turkey
+
+I N F O
+
+Article history:
+Received 9 January 2021
+Accepted 2 March 2021
+Available online 26 March 2021
+Keywords:
+Ménière’s disease
+Endolymphatic hydrops
+Low sodium intake
+Gluten free diet
+Allergy
+
+A B S T R A C T
+
+Ménière’s disease is an inner ear disease with attacks characterized by ear fullness, tinnitus,
+fluctuant sensorineural hearing loss and vertigo. Although pathophysiology of the disease is not
+fully known, endolymphatic hydrops are believed to play a role. Although there is no certain
+treatment procedure for Ménière’s disease, some treatments are applied to prevent attacks, to
+treat the symptoms that occur during the attacks, and to prevent the permanent effects of the
+symptoms on the hearing and balance system. Lifestyle changes, dietary modifications, diuretics,
+vasodilator corticosteroids, intratympanic steroids, surgical methods are some of these treatment
+methods. Dietary modification includes a low sodium diet, a reduction in daily alcohol and
+caffeine intake, a gluten-free diet, and a new dietary approach to specially processed grains, all
+of which are first-line treatments. The goal of this review article is to examine the relationship
+between MD and dietary intervention, which is frequently used in the prevention and treatment
+of MD attacks.
+© 2021 Oto-Rhino-Laryngological Society of Japan Inc. Published by Elsevier B.V. All rights
+reserved.
+
+1. Introduction
+Ménière’s disease (MD) is an idiopathic inner ear disorder characterized by spontaneous recurrent vertigo, fluctuating sensorineural hearing loss, aural fullness and tinnitus [1].
+Ménière’s disease is more common in Caucasians, individuals
+between the ages of 40–60, and women [2,3]. Although less
+common, MD can also affect children [4].
+Precisely determining the population-level incidence and
+prevalence of the disease and establishing relationships with
+potential risk factors is a challenge given the limited number
+of epidemiological studies of Ménière’s disease. In a largescale study conducted in the USA in 2010, the prevalence
+of Ménière’s disease was determined to be 200 per 100,000
+
+∗
+
+Corresponding author.
+E-mail address: reyyan.gecici@marmara.edu.tr (C.R. Geçici).
+1 We confirm that this work is original and has not been, and will not be
+submitted elsewhere.The study was not funded.
+
+people [5]. Epidemiological studies have shown a genetic predisposition for MD [6].
+The MD classification is divided into 4 groups as certain,
+definite, probable, possible MD and 2 groups as definite and
+probable according to the last classification defined by Barany
+Society in 2015 as seen in Table l [7].
+Ménière’s disease can be unilateral or bilateral, and both
+ears are affected in 25–40% of the cases [7,8].
+The possibility of bilateral occurrence and symptoms of
+the disease increase with age. While the possibility of unilateral MD to be bilateral in the first 10 years is 35% or
+more, this rate is 47% in MD lasting 20 years [1]. MD impose a huge burden on the patients and reduces the ability to work due to severe hearing loss and chronic balance
+problems [7,8].
+Typical histopathological finding of MD is endolymphatic
+hydrops. Endolymphatic hydrops (EH) is thought to be caused
+by decreased absorption, increased production, or both of endolymph. It is believed that there is a relationship between
+
+https://doi.org/10.1016/j.anl.2021.03.006
+0385-8146/© 2021 Oto-Rhino-Laryngological Society of Japan Inc. Published by Elsevier B.V. All rights reserved.
+
+804
+
+E. Oğuz, A. Cebeci and C.R. Geçici / Auris Nasus Larynx 48 (2021) 803–808
+
+Table 1. Ménière’s disease classification.
+Definite MD
+
+Probable MD
+
+A. Two or more spontaneous episodes of vertigo, each lasting
+20 min to 12 h.
+B. Audiometrically documented low- to medium- frequency
+sensorineural hearing loss in one ear, defining the affected ear
+on at least one occasion before, during or after one of the
+episodes of vertigo.
+C. Fluctuating aural symptoms(hearing, tinnitus or fullness) in
+the affected ear.
+D. Not better accounted for by another vestibular diagnosis.
+
+A. Two or more episodes of vertigo or dizziness, each lasting
+20 min to 24 h.
+B. Fluctuating aural symptoms(hearing, tinnitus or fullness) in
+the affected ear.
+
+the disruption of homeostatic mechanisms that maintain fluid
+and electrolyte balance in the inner ear and endolymph accumulation [2].
+Studies suggest that EH has a causal relationship with
+Ménière’s, but requires additional cofactors (viral infection,
+allergy, etc.) to become symptomatic [9].
+Ménière’s disease treatment consists of reducing attacks,
+relieving symptoms, and preventing permanent damage to
+hearing and balance structures. Lifestyle changes, diuretics,
+vasodilators, corticosteroids, intratympanic therapy and surgical treatment methods are preferred. The first-line treatment
+commonly includes dietary modification and lifestyle changes
+such as restriction of salt, caffeine, alcohol intake, reduction
+of stress and anxiety and several drugs [10]. Although there
+is no complete recovery in this disease, which has worsened
+with the progression of sensorineural hearing loss over the
+years, it has been reported that more than 85% of patients
+with Ménière’s disease improve with lifestyle changes and
+medical or surgical treatment [11]. Dietary changes, including low salt diet, caffeine, and alcohol intake, are commonly
+recommended for people with Ménière’s disease [12]. It is
+clinically known that dietary changes are generally helpful
+in preventing disease progression [7]. A reduced sodium and
+caffeine-free diet was used in a study conducted to evaluate
+compliance and willingness to dietary changes in the treatment of vertigo in individuals with Ménière’s disease. It has
+been shown in the study that nutrition can play an important
+role in the treatment of this disease [8].
+The aim of this review article is to examine the relationship
+between MD and dietary intervention, which is frequently
+used in the prevention and treatment of MD attacks.
+2. Low sodium and Ménière’s disease
+The salt-reduced diet has been used frequently as the first
+option in the treatment of MD since the 1930s [13]. While
+there is no sodium recommendation specifically for patients
+with MD, in the American Dietary Guideline published for
+the years 2020–2025, it has been suggested that daily sodium
+intake should be below 2300mg for individuals aged 14 and
+over [14]. High salt intake is one of the factors of acute exacerbation of MD symptoms [15]. Data obtained from animals and humans showed that the low-salt diet made almost
+no changes in plasma sodium levels and that sodium levels were normal even in those whose presence of endolymphatic hydrops was proved histopathologically. These findings
+
+D. Not better accounted for by another vestibular diagnosis.
+
+show that the relationship between endolymphatic hydrops
+and sodium levels is more complex than thought [16].
+Salt reduction is associated with a physiological increase
+in plasma aldosterone level [17]. Studies have shown that
+aldosterone increases the endolymph absorption in the inner
+ear [18,19]. Mineral corticoid receptors are identified in the
+endolymphatic sac. In addition, epithelial Na+ channels,
+which are claimed to be controlled by Na+ /K+ -ATPase,
+thiazide sensitive Na+ Cl− cotransporter and aldosterone,
+are also expressed in the endolymphatic sac [19,20,21] The
+endolymphatic sac has high Na permeability and Na+ /K+ ATPase activity. This potentially contributes to endolymph
+absorption [19]. Therefore, in patients with MD, elevations
+in aldosterone levels due to a low-salt diet can increase
+endolymphatic absorption within the endolymphatic sac and
+ameliorate endolymphatic hydrops, a characteristic feature of
+MD.
+13 patients with MD were given a low-salt diet (2 g Na /
+day) for 2 years, initially 24 h urine samples were collected,
+and urine samples were collected at 2, 4, 6 and 8 weeks and 6,
+12, 18 and 24 months after initiating this diet. Besides plasma
+osmotic pressure, aldosterone, cortisol, hormones (including
+anti-diuretic hormone), Na, K and Cl in the blood were measured. In the study, it has been found that a low-salt diet is an
+effective treatment for individuals with Ménière’s disease. It
+has been observed that a low-salt diet can cause an increase
+in ion transport and plasma aldosterone concentration, which
+can absorb endolymph within the endolymphatic sac [22]. It
+has been stated that it may be beneficial to exclude foods
+with high sodium content from their diets as part of sodium
+restriction in these patients
+Monosodium glutamate (MSG) is an additive found in
+frozen foods, canned food, soups, salad dressings, processed
+meats and sauces, especially added to flavor Asian dishes.
+Reducing MSG intake as part of sodium restriction may also
+help prevent Ménière’s disease [23].
+3. Caffeine and alcohol consumption
+Caffeine is a balanced unbound plant alkaloid found in
+the diet as a component of coffee, cocoa, tea, and foods.
+Methylxanthine is the most common organic compound found
+in caffeine. Decreasing caffeine consumption can cause effects
+that can result in symptoms ranging from headaches to mental
+disorders). Increased caffeine consumption is believed to play
+a role in MD. As is known, caffeine increases vasoconstriction
+
+E. Oğuz, A. Cebeci and C.R. Geçici / Auris Nasus Larynx 48 (2021) 803–808
+
+and decreased blood flow. In this way, impaired autoregulation
+of blood flow in ears with endolymphatic hydrops can prevent
+adaptation. It is thought that this mechanism will predispose
+to migraine and MD [24].
+Excessive alcohol and caffeine consumption causes large
+fluid changes throughout the physiological fluid compartments, leading to electrochemical instability of inner ear fluids [25]. Caffeine is distributed into body fluid compartments
+due to the sympathomimetic and diuretic effects of methylxanthine [26].
+In a study comparing caffeine consumption (intake of
+coffee, tea, cola-type drinks, energy drinks and chocolatecontaining beverages or foods) between individuals with
+Ménière’s disease (group A), patients with dizziness (group
+B), and control subjects (group C). It was found that the
+group consisting of Menière’s patients consumed higher levels of caffeine compared to the other two study groups [27].
+Alcohol consumption is associated with many health problems, including cancers, cardiovascular disease, and liver disease. Alcohol is considered to be the possible cause of inner
+ear abnormalities [28].
+The negative effects of alcohol on the cochlea and
+labyrinth have been reported by several researchers. Although
+scientific evidence of these toxic effects is uncertain, individuals with diseases affecting the inner ear are recommended
+to avoid alcohol consumption [28].
+To analyze the possible impact of alcoholic beverage consumption on Menière’s disease, two aspects must be considered. Both issues are linked to body fluid balance. First of all,
+alcohol consumption includes increased water intake (all alcoholic beverages contain water) and therefore this consumption
+should be taken into account when evaluating water intake.
+Another issue is the known inhibitory effect of alcohol on hypothalamic vasopressin production [29]. The reduced release
+of this neurohormone will increase the diuresis and, as previously stated, both the permeability of water in the inner ear
+and endolymph production will normalize by reducing the endolymphatic pressure. Accordingly, it has been reported that
+chronic administration of vasopressin causes endolymphatic
+hydrops in guinea pigs. In addition, it has been reported that
+increasing the level of vasopressin continuously increases the
+sodium concentration in the scala media of the cochlea [30].
+Based on these findings, some dietary manipulations, such
+as ’water intake therapy’, have been proposed in Menière’s
+disease.
+Alcohol can cause vasoconstriction and a decrease in blood
+flow in the inner ear, which can worsen the patient’s symptoms [31]. Although there are few published studies on caffeine and alcohol-related MD, studies include dietary changes
+to limit alcohol and caffeine intake [32].
+4. Allergy and gluten sensitivity
+The relationship between allergy and MD first appeared
+in the literature in 1923. Allergy is thought to be one of the
+possible extrinsic factor that, when combined with underlying intrinsic factors, may lead to MD. Derebery and Berliner
+defined three theories relating allergy to MD that focus on
+inflammation within the endolymphatic sac [33]. The sac’s
+
+805
+
+peripheral and fenestrated blood vessels could allow antigen
+entry, stimulating mast cell degranulation in the perisaccular connective tissue. A second possible mechanism involves
+the production of a circulating immune complex, such as a
+food antigen, that accumulates along the endolymphatic sac
+fenestrated blood vessels to produce inflammation. This leads
+to inflammation and increased permeability as well as fluid
+balance disruption. A final theory pertains to a viral antigenallergic interaction. Viruses have been shown to exacerbate
+allergic symptoms by enhancing histamine release and can
+damage epithelial surfaces as well as trigger T-cell migration
+to the endolymphatic sac [34].
+Pan et al. study, the frequency of allergies was found to
+be higher in patients with Ménière’s compared to the control group [35]. Similarly subjects with a history of MD had
+elevated IgE levels compared to control groups (43.3% of
+subjects vs. 19.5%) [36]. Savastano et al. found elevated immune complexes, interleukins, and autoantibodies in patients
+diagnosed with MD [34].
+Food allergies have been associated with MD. In Derebery’s study, wheat (gliadin) was found to be the most common food allergen in MD patients. Gliadin is considered the
+major cause of IgE mediated hypersensitivity in people with
+wheat allergy [37].
+Di Berardino et al. investigated the incidence of gliadin IgE
+hypersensitivity in patients affected by MD. Pharmacologically untreated MD patients were recruited and compared with
+two control groups. This study compared 58 patients with
+MD, 25 healthy controls, and 25 patients with proven grass
+pollen rhinoconjunctivitis. There are different possible mechanisms by which an allergic reaction produces MD symptoms.
+Skin prick testing has been performed against food allergens
+including gliadin. Skin test 8 out of 33 subjects with MD
+had a positive response in the early phase and the remaining
+5 subjects in the late phase. Gliadin prick test was negative
+for both control groups [38,39].
+In another study, an increase in the production of antibodies against gluten biomarkers was observed in patients
+with MD. This study assessed the reactivity of sera from 28
+patients with definite MD and 100 healthy controls against
+a repertoire of 51 antigens usually associated with immune
+reaction to gluten. MD patients showed an increase of antiwheat IgA, anti-cerebellar peptide IgA and anti-glutamic acid
+decarboxylase (GAD) 65 IgM compared to healthy controls.
+In particular, the increase of antiwheat IgA and GAD 65 IgM
+has been confirmed in a subgroup of MD patients symptomatically responding to a gluten free diet (GFD). In MD patients, an increase of the antibody production against gluten
+biomarkers was observed; in particular, anti- wheat IgA seems
+to be associated to clinical response to GFD [38].
+Although research on the treatment of allergy due to MD is
+limited, patients using immunotherapy and food elimination
+treatments for allergy have reported a decrease in the frequency and intensity of attacks, as well as symptoms such as
+tinnitus and dizziness, compared to the control group. Questioning the allergy history of patients with Ménière’s and
+performing allergy testing will be an appropriate treatment
+method.
+
+E. Oğuz, A. Cebeci and C.R. Geçici / Auris Nasus Larynx 48 (2021) 803–808
+
+806
+
+5. Specially processed cereals
+Intake of antisecretory factor (AF)-inducing specially processed cereals (SPC-flakes) has been suggested as complementary therapy for Ménière’s disease. Antisecretory factor
+is a 41 kDa protein originally isolated for its ability to inhibit
+experimental diarrhea [40]. The detailed mechanism of action
+of AF is not known, but AF appears to act as a modulator of
+water and ion transport [41]. Antisecretory factor activity can
+also be increased by the intake of specific food components
+[42,43], for example the intake of SPC-flakes, results in an
+increase of AF activity in plasma [42].
+Hanner et al. hypothesized that an increased AF activity
+could positively affect the course of MD, their work demonstrated that the intake of SPC-flakes not only significantly
+reduced vertigo in a half of the patients, but was also associated with an increased level of active AF and positive clinical
+outcome [44]. Treatment with SPC appears to be well tolerated by most patients without any complications and, in most
+of studies, more than half of the study cohort reported subjective improvement in functional level. AF is thought to play
+a role in endolymph homeostasis [45].
+By contrast, Ingvardsen and Klokker observed that antisecretory factor-inducing (AF) SPC were not shown to
+significantly improve the functional level in patients with MD
+[46].
+6. Water intake
+Regulation of water balance is an important component
+of body homeostasis. Aquaporins (AQPs) facilitate osmotic
+water transport across plasma membranes [47,48]. So far 13
+aquaporin isoforms (AQP0 - AQP12) have been identified.
+It was discovered in the inner ear at AQP 1–5, 7 and 9 by
+Comacchio et al. [49]. This finding suggests that homeostasis
+of inner ear fluids is essential for normal hearing and balance
+[48,49]. It has been reported that vasopressin concentration in
+the blood of patients with MD increased, vasopressin administration caused endolymphatic hydrops in guinea pigs, and
+type-2 vasopressin receptor mRNA was expressed in the rat
+inner ear [50].
+AQP and K + channels in the inner ear play a role in the
+homeostasis of inner ear fluids. Lopes et al. found mutations
+in the AQP2, AQP3 and KCNE1 genes in individuals with
+MD in their study [51].
+Various experimental and clinical evidences suggest a possible role of Arginine-Vasopressin (AVP) in the development
+of endolymphatic hydrops. Therefore, it is thought that reducing plasma AVP levels with water intake may be a treatment
+method in MD patients [50,52]
+The hypothetical explanations for the benefit of water intake therapy for patients with MD is as follows:
+1. Adequate water intake during short-term administration
+of an osmotic diuretic improves endolymphatic hydrops
+and keeps plasma osmolality within the normal range.
+2. Low plasma osmolality minimizes the secretion of AVP
+from the posterior lobe of the pituitary gland.
+
+3. The amount and activity of AVP receptors could be normalized.
+4. Water permeability in the inner ear could be normalized
+by lower AVP levels in plasma.
+5. These actions together would reduce the endolymphatic
+pressure and prevent its symptoms [50,52,53].
+Naganuma et al. divided individuals with MD into 2 groups
+as those treated with conventional treatment and those treated
+with the water intake treatment they described. For patients
+with MD, water intake therapy shows that water intake is
+more effective in correcting and preventing hearing loss compared to conventional therapy. Increasing water consumption
+and decreasing plasma Antidiuretic Hormone (ADH) level
+significantly improved hearing levels in these patients and
+decreased attacks were observed. Regulating water may be a
+simple and cost- effective treatment method for patients with
+MD [53].
+One study compared plasma osmolality levels of individuals with MD and normal individuals after 12 h of fasting and
+thirst. Although plasma osmolality levels of individuals with
+MD were within normal limits, they were found to be higher
+than normal individuals [48].
+
+7. Conclusions
+Ménière’s disease affect hundreds of thousands of patients
+each year around the world. As with many diseases, there is
+still no clear cure for this disease. However, significant improvements have been made in dealing with this disease over
+the centuries, medical and surgical treatment, dietary modifications and lifestyle changes have been implemented to help
+patients cope with symptoms. However, the effect of dietary
+modification is highly dependent on patient compliance and
+this variable is highly complex. Effects such as food preferences and eating habits of individuals affect the implementation of dietary intervention.
+Although diet therapy may not affect everyone the same
+way, low sodium diet, restriction of caffeine and alcohol are
+often recommended for patients with MD. Patients should be
+advised to avoid using salt at the men and limit their use
+during cooking, and patients should be counseled to carefully
+review the "nutritional information" labels of the products,
+not only for sodium content but also for portion size. The
+importance of reducing caffeine and alcohol intake in population groups at high risk for MD should be recognized. Caffeine and alcohol intake can cause narrowing of blood vessels
+(vasoconstriction) and a decrease in blood flow to the inner
+ear. This situation can worsen patients’ symptoms.
+The prevalence of allergies in patients with MD is higher
+than the general population. When patients with MD and allergies are treated with specific allergy immunotherapy and /
+or diet elimination, a significant reduction in the severity of
+MD symptoms could be achieved. A restrictive gluten-free
+diet could be helpful by eliminating foods containing wheat,
+rye, barley, oats and their derivatives especially in Meniere’s
+disease patients with gluten allergy. New dietary approach,
+
+E. Oğuz, A. Cebeci and C.R. Geçici / Auris Nasus Larynx 48 (2021) 803–808
+
+such SPC-flakes, are being evaluated, its effectiveness should
+be supported by studies.
+Because of all these conditions, it is believed that individuals with a complex disease such as MD should include Nutrition and Dietetic Specialists in the treatment and follow-up
+process, which is important for both audiologists and nutritionists to work together.
+Declaration of Competing Interest
+The authors declare no conflict of interest and do not have
+any potential financial conflict of interest related to or could
+influence this work.
+References
+[1] Nakashima T, Pyykkö I, Arroll MA, Casselbrant ML, Foster CA, Manzoor NF, et al. Meniere’s disease. Nat Rev Dis Primers 2016;2(1):1–18.
+[2] da Costa SS, De Sousa L, Piza M. Meniere’s disease: overview, epidemiology, and natural history. Otolaryngol Clin N Am 2002;35(3):455–95.
+[3] Sajjadi H, Paparella MM. Meniere’s disease. Lancet 2008;372(9636):
+406–414.
+[4] Choung Y, Park K, Kim C, Kim H, Kim K. Rare cases of Ménière’s
+disease in children. J Laryngol Otol 2006;120(4):343–52.
+[5] Alexander TH, Harris JP. Current epidemiology of Meniere’s syndrome.
+Otolaryngol Clin N Am 2010;43(5):965–70.
+[6] Morrison A, Bailey M, Morrison G. Familial Meniere’s disease: clinical
+and genetic aspects. J Laryngol Otol 2009;123(1):29–37.
+[7] Lopez-Escamez JA, Viciana D, Garrido-Fernandez P. Impact of bilaterality and headache on health-related quality of life in Meniere’s disease,
+annals of otology. Rhinol Laryngol 2009;118(6):409–16.
+[8] Levo H, Stephens D, Poe D, Kentala E, Rasku J, Pyykko I. EuroQol 5D
+quality of life in Meniere’s disorder can be explained with symptoms
+and disabilities. Int J Rehabil Res 2012;35(3):197–202.
+[9] Foster CA, Breeze RE. Endolymphatic hydrops in Ménière’s
+disease: cause, consequence, or epiphenomenon? Otol Neurotol
+2013;34(7):1210–14.
+[10] Hussain K, Murdin L, Schilder AG. Restriction of salt, caffeine
+and alcohol intake for the treatment of Ménière’s disease or syndrome.. Cochrane Database Syst Rev 2018;12:CD012173. doi:10.1002/
+14651858.CD012173.pub2.
+[11] Linthicum Jr FH, Gortman AM. Endolymphatic hydrops and blockage
+of the endolymphatic duct. Otol Neurotol Off Publ Am Otolo Soc Am
+Neurotol Soc Eur Acad Otol Neurotol 2009;30(2):250.
+[12] Klockars T, Kentala E. Inheritance of Meniere’s disease in the Finnish
+population. Arch Otolaryngol Head Neck Surg 2007;133(1):73–7.
+[13] Gates GA. Meniere’s disease: medical therapy. Ménière’s Disease. The
+Hague, Netherlands: Kugler publications. 1999:329–40.
+[14] Americans DGF. 2020–2025 Make Every Bite Count With the Dietary
+Guidelines; https:// www.dietaryguidelines.gov/ sites/ default/ files/ 202012/Dietary_Guidelines_for _Americans_2020-2025.pdf
+[cited 2021
+02.13.2021].
+[15] Sharon JD, Trevino C, Schubert MC, Carey JP. Treatment of Meniere’s
+disease. Curr Treat Options Neurol 2015;17(4):14.
+[16] Coelho DH, Lalwani AK. Medical management of Ménière’s disease.
+Laryngoscope 2008;118(6):1099–108.
+[17] He FJ, Li J, MacGregor GA. Effect of longer term modest salt reduction
+on blood pressure: Cochrane systematic review and meta-analysis of
+randomised trials. BMJ 2013;346:f1325. doi:10.1136/bmj.f1325.
+[18] Rossier BC, Baker ME, Studer RA. Epithelial sodium transport and its
+control by aldosterone: the story of our internal environment revisited.
+Physiol Rev 2015;95(1):297–340.
+[19] Miyashita T, Tatsumi H, Hayakawa K, Mori N, Sokabe M. Large Na+
+influx and high Na+, K+–ATPase activity in mitochondria-rich epithelial cells of the inner ear endolymphatic sac. Pflügers Arch-Eur J Physiol
+2007;453(6):905–13.
+
+807
+
+[20] Akiyama K, Miyashita T, Mori T, Inamoto R, Mori N. Expression of
+thiazide-sensitive Na+–Cl− cotransporter in the rat endolymphatic sac.
+Biochem Biophys Res Commun 2008;371(4):649–53.
+[21] Kim SH, Park HY, Choi HS, Chung HP, Choi JY. Functional and
+molecular expression of epithelial sodium channels in cultured human
+endolymphatic sac epithelial cells. Otol Neurotol 2009;30(4):529–34.
+[22] Miyashita T, Inamoto R, Fukuda S, Hoshikawa H, Hitomi H, Kiyomoto H, et al. Hormonal changes following a low-salt diet in patients
+with Ménière’s disease. Auris Nasus Larynx 2017;44(1):52–7.
+[23] Chan K, MaassenVanDenBrink A. Glutamate receptor antagonists in the
+management of migraine. Drugs 2014;74(11):1165–76.
+[24] Sarna B, Abouzari M, Lin HW, Djalilian HR. A hypothetical proposal
+for association between migraine and Meniere’s disease. Med Hypotheses 2020;134:109430.
+[25] Rauch SD. Clinical hints and precipitating factors in patients suffering
+from Meniere’s disease. Otolaryngol Clin N Am 2010;43(5):1011–17.
+[26] Hardman JG, Limbird LE. Goodman and Gilman’s the pharmacological
+basis of therapeutics, New York: Medical Publishing Division; 2000.
+(2001. p. 953–7).
+[27] Sánchez-Sellero I, San-Román-Rodríguez E, Santos-Pérez S,
+Rossi-Izquierdo M, Soto-Varela A. Caffeine intake and Menière’s
+disease: Is there relationship? Nutr Neurosci 2018;21(9):624–31.
+[28] Verma RK, Panda NK, Basu D, Raghunathan M. Audiovestibular dysfunction in alcohol dependence. Are we worried? Am J Otolaryngol
+2006;27(4):225–8.
+[29] Allen CD, Grigoleit J-S, Hong J, Bae S, Vaughan J, Lee S. Exposure to
+alcohol during adolescence exerts long-term effects on stress response
+and the adult brain stress circuits. Neuroscience 2016;339:64–71.
+[30] Naftalin L. Endolymphatic hydrops induced by chronic administration
+of vasopressin. Hear Res 2001;155(1-2):181.
+[31] Stern TA, Gross AF, Stern TW, Nejad SH, Maldonado JR. Current approaches to the recognition and treatment of alcohol withdrawal and
+delirium tremens:“old wine in new bottles” or “new wine in old bottles. Primary Care Companion J Clin Psychiatry 2010;12 PCC.10r00991.
+doi:10.4088/PCC.10r00991ecr.
+[32] Luxford E, Berliner KI, Lee J, Luxford WM. Dietary modification as
+adjunct treatment in Ménière’s disease: patient willingness and ability
+to comply. Otol Neurotol 2013;34(8):1438–43.
+[33] Derebery MJ, Berliner KI. Allergy and its relation to Meniere’s disease.
+Otolaryngol Clin N Am 2010;43(5):1047–58.
+[34] Savastano M, Giacomelli L, Marioni G. Non-specific immunological
+determinations in Meniere’s disease: any role in clinical practice? Eur
+Arch Oto Rhino Laryngol 2007;264(1):15–19.
+[35] Pan T, Zhao Y, Ding Y, Lu Z, Ma F. The pilot study of type Ⅰ allergic reaction in Meniere’s disease patients. Zhonghua Er Bi Yan Hou
+Tou Jing Wai Ke Za Zhi Chin J Otorhinolaryngol Head Neck Surg
+2017;52(2):89–92.
+[36] Keles E, Gödekmerdan A, Kalidag T, Kaygusuz I. Meniere’s disease
+and allergy: allergens and cytokines. J Laryngol Otol 2004;118(9):688.
+[37] Battais F, Mothes T, Moneret-Vautrin D, Pineau F, Kanny G,
+Popineau Y, et al. Identification of IgE-binding epitopes on gliadins
+for patients with food allergy to wheat. Allergy 2005;60(6):815–21.
+[38] Di Berardino F, Zanetti D, Socci M, Elli L. Gluten Sensitivity Biomarkers in Menière’s Disease: Is It a Gluten Related Disorder? Preprints
+2017, 2017050023. https:// www.preprints.org/ manuscript/ 201705.0023/
+v1. doi:10.20944/preprints201705.0023.v1.
+[39] Di Berardino F, Cesarani A. Gluten sensitivity in Meniere’s disease.
+Laryngoscope 2012;122(3):700–2.
+[40] Johansson E, Lönnroth I, Lange S, Jonson I, Jennische E, Lönnroth C.
+Molecular cloning and expression of a pituitary gland protein modulating intestinal fluid secretion. J Biol Chem 1995;270(35):20615–20.
+[41] Rapallino M, Cupello A, Lange S, Lönnroth I. Antisecretory factor peptide derivatives specifically inhibit [3H]-γ -amino-butyric acid/36Cl−
+out→ in permeation across the isolated rabbit Deiters’ neuronal membrane. Acta Physiol Scand 2003;179(4):367–71.
+[42] Björck S, Bosaeus I, Ek E, Jennische E, Lönnroth I, Johansson E,
+et al. Food induced stimulation of the antisecretory factor can improve
+symptoms in human inflammatory bowel disease: a study of a concept.
+Gut 2000;46(6):824–9.
+
+808
+
+E. Oğuz, A. Cebeci and C.R. Geçici / Auris Nasus Larynx 48 (2021) 803–808
+
+[43] Laurenius A, Wängberg B, Lange S, Jennische E, Lundgren B,
+Bosaeus I. Antisecretory factor counteracts secretory diarrhoea of endocrine origin. Clin Nutr 2003;22(6):549–52.
+[44] Hanner P, Rask-Andersen H, Lange S, Jennische E. Antisecretory factor-inducing therapy improves the clinical outcome in patients with Meniere’s disease. Acta Otolaryngol 2010;130(2):223–7.
+[45] Leong SC, Narayan S, Lesser TH. Antisecretory factor–inducing therapy
+improves patient-reported functional levels in Meniere’s disease, annals
+of otology. Rhinol Laryngol 2013;122(10):619–24.
+[46] Ingvardsen CJ, Klokker M. Antisecretory therapy with no improvement in functional level in Meniere’s disease. Acta Otolaryngol
+2016;136(3):232–5.
+[47] Agre P, Preston GM, Smith BL, Jung JS, Raina S, Moon C, et al. Aquaporin CHIP: the archetypal molecular water channel. Am J Physiol Ren
+Physiol 1993;265(4):F463–76.
+[48] Steinbach S, Hundt W, Hamann K, Werner J, Mandic R. Effect of thirst
+challenge on ADH levels in patients with bilateral Meniere’s disease.
+Exp Clin Endocrinol Diabetes 2012;120(07):405–9.
+
+[49] Comacchio F, Boggian O, Poletto E, Beghi A, Martini A, Rampazzo A.
+Menière’s disease in congenital nephrogenic diabetes insipidus: report
+of two twins. Am J Otol 1992;13(5):477–81.
+[50] Sawada S, Takeda T, Kitano H, Takeuchi S, Kakigi A, Azuma H.
+Aquaporin-2 regulation by vasopressin in the rat inner ear. Neuroreport
+2002;13(9):1127–9.
+[51] de Carvalho Lopes K, Sartorato EL, da Silva-Costa SM, de Macedo
+Adamov NS, Ganança FF. Ménière’s disease: molecular analysis of
+aquaporins 2, 3 and potassium channel KCNE1 genes in Brazilian patients. Otol Neurotol 2016;37(8):1117–21.
+[52] Lim JS, Lange ME, Megerian CA. Serum antidiuretic hormone
+levels in patients with unilateral Meniere’s disease. Laryngoscope
+2003;113(8):1321–6.
+[53] Naganuma H, Kawahara K, Tokumasu K, Okamoto M. Water may cure
+patients with Meniere disease. Laryngoscope 2006;116(8):1455–60.
+
+

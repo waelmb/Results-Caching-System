@@ -1,0 +1,1948 @@
+Biosensors and Bioelectronics 174 (2021) 112830
+
+Contents lists available at ScienceDirect
+
+Biosensors and Bioelectronics
+journal homepage: http://www.elsevier.com/locate/bios
+
+Diagnosis of COVID-19 for controlling the pandemic: A review of the
+state-of-the-art
+Nastaran Taleghani, Fariborz Taghipour *
+Department of Chemical and Biological Engineering, University of British Columbia, Vancouver, Canada
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+SARS-CoV-2
+COVID-19
+Virus detection
+Diagnostics
+Pneumonia
+Serology tests
+
+To date, health organizations and countries around the world are struggling to completely control the spread of
+the coronavirus disease 2019 (COVID-19). Scientists and researchers are developing tests for the rapid detection
+of individuals who may carry the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), while striving
+to find a suitable vaccine to immunize healthy individuals. As there are clinically reported cases of asymptomatic
+carriers of SARS-CoV-2, fast and accurate diagnosis plays an important role in the control and further prevention
+of this disease. Herein, we present recent technologies and techniques that have been implemented for the
+diagnosis of COVID-19. We summarize the methods created by different research institutes as well as the
+commercial devices and kits developed by companies for the detection of SARS-CoV-2. The description of the
+existing methods is followed by highlighting their advantages and challenges. Finally, we propose some prom­
+ising techniques that could potentially be applied to the detection of SARS-CoV-2, and tracing the asymptomatic
+carriers of COVID-19 rapidly and accurately in the early stages of infection, based on reviewing the research
+studies on the detection of similar infectious viruses, especially severe acute respiratory syndrome (SARS)
+coronavirus, and Middle East respiratory syndrome (MERS) coronavirus.
+
+1. Introduction
+Several viruses of the Coronaviridae family are responsible for in­
+fectious diseases among humans and animals (Perlman, 2020). Coro­
+naviruses are enveloped, positive-sense single-strand RNA viruses that
+spread among humans and usually tend to cause mild respiratory disease
+(Kumar, 2020); currently, many human coronaviruses (HCoVs), such as
+HCoV-299E, HCoV-NL63, HCoV-HKU1, and HCoV-OC43, are defined as
+globally endemic HCoVs and the origin of mild respiratory disease
+(WHO, 2020a). Other members of the Coronaviridae family such as the
+Betacoronavirus genus, however, have been transmitted from animals to
+humans and threaten human health by spreading severe respiratory
+diseases such as the zoonotic Middle East respiratory syndrome (MERS)
+and severe acute respiratory syndrome (SARS) (Fadaka et al., 2020).
+MERS and SARS have been circulated through the human population by
+the MERS-coronavirus (MERS-CoV), SARS-coronavirus (SARS-CoV), or
+SARS-coronavirus 2 (SARS-CoV-2) at different periods, respectively
+(Fehr et al., 2017).
+SARS emerged as a pandemic in 2002 in Guangdong, China, leading
+to more than 8000 confirmed cases and 774 deaths as it spread
+
+throughout the world with an approximately 10% mortality rate (De Wit
+et al., 2016; WHO, 2015). Subsequent studies named the Chinese
+horseshoe bat as the original reservoir of hosts for SARS-CoV (Lau et al.,
+2005; Li et al., 2005) and indicated that the virus had been transmitted
+to humans through intermediate hosts being sold in the Chinese wet
+market for food (Guan et al., 2003). The pandemic was stopped in 2003
+by applying travel restrictions and isolating individuals infected by
+SARS-CoV.
+The MERS pandemic was highlighted in the summer of 2012 with the
+first report of disease in Jeddah, Saudi Arabia (Zaki et al., 2012). This
+was followed by the second case reported in the UK which had traveled
+from Qatar, and then other cases were reported from healthcare centers
+in Jordan (Bermingham et al., 2012; Hijawi et al., 2013). The MERS-CoV
+spread to over 27 countries and caused close to 2500 confirmed cases
+reported to the WHO with more than 858 deaths, resulting in a high
+mortality rate of approximately 34% (WHO, 2020b). Studies suggested
+that the first reservoir host of MERS-CoV was dromedary camels
+(Camelus dromedaries) since high-titer neutralizing antibodies against
+MERS-CoV were present in their sera (Reusken et al., 2013). Moreover, a
+sequence of 190 nucleotides from the conserved region of the MERS-CoV
+
+* Corresponding author.
+E-mail address: fariborz.taghipour@ubc.ca (F. Taghipour).
+https://doi.org/10.1016/j.bios.2020.112830
+Received 31 August 2020; Received in revised form 14 November 2020; Accepted 17 November 2020
+Available online 27 November 2020
+0956-5663/© 2020 The Authors.
+Published by Elsevier B.V. This is an open access
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+article
+
+under
+
+the
+
+CC
+
+BY-NC-ND
+
+license
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+genome was amplified from the fecal pellet of a bat in Saudi Arabia
+(Memish et al., 2013).
+In December 2019, the outbreak of the novel coronavirus was first
+reported in Wuhan city, Hubei province, China (C. Huang et al., 2020;
+Raeiszadeh and Adeli, 2020; Zhou et al., 2020). The virus was initially
+named the 2019 novel coronavirus (2019-nCoV), but then the Interna­
+tional Committee of Taxonomy of Viruses named it SARS-CoV-2 (Gor­
+balenya et al., 2020). It was suggested (Chan et al., 2020b) that the
+original infection was correlated to the Huanan seafood market but
+developed to human-to-human transmission. SARS-CoV-2 is responsible
+for the coronavirus disease-2019, now called COVID-19, which the WHO
+has identified as a public health emergency of pandemic proportions
+(WHO, 2020c). COVID-19 is a respiratory disease with symptoms similar
+to influenza, manifesting as dry cough, fever, severe headache, and
+tiredness. Individuals infected by SARS-CoV-2 show a wide range of
+symptoms from mild respiratory disease to severe respiratory disease
+with critically ill cases leading to organ function damage, such as cardiac
+injury, acute kidney injury, liver dysfunction, and acute respiratory
+distress syndrome, which can result in a long-term decrease in lung
+function and arrhythmia; eventually, some critical cases may lead to
+death (Gordon et al., 2020; Kumar, 2020). The severe conditions and
+death have usually been specific to older patients or patients with a
+weak immune system such as specific heart conditions. Due to interna­
+tional travel, the SARS-CoV-2 spread rapidly around the world leading
+to more than 200 countries struggling with COVID-19, and since the
+onset, the number of infected individuals and deaths has risen
+constantly; in fact, as of November 2020, more than 50 million
+laboratory-confirmed cases have been reported with more than 1 million
+fatalities since its emergence (Worldometer, 2020).
+The phylogenetic analysis illustrates that both SARS-CoV and SARSCoV-2 are from lineage B of the Betacoronavirus genus, while MERS-CoV
+belongs to the lineage C of the Betacoronavirus genus (Chan et al.,
+2020a; Letko et al., 2020; Mohd et al., 2016), which explains 79.6% of
+the sequence identity and the multiple similarities of SARS-CoV and
+SARS-CoV-2 (Kumar, 2020). As the spike (S) protein structure and re­
+ceptor binding domain of SARS-CoV-2 is very similar to that of
+SARS-CoV (Andersen et al., 2020; Li, 2016; Lu et al., 2020), many hy­
+potheses have arisen indicating that they probably use the same host cell
+receptor. Several studies (e.g., Imai et al., 2005; Kuba et al., 2005) have
+highlighted angiotensin-converting enzyme 2 (ACE2) as the functional
+receptor of SARS-CoV in vitro and in vivo. Supporting the aforementioned
+hypothesis, a recent study (Monteil et al., 2020) indicated that both
+SARS-CoV and SARS-CoV-2 use the same ACE2 receptor to infect
+humans.
+Health organizations and countries around the world are still
+struggling to control the spread of COVID-19 by developing tests for the
+rapid detection of individuals who may carry the SARS-CoV-2, finding
+the suitable treatment for the infected ones, and developing a vaccine to
+immunize healthy people. However, the binding affinity of SARS-CoV-2
+toward the ACE2 receptor is higher than that of SARS-CoV (Shang et al.,
+2020). Therefore, SARS-CoV-2 spreads more efficiently than SARS-CoV,
+and this higher rate increases its pandemic potential and makes it harder
+to contain (Gordon et al., 2020). Additionally, there are clinically re­
+ported cases of individuals carrying the SARS-CoV-2 virus without
+evidencing any symptoms, meaning that they do not exhibit any sign of
+fever or cough or have very slight symptoms which are not strong
+enough to cause these carriers to report their condition to health orga­
+nizations (Mao et al., 2020). Having many unsuspected asymptomatic
+COVID-19 carriers in communication with other people increases the
+risk of infecting healthy people and enables the virus to spread much
+more. This situation may lead to problems such as the overloading of
+clinics and hospitals (Mao et al., 2020). The crowds of patients in hos­
+pitals waiting to be treated can make the situation even worse by
+increasing the possibility of cross-infection of patients with other
+infected people. All the aforementioned challenges, without any spe­
+cifically approved vaccine for COVID-19, make tracing the
+
+asymptomatic carriers of COVID-19 and detecting all infected in­
+dividuals rapidly and accurately critical for the control and further
+prevention of this disease. We believe the key to tracing all infected
+individuals is the development of sensitive and specific point-of-care
+(POC) devices for mass screening and testing.
+COVID-19 diagnosis methods have been reviewed in some recent
+articles. For instance, laboratory methods focused on different types of
+samples and issues related to sample collection, such as which sample to
+collect and the right time to collect each sample in relation to the course
+of the disease, were addressed (Mathuria et al., 2020). Performance
+evaluation of the laboratory methods was also conducted to provide
+more information regarding the development of algorithmic approaches
+for treatment and healthcare strategies (La Marca et al., 2020). The
+biomarkers for COVID-19 diagnosis were compared and analyzed along
+with the right time for collecting each sample type (Cui and Zhou,
+2020). Moreover, current COVID-19 diagnostic challenges, including
+but not limited to the lack of a universal standard and the difficulty in
+mass screening and testing, were discussed (Xu et al., 2020). The pos­
+sibility of pets and farm animals’ infection was likewise studied on the
+basis of the sequence analysis of the ACE2 receptor between humans and
+animals, indicating that SARS-CoV-2 might infect other species from
+humans and vice versa (Li and Ren, 2020).
+Herein, we present a comprehensive review of the scientific detec­
+tion methods reported in the literature, with special attention to the
+operation mechanism as well as the techniques and devices commer­
+cially available and currently being implemented for COVID-19 diag­
+nosis. Viruses from the same genus have similar genetic content, such as
+the genes responsible for infection of the host cell. Subsequently, these
+viruses have antigens and binding domains with similar structures and
+analogous, related functions in their host. Considering this fact, we then
+review the research conducted on the detection of infectious viruses,
+especially SARS-CoV and MERS-CoV, to propose additional potentially
+effective methods for fast and sensitive POC diagnosing of COVID-19.
+The objective is to identify asymptomatic patients and control the
+spread of COVID-19 and further pandemic outbreaks.
+2. Developed methods for the COVID-19 diagnosis
+The diagnosis of a specific disease such as COVID-19 can be con­
+ducted based on different biomarkers correlated to the microorganism
+responsible for the disease. The target biomarker can be the genetic
+content of the microorganism, leading to the development of molecular
+tests requiring sample collection from the infected area and detecting
+the target gene. Molecules involved in the immune response of the body
+against the microorganism’s antigens are another set of biomarkers
+utilized for diagnostics. This set of biomarkers consists mainly of anti­
+bodies present in the blood to fight against the microorganism’s anti­
+gens, and serology tests are developed to detect them. Another method
+of diagnosis is to take a closer look at the organs whose functions are
+affected by the microorganism and detect the changes in the concen­
+tration of their biomarkers for the diagnosis. For the COVID-19 case,
+abnormalities in the chest, inflammatory markers, and markers related
+to kidney and liver functions, such as creatinine and cystatin C, are
+utilized for diagnosis.
+The conventional detection methods for SARS-CoV-2, such as those
+used for other forms of viral infectious pneumonia, are generally based
+on molecular tests, serology tests, and computed tomography (CT).
+Molecular tests target the SARS-CoV-2 genome specifically and work on
+the basis of viral nucleic acid amplification to achieve a concentration
+high enough to be detectable by the currently existing developed
+detection devices. Serology tests target the protein antigens and anti­
+bodies produced in response to the presence of SARS-CoV-2. CT can
+identify the possible abnormalities caused by the viral infection in the
+chest and the abnormal features that could lead to COVID-19 or other
+pneumonia diagnoses. Other detection technologies developed for the
+identification of SARS-CoV-2 are based on the detection of different
+2
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+biomarkers in biofluids, plasmonic sensing, and field effect transistor
+(FET)-based sensing. Fig. 1 demonstrates the core technologies of SARSCoV-2 detection and their principle of operation. The following is a
+detailed description of each technology and the related studies that have
+been performed to date.
+
+these three molecular methods. Many researchers and medical
+manufacturing companies have developed COVID-19 molecular detec­
+tion kits to identify the presence of SARS-CoV-2 in the respiratory tract
+of patients. It is noteworthy that, as the RNA extraction should be done
+in a biosafety cabinet in a biosafety level-2 facility, all of the developed
+detection kits are being used by authorized laboratories, not the patients
+themselves. Some of the currently existing molecular detection kits for
+SARS-CoV-2 available from various research institutes and companies
+are summarized in Table 1.
+
+2.1. Molecular tests (nucleic acid amplification)
+The proposed method for the routine confirmation of infected cases
+and detection of SARS-CoV-2 by WHO (WHO, 2020a) and the Food and
+Drug Administration (FDA) (FDA, 2020) is reverse transcription poly­
+merase chain reaction (RT-PCR), which is one of the nucleic acid
+amplification tests (NAATs). NAATs are molecular tests that target
+specific nucleic acid sequences of the pathogen to identify its presence in
+the obtained sample from the suspected patient. The SARS-CoV-2 NAAT
+targets specific viral genes, such as the nucleocapsid (N) gene, the en­
+velope (E) gene, the S gene, and RNA dependent RNA polymerase
+(RdRP) gene, from the respiratory tract of the suspected patient and then
+amplifies the virus RNA using molecular techniques including real-time
+reverse transcription polymerase chain reaction (rRT-PCR). Fig. 2 il­
+lustrates the SARS-CoV-2 structure and its proteins.
+Other molecular techniques have been developed for the detection of
+SARS-CoV-2, including loop-mediated isothermal amplification (LAMP),
+reverse transcription LAMP (RT-LAMP), real-time RT-LAMP (rRTLAMP), and the specific high-sensitivity enzymatic reporter unlocking
+(SHERLOCK) assay. Fig. 3 illustrates the main operating principle of
+
+2.1.1. RT-PCR
+RT-PCR is a gene amplification process consisting of different steps
+with specific environmental conditions. In general, RT-PCR is the pro­
+cess of reverse transcription of the RNA, in this case, SARS-CoV-2 RNA,
+into a complementary DNA (cDNA) and then designing primers and a
+fluorophore-quencher probe to amplify specific parts of the cDNA and
+obtaining quantified results about the presence of SARS-CoV-2 (Freeman
+et al., 1999; Kageyama et al., 2003). This process first begins with the
+extraction of RNA from the upper or lower respiratory tract. It is rec­
+ommended to take samples from the upper respiratory tract, such as
+nasopharyngeal swabs, oropharyngeal swabs, nasopharyngeal washes,
+and nasal aspirates. However, in patients manifesting cough, the spec­
+imen is usually taken from the lower respiratory tract, including sputum,
+bronchoalveolar lavage (BAL) fluid, and tracheal aspirates (Centers for
+Disease Control and Prevention [CDC], 2020a). The extracted RNA from
+samples is then added into a mixture containing all necessary buffers,
+
+Fig. 1. Illustration of the main technologies for the diagnosis of the suspected COVID-19 cases. A) The principle of the molecular test is the transcription of viral RNA
+into DNA and then targeting the DNA for amplification and replication to the point that it can be detected by the detectors. B) The serological test works based on the
+principle of the interaction of immobilized antibody and the antibody present in the sample, either on a lateral flow platform or ELISA. C) Chest CT is performed in
+healthcare facilities with special equipment. D) Other methods such as FET-based sensing and plasmonic sensing have been developed but have not yet been applied
+in healthcare facilities (Qiu et al., 2020; Seo et al., 2020).
+3
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+Fig. 2. Schematic diagram of a 2D illustration of the SARS-CoV-2 structural proteins and genome.
+
+Fig. 3. Illustration of the molecular methods for the detection of SARS-CoV-2. A) The principle of target viral RNA detection based on reverse transcription of target
+RNA into DNA and the amplification. B) Illustration of the LAMP technology with the final accumulated DNA structures; this method is explained in detail in Fig. 4.
+C) A schematic of the SHERLOCK assay started with the amplification of target RNA and its interaction with Cas13a, which is followed by the cleavage of the probe
+and generation of fluorescent signal.
+
+enzymes, primers, probes, and precursors, including nuclease-free
+water, reverse transcriptase, polymerase, additives, forward and
+reverse primers, a fluorophore-quencher probe, and nucleotides (CDC,
+2020b). In rRT-PCT, the mixture is put in a thermocycler, and the series
+of temperatures and time periods are set to run the cycles. In each cycle,
+the cleavage of the fluorophore-quencher probe results in a fluorescent
+signal which is detected by the thermocycler to give information on the
+process in a real-time manner.
+As the U.S. CDC establishes the cycling conditions for rRT-PCR (CDC,
+2020b), two of the main variables left are the sequence targeted for
+amplification and designing the primers and probe. There are three
+conserved regions of the coronavirus/SARS genome: the RdRP gene
+located in the open reading frame ORF1ab, the N gene, and the E gene.
+Targeting the RdRP and E gene provides lower detection limits and,
+hence, higher sensitivity compared with the N gene (Udugama et al.,
+
+2020), and that is why most of the developed kits for SARS-CoV-2
+detection have targeted the RdRP and E gene. Another variable of the
+final results of the detection test kits is the time that the samples have
+been taken, as the viral load varies on different days after the infection
+(Pan et al., 2020; Yang et al., 2020). Therefore, a negative result would
+not conclude the absence of disease and could be the result of a low viral
+load in the system sample at the time it was taken or from possible
+problems that could have occurred in sampling.
+At the beginning of the outbreak of COVID-19, the laboratories
+testing the COVID-19 by polymerase chain reaction (PCR) would pro­
+vide the results in a couple of days. As the number of infected individuals
+was rising rapidly, the emergence of detection kits that could provide
+faster results became urgent. Therefore, many researchers and com­
+panies developed molecular kits that returned results in a shorter period
+of time. The following is a brief review of the commercially available RT4
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+Fig. 4. Illustration of LAMP technology to amplify the target double-strand DNA. A) Based on the sequence of the target DNA, four or six primers are designed for the
+amplification process. B) First, the two strands detach, and the forward inner primer attaches to initiate the DNA synthesis. C) This is followed by the second
+separation of strands, formation of a self-hybridizing loop in one of the strands, and then attachment of the forward outer primer to the other strand and initiation of
+DNA synthesis. D) The same process happens with the backward primers, thus leading to the formation of a LAMP dumbbell structure. E) As the dumbbell structure
+has more initiation sites for DNA synthesis, the concatemers are formed which have even more sites for the DNA synthesis initiation. F) In the end, multiple doublestrand DNA structures are accumulated which are enough to be detected by various types of detectors.
+
+PCR detection kits with their respective result delivery times.
+Viractor Erofins launched their SARS-CoV-2 rRT-PCR test on March
+13, 2020; it provides results within 12–18 h. Their rRT-PCR test can be
+tested mainly on an upper respiratory specimen with oropharyngeal
+swabs, nasopharyngeal swabs, nasopharyngeal wash, nasal swab, and
+nasal wash, but also on lower respiratory specimens with a BAL swab;
+suspected patients are offered consultation regarding the appropriate
+specimen type for testing (Viracor Eurofins, 2020).
+BGI Genomics Co. Ltd. (Shenzhen, China) was authorized for its RealTime Fluorescent RT-PCR Kit for COVID-19 diagnosis on April 24, 2020.
+The kit consists of an automated sample preparation system and an
+additional RNA extraction kit along with the PCR system that can pro­
+vide established results of 192 specimens in about 4 h. The automated
+sample preparation system can be employed for different types of upper
+and lower respiratory sample collection with oropharyngeal swabs,
+nasopharyngeal swabs, nasal washes, nasal aspirates, and BAL fluid. The
+cross-reactivity of the this kit for SARS-CoV-2 has been investigated for
+more than 50 pathogens, and no cross-reactivity was found in the tested
+pathogens (BGI, 2020).
+Bosch developed a fully-automated rapid test for the detection of
+SARS-CoV-2 with 95% accuracy that meets WHO quality standards. The
+developed detection test is based on multiplex PCR and micro-array
+detection for the COVID-19 diagnosis. Their device consists of two
+
+parts: a cartridge containing all the required reagents and the Vivalytic
+analyzer (Bosch Healthcare Solutions GmbH, Waiblingen, Germany).
+This device, which seems to be the first fully automated COVID-19 test,
+can be directly used by medical institutions to detect the virus and report
+results electronically in less than two and a half hours. The device is
+reported to have the capacity of testing a single specimen not only for
+COVID-19, but also for nine other pathogens such as influenza A and B,
+simultaneously (Bosch Global, 2020).
+Cepheid (Sunnyvale, CA, USA) reported the development of one of
+the most rapid molecular tests for the detection of SARS-CoV-2 on March
+21, 2020. Cepheid’s rapid molecular detection kit for SARS-CoV-2 takes
+less than 1 min of hand operation for sample preparation and return the
+results within 30 min. This test provides POC results with the same level
+of performance seen in reference labs (Capheid, 2020).
+The aforementioned developed RCR tests have differences among
+them, but they all share the RNA extraction process which is necessary to
+perform before the PCR steps. This RNA extraction step is quite complex
+and makes the overall procedure complicated. In addition, one of the
+major bottlenecks in PCR tests for COVID-19 diagnosis is the RNA
+extraction as there is a restricted number of RNA extraction reagents and
+kits, and the extraction procedure is not completely efficient. This
+challenge has been addressed (Joung et al., 2020) by developing a
+protocol of one-step column-free RNA preparation that take only 5 min
+5
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+Table 1
+Developed molecular detection kits of SARS-CoV-2 from different manufacturers and researchers.
+Technology
+
+Manufacturer
+
+Delivery time of
+results
+
+Comment
+
+References
+
+RT-PCR
+
+Viractor Erofins
+
+12–18 h
+
+RT-PCR
+
+BGI
+
+(Viracor Eurofins,
+2020)
+BGI (2020)
+
+RT-PCR
+
+Bosch
+
+192 samples
+around 4 h
+2.5 h
+
+RT-PCR
+RT-PCR
+
+Cepheid
+Mesa Biotech
+
+30 min
+30 min
+
+RT-LAMP
+
+Abbott Laboratories
+
+5–13 min
+
+Taking samples from the upper and lower respiratory tract, consulting patients about
+the appropriate type of sample
+Taking samples from the upper and lower respiratory tract, automated sample
+preparation, no cross-reactivity with more than 50 tested pathogens
+Fully automated, POC, testing samples for COVID-19 and 9 other pathogens of the
+respiratory tract
+Less than 1 min of hand operation, POC
+Qualitative with a visual read of results, POC, using throat and nasal swabs, targeting N
+protein
+Fast delivery of the positive results in 5 min, small size that can be used in clinics
+
+RT-LAMP
+
+Creative Biolabs
+
+1–2 h
+
+A cost-effective system, no need for highly trained staff
+
+RT-LAMP
+
+Sanya Peoples Hospital,
+Sanya, Hainan
+Seasun Biomaterials
+
+1h
+
+Howard Hughes Medical
+Institute
+
+1h
+
+Higher sensitivity compared with established RT-LAMP, amplification in one step and
+single tube
+Qualitative, using human RNase P as internal control, targeting ORF1ab for detection,
+detection based on upper and lower respiratory specimens
+Highly specific and sensitive, low cost of materials
+
+RT-LAMP
+SHERLOCK
+
+–
+
+and does not require RNA extraction. This protocol has been tested on a
+limited number of nasopharyngeal swab samples and demonstrated no
+negative impact on the sensitivity of the RT-PCR test. Therefore, the
+developed protocol can be a suitable candidate for the existing RNA
+extraction step that could then address the limited availability of RNA
+extraction supplies.
+
+Bosch Global (2020)
+Capheid (2020)
+Mesa Biotechnology
+(2020)
+Abbott Laboratories
+(2020a)
+(Creative Biolabs,
+2020)
+Zhu et al. (2020)
+(Biomaterials, 2020)
+Zhang et al. (2020)
+
+diagnosis of COVID-19 by a scientific team from Creative Biolabs
+(Shirley, NY, USA) (Creative Biolabs, 2020). The team has designed the
+primers and probes, the stability studies, and the test optimization to
+develop the molecular-based technologies with high sensitivity for the
+detection of SARS-CoV-2. Creative Biolabs’ RT-LAMP assay provides the
+results in 1–2 h with no need for highly trained medical staff. The
+developed RT-LAMP test by this team determines the SARS-CoV-2 sus­
+ceptible populations in one step and provides data for appropriate
+decision-making regarding the control of COVID-19 (Creative Biolabs,
+2020).
+Abbott Laboratories’ (Abbott Park, IL, USA) new Abbott ID NOW
+COVID-19 test was authorized by the FDA for the detection of COVID19 by authorized laboratories and patient care settings on March 27,
+2020. The Abbott ID NOW COVID-19 test is the fastest molecular test to
+detect SARS-CoV-2 and will return the positive results within 5 min and
+negative results in 13 min. Operating based on the same concept as those
+of other molecular tests, it detects a specific part of SARS-CoV-2 nucleic
+acid and amplifies that isothermally until there is enough content for the
+detection. The device has a small footprint, making it useable in urgent
+care clinics as well as hospitals (Abbott Laboratories, 2020a).
+An RT-LAMP coupled with a nanoparticles-based biosensor (NBS)
+assay has been developed for the fast and accurate detection of SARSCoV-2 in one step to improve the sensitivity compared with the estab­
+lished RT-LAMP assays (Zhu et al., 2020). The research team amplified
+genes isothermally and used a heating block to maintain a constant
+temperature, after which, using the designed primers, the SARS-CoV-2
+genes were amplified in one step in a single tube, and the results were
+simultaneously analyzed by the NBS. Interestingly, the assay was tested
+among clinically confirmed COVID-19 patients and clinical samples
+collected from non-COVID-19 patients and achieved 100% sensitivity
+and specificity, respectively. Their system can interpret the results
+within 1 h, making it a promising candidate for the diagnosis of
+COVID-19 in countries with limited medical resources and staff.
+
+2.1.2. RT-LAMP
+Some molecular-based technologies operate the nucleic acid ampli­
+fication isothermally and with simpler settings, unlike PCR-based tech­
+nologies which require a thermocycler, as they consist of different steps
+operating at different temperatures. These technologies include but are
+not limited to LAMP, RT-LAMP, and rRT-LAMP. In brief, the DNA po­
+lymerase along with multiple primers, six or four as inner and outer
+primers, is used to amplify the target sequence (Lee et al., 2011). The
+RT-LAMP first stage is the reverse transcription to achieve a DNA
+structure and is followed by the second stage which is the imple­
+mentation of the LAMP technique to amplify the target DNA. During the
+first stage, RNA is reverse transcripted into cDNA. The second stage
+(Fig. 4), the nucleic acid amplification, is based on auto cycling strand
+displacement DNA synthesis by inner and outer primers leading to a
+dumbbell-like DNA structure. In the amplification process, the
+dumbbell-like structure with many sites for DNA synthesis initiation
+transfers into long concatemers, each with even more sites for DNA
+synthesis initiation. This final stage results in the accumulation of
+different DNA structures, having the same target DNA sequence, that can
+be detected in a real-time manner based on turbidity or after amplifi­
+cation by using agarose gel analysis (Parida et al., 2004). RT-LAMP is a
+simple and practical technique as the results are analyzed by the change
+of color, fluorescence, or turbidity in the PCR tubes (Mori et al., 2001).
+As RT-LAMP uses more primers compared with RT-PCR, it has higher
+specificity (Notomi et al., 2000).
+Based on the gained knowledge in the detection of other coronavi­
+ruses, other techniques such as RT-LAMP and rRT-LAMP are considered
+to be promising candidates for the COVID-19 diagnosis. RT-LAMP is a
+rapid and precise detection method for SARS-CoV-2, and it has been
+proven to be a suitable method for large-scale screening of the virus. The
+advantages of using RT-LAMP for SARS-CoV-2 detection are less back­
+ground signal, simple operation, more specific detection compared with
+PCR-based methods, and no requirement for a thermocycler (Notomi
+et al., 2000). On the other hand, RT-LAMP presents challenges in
+designing primers and optimizing the time and temperature to gain the
+best limit of detection.
+Several molecular techniques have been developed for early
+
+2.1.3. SHERLOCK
+In addition to the aforementioned technologies, other molecular
+detection techniques can be implemented for SARS-CoV-2 detection,
+most notably the SHERLOCK assay. The SHERLOCK assay is based on
+employing nucleic acid amplification along with clustered regularly
+interspaced short palindromic repeats (CRISPR)/CRISPR-associated
+system (Cas) enzymology to detect the target nucleic acid specifically.
+CRISPR-Cas systems combine the guide RNA with Cas nuclease. Guide
+RNA identifies the target sequence and has two main components: the
+CRISPR RNA that is complementary to the target RNA and the TRACR
+6
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+RNA that acts as a scaffold for Cas nuclease. CRISPR-Cas technology
+benefits from programmable endonuclease activity and can therefore be
+implemented for the specific and highly sensitive detection of nucleic
+acids. In brief, CRISPR-Cas technologies utilize Cas13 or Cas12 nuclease,
+which is programmed by CRISPR RNA. Upon the binding of CRISPR RNA
+to the target sequence, the nonspecific endonuclease activity of Cas13 or
+Cas12 starts, leading to the cleavage of nearby RNAs such as the reporter
+RNA, generating a signal, and providing a platform for specific and
+sensitive RNA detection (Gootenberg et al., 2017; Kellner et al., 2019).
+The SHERLOCK detection technique uses recombinase polymerase
+amplification to amplify the target RNA isothermally. The amplification
+is followed by adding a guide RNA to attach the target sequence, a short
+nucleotide fluorophore-quencher probe, and Cas13a ribonuclease.
+Cas13a ribonuclease cleaves its target RNA, and after cleavage, it reverts
+to an active state where Cas13a binds and cleaves additional RNA
+non-specifically; this behavior is referred to as collateral cleavage. In the
+presence of the target gene, the cleavage of the target RNA occurs, which
+is then followed by the non-specific activity of Cas13a to cleave the
+fluorophore-quencher probe to generate a fluorescent signal (Gro­
+nowski, 2018). SHERLOCK can be performed in a one- or two-step re­
+action based on the importance of result delivery time and sensitivity.
+The one-step reaction can take place within 15–30 min with a femto­
+molar to attomolar range of sensitivity, while the two-step reaction can
+take 30–60 min to provide results with a zeptomolar range of sensitivity
+(Kellner et al., 2019).
+SHERLOCK is a highly specific and sensitive method for detection as
+Cas13 is not activated in the case of two or more mismatches in the
+target RNA, and it can easily discriminate between SARS-CoV-2 and
+other similar viruses. Another advantage is the low cost of materials that
+can be freeze-dried for transportation. The challenges are the design of
+the reaction mixture and nucleotides as there are no commercially
+available predesigned assays for SHERLOCK. Another disadvantage is
+the multi-step nucleic acid amplification. SHERLOCK has been used in
+the past for the detection of the Zika virus (Gootenberg et al., 2017). A
+graphene-based FET and CRISPR technology were combined to develop
+a label-free platform called CRISPR-Chip for the fast and highly sensitive
+detection of blue fluorescent protein gene, the target nucleic acid, within
+intact genomic content (Hajian et al., 2019). Graphene was functional­
+ized with a catalytic CRISPR complex that interacts with the target gene
+to modulate the electrical characteristics of the biosensor and produce
+an electrical signal. The developed biosensor detected the target gene
+with a 1.7 fM sensitivity within 15 min. Recently, a protocol has been
+developed for the SHERLOCK detection of SARS-CoV-2 (Zhang et al.,
+2020). The developed protocol returns the results within 1 h and can be
+considered for rapid COVID-19 diagnosis.
+
+that attach to the pathogens to inactivate them and help in the further
+elimination of them. Therefore, a method for diagnosis of COVID-19 in
+suspected cases is a serology test where the presence and the level of
+antibodies in the blood is measured. Unlike the molecular tests that
+detect the SARS-CoV-2 genome, serology tests detect the immune
+response of the body in cases where the individual is carrying the SARCoV-2, and the immune response has been developed. As the response of
+the immune system to the virus takes time to be developed, the serology
+tests offer a wider time frame for diagnosis of COVID-19.
+Usually, two types of antibodies are measured in a serology test:
+immunoglobulin M (IgM) and immunoglobulin G (IgG). The presence
+and level of immunoglobulin A (IgA) are also studied and measured in
+serological assessments. IgA is mainly present in mucous membranes
+such as the respiratory and digestive tracts. It can also be found in saliva,
+tears, blood, the genitourinary tract, and the nasopharynx as well (Roda
+et al., 2021). IgM is a general antibody developed as an initial immune
+response of the body to many pathogens; IgM is a sign of recent or active
+infection. As our body is trying to develop more specific immune re­
+sponses to an infection such as COVID-19, the IgG antibody against
+infection is developed. IgA can promote antibody-mediated cellar
+mechanisms that lead to further control and inhibition of microorganism
+infections. Fig. 5 demonstrates the approximate level of IgM and IgG
+antibodies at different weeks after infection. As IgG is more specific to
+the pathogens, most serology tests measure the amount of IgG antibody.
+However, the development of the IgG antibody may take more time,
+even up to three weeks (CDC, 2020a). All the aforementioned infor­
+mation about IgM, IgG, and IgA antibodies leads to the conclusion that
+serology tests are more practical in the surveillance of COVID-19 and
+can provide useful information about individuals fighting against the
+COVID-19 or the ones who have survived from it. On the other hand, one
+of the disadvantages of the serology tests is the possibility of inaccuracy,
+as there is a potential of cross-reactivity between antibodies generated
+against SARS-CoV-2 and those generated against other coronaviruses. A
+related study (Lv et al., 2020) illustrated the cross-reactivity between
+antibodies against the S protein of SARS-CoV-2 and SARS-CoV, respec­
+tively. To overcome this limitation, several techniques can be imple­
+mented to improve the specificity of serology tests. For instance,
+antibodies targeting other epitopes of SARS-CoV-2 can be utilized to
+decrease the possibility of cross-reactivity. Further, a dual selection
+strategy can be utilized to improve the accuracy of serology tests (Gar­
+cia-Rodriguez et al., 2007). Moreover, some sample preparation steps
+can be added prior to the serology test. Those include adding some
+blocking reagents to inhibit further interaction of SARS-CoV with anti­
+body or making the environment competitive for SARS-CoV-2 and
+SARS-CoV to favor higher affinity toward SARS-CoV-2, making it more
+appealing for its interaction with the antibody. Most importantly,
+various artificial intelligence (AI) technologies including machine
+learning and deep learning can be implemented to develop antibodies
+with higher affinities toward SARS-CoV-2 compared to SARS-CoV
+(Klompus et al., 2020; Tianjin University, 2020).
+Many researchers have developed serology tests for the detection of
+SARS-CoV-2. An enzyme-linked immunosorbent assay (ELISA) devel­
+oped to detect IgM and IgG from the serum of COVID-19 patients (Zhang
+et al., 2020), determined that the concentration of IgM and IgG anti­
+bodies increases in the first week of infection. Companies have also put
+effort into developing serology tests to control further spread of the
+virus. The basic principle of the anti-SARS-CoV-2 antibody detection in
+the developed serology tests is summarized in Fig. 6.
+The following is a brief description of the commercially available
+serology tests for the COVID-19 diagnosis. Some of the main currently
+developed serology detection kits of SARS-CoV-2 from different research
+institutes and companies are summarized in Table 2. Descriptions of
+these SARS-CoV-2 detection devices, for both the molecular and
+serology methods, are summarized in Table 3.
+Abbott Laboratories has launched two medical tests, Alinity i SARSCoV-2 IgG and Architect SARS-CoV-2 IgG, for the lab-based serological
+
+2.2. Immunoassays
+Immunoassays are biochemical tests developed to detect the pres­
+ence and concentration of a specific biomarker using antigens or anti­
+bodies. The mechanism of detection is based on a competitive affinity
+reaction between the target biomarker (antigen or antibody) and other
+molecules in a sample for limited binding sites provided by the immo­
+bilized capture reagent (antibody or antigen) (Kellner et al., 1998).
+Immunoassays developed for COVID-19 diagnosis either measure the
+presence of the SARS-CoV-2 antigen, called antigen tests, or the
+anti-SARS-coV-2 antibody produced to fight against SARS-CoV-2, called
+serology tests. Many researchers and medical device manufacturing
+companies have developed and studied COVID-19 immunoassays to
+identify the presence of corresponding antigens or antibodies in
+COVID-19 patients.
+2.2.1. Serology tests
+When our body is infected with a pathogen such as SARS-CoV-2, an
+overall immune system is triggered to fight against that pathogen. One
+of these mechanisms of the overall immune system builds antibodies
+7
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+Fig. 5. The approximate level of IgM and IgG antibodies generated against SARS-CoV-2 at different weeks after the infection. Based on conducted studies, there
+would be one or two weeks with no symptoms and no antibodies in the blood sample, that is, during the incubation time. Then, IgM antibodies are produced as an
+initial immune response that is followed by the formation of IgG antibodies to develop a more specific immune response.
+
+Fig. 6. Schematic illustration of the serology tests for the COVID-19 diagnosis. A) The main detection principle of anti-SARS-CoV-2 antibody on a lateral flow assay is
+that, after adding the sample, the blood moves through the test strip, and antibodies present in the sample reach the test line and control line, leading to a change of
+color in those lines; this method is explained in detail in Fig. 9. B) An illustration of the ELISA plate and the composition of each well. After adding the sample, the
+anti-SARS-CoV-2 antibodies attach to the immobilized antibody, after which the labeled antibodies are added to get a signal. C) An illustration of chemiluminescent
+microparticle immunoassay (CMIA); specific antibodies are immobilized on each particle to interact with the target antibody after the sample is added, and then
+labeled antibodies are used to provide a signal indicating the presence of target antibody. (For interpretation of the references to color in this figure legend, the reader
+is referred to the Web version of this article.)
+8
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+detection of COVID-19. The tests perform a high throughput chemilu­
+minescent microparticle immunoassay (CMIA) that measures the
+amount of IgG antibody in human serum or plasma generated against
+SARS-CoV-2 and target the N protein. Architect SARS-CoV-2 IgG, one of
+the developed tests, provides more than 99% specificity and sensitivity
+when tested 14 d or more after the infection. It is suggested that the
+instrument can return 100–200 test results in 1 h for detecting IgG
+antibody (Abbott Laboratories, 2020b).
+Pharmact AG (Berlin, Germany) has developed a fast and simple
+serology test for the detection of SARS-CoV-2, the CoV-2 Rapid Test, that
+detects the presence of IgM and IgG antibodies in the blood of suspected
+cases with COVID-19. This test has been developed for POC use without
+any need for laboratory equipment. The CoV-2 Rapid Test is similar to a
+pregnancy test, but instead of urine, blood from fingertips and the buffer
+solution are used, and after 20 min, the results are delivered. As the
+blood-buffer solution passes through the test strip, if only the control
+line is discolored the individual is not infected with SARS-CoV-2. If one
+or both test lines are discolored, the individual is infected. This test
+detects both IgM and IgG antibodies, and the test results for the detec­
+tion of non-affected cases are cross-matched with PCR, showing 99.8%
+agreement, which is an indication of the reliability of this test. Analyzing
+the presence of the IgG antibody compared with the IgM antibody
+provides a chance to determine the phase of the disease. The IgM dis­
+colored test line illustrates the early stage infection within 4–10 d, while
+the IgG discolored test line highlights the late-stage infection within
+11–24 d. It should be noted that the test works only qualitatively and
+does not give any data about the antibody levels. For further information
+on the antibody levels, performing special tests in the laboratory are
+necessary (Pharmact, 2020).
+The quantitative serology test gives insights about the level of the
+immune response in infected individuals. In addition, BioReference
+Laboratories (Elmwood Park, NJ, USA) has developed an immunoassay
+to measure the IgG antibody level secreted against SARS-CoV-2. As IgG
+is usually developed after 10–14 d of infection, this test can be useful for
+decisions about when the infected individual can return to work or when
+restrictions about isolation or social distancing can be relaxed (Bio­
+Reference Laboratory an OPKO Health Company, 2020).
+
+The commercially available serology tests mentioned so far mainly
+focus on the detection of IgG and IgM. However, other test kits have
+been developed and launched that focus on the detection of IgA. For
+instance, Euroimmun has developed a semi-quantitate ELISA test kit,
+Anti-SARS-CoV-2 IgA (Euroimmun, 2020a). The Anti-SARS-CoV-2 IgA
+detects IgA antibodies against the S protein with 98.3% specificity and
+96.9% sensitivity when used 11–60 days post infection. Furthermore,
+RayBiotech has developed two serology diagnostic kits to detect IgA.
+One of these kits utilizes indirect ELISA to detect SARS-CoV-2 by tar­
+geting the N protein while the other one targets the receptor binding
+domain. These ELISA kits measure the amount of IgA in human serum
+semi-quantitatively (RayBiotech, 2020).
+Beijing Wantai Biological Pharmacy has launched two serology test
+kits for COVID-19 diagnosis: a SARS-CoV-2 antibody ELISA which was
+approved by the FDA on August 5, 2020, and an antibody rapid test
+(Beijing, 2020). The Wantai SARS-CoV-2 Ab ELISA detects total anti­
+bodies (IgM, IgG, and IgA antibodies) targeting the receptor binding
+domain of S protein with 96.7% sensitivity and 97.5% specificity. The
+rapid test also detects total antibodies against the receptor binding
+domain using the double antigen sandwich technology and returns re­
+sults in 15 min.
+As well as the developed techniques and instruments described
+above, several methods are currently in the development stage which
+will be discussed briefly in the following.
+The Beroni Group (New South Wales, Australia) in collaboration
+with a scientific group from Tianjin University are currently working on
+the development of a fast and accurate detection method for SARS-CoV2 by applying nanobody-based technology. By simulation, the structure
+of the SARS-CoV-2 and possible neutralizing antibodies complex and the
+crystal structure of nano-antibodies and antigen can be predicted. These
+predictions are expected to give better information about the structural
+properties that can then be further used to achieve a better affinity with
+the SARS-CoV-2 antigen and to narrow down the “broad spectrum”
+antibodies to specific ones. The use of nanobodies would improve the
+detection rate and accuracy of SARS-CoV-2. This group is using nano­
+bodies as they are more stable and less immunogenic (Tianjin Univer­
+sity, 2020).
+
+Table 2
+Developed serology tests for SARS-CoV-2 detection by different companies and researchers.
+Developer
+
+Platform
+
+Target antigen
+
+Target
+antibody
+
+Other features
+
+References
+
+Abbott Laboratories
+
+CMIA
+
+Nucleocapsid
+
+IgG
+
+DiaSorin
+
+CMIA
+
+Spike
+
+IgG
+
+Abbott Laboratories
+(2020b)
+DiaSorin (2020)
+
+Pharmact AG
+
+Lateral flow
+assay
+
+–
+
+IgG and
+IgM
+
+Hangzhou Biotest Biotech
+
+Lateral flow
+assay
+
+Spike
+
+IgG and
+IgM
+
+Return 100–200 test results in 1 h, specificity
+99.6%, and sensitivity of 100%
+Fully automated, quantitative, 97.4% sensitivity,
+98.5 specificity
+POC, results in 20 min, can determine the phase of
+the disease, 99.8% agreement with PCR for nonaffected cases
+100% specificity for IgM and IgG, 100% sensitivity
+for IgM and 93.3% for IgG
+
+Cellex
+
+Lateral flow
+assay
+Lateral flow
+assay
+
+Spike and
+Nucleocapsid
+Nucleocapsid
+
+IgG and
+IgM
+IgG and
+IgM
+
+Bio-Rad
+Mount Sinai
+
+ELISA
+ELISA
+
+Pan-Ig
+IgG
+
+Euroimmun
+
+ELISA
+
+Nucleocapsid
+receptor binding
+domain
+Spike
+
+Beijing Wantai Biological Pharmacy
+
+ELISA
+
+CDC
+
+ELISA
+
+receptor binding
+domain
+Spike
+
+The Beroni Group with Tianjin University
+
+–
+
+–
+
+IgG, IgM,
+and IgA
+IgG and
+IgM
+–
+
+ChemBio Diagnostic Systems
+
+IgG
+
+9
+
+93.8% sensitivity, 96% specificity, return results in
+15–20 min
+100% sensitivity for IgM and IgG after 15 days,
+100% specificity for IgM and 95.9% for IgG, return
+results in 15 min
+92.2% sensitivity, 99.6% specificity
+Indirect detection of antibody, 92% sensitivity,
+100% specificity
+90% sensitivity, 100% specificity, deliver the
+result in 2 and a half h
+6.7% sensitivity, 97.5% specificity
+
+Pharmact (2020)
+(Hangzhou Biotest
+Biotech Company,
+2020)
+Cellex (2020)
+(ChemBio Diagnostic
+Systems, 2020)
+Bio-Rad (2020)
+Mount Sinai (2020)
+Euroimmun (2020b)
+(Beijing, 2020)
+
+ELISA-based, specificity >99%, sensitivity of 96%
+
+(Freeman et al., 2020)
+
+Applying nanobody-based technology, improved
+detection rate and accuracy, high stability, less
+immunogenic
+
+(Tianjin University,
+2020)
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+Table 3
+Description of the developed detection devices of SARS-CoV-2 from different companies and researchers.
+Manufacturer
+
+Method of detection
+
+Bosch
+
+Molecular test
+
+Abbott Laboratories
+
+Molecular test
+
+Abbott Laboratories
+
+Serology test
+
+Pharmact AG
+
+Serology test
+
+Device
+
+References
+Bosch Global (2020)
+
+Abbott Laboratories (2020a)
+
+Abbott Laboratories (2020b)
+
+Pharmact (2020)
+
+Denka Company (Tokyo, Japan) has worked on the development of
+diagnostic reagents for the detection and prevention of infectious dis­
+eases such as Ebola and influenza in the past. As a result of the current
+outbreak of COVID-19, Denka is working on the development of a simple
+and fast detection kit by implementing not only immunochromato­
+graphic methods but also antigen identification methods such as ELISA
+for diagnosis of COVID-19. They are also working on the development of
+tests that will be able to detect SARS-CoV-2 and other types of viruses
+related to respiratory diseases simultaneously (Denka Company, 2020).
+
+antibodies (Peeling et al., 2020). Assuming that an antigen test for the S
+protein of SARS-CoV-2 was to be successfully developed, the best two
+antibodies would have a high affinity toward the S protein at separate
+sites, would not interfere with each other, and would not cross-react
+with other S proteins of other coronaviruses. The second challenge is
+the intensity of the signal. Unlike molecular methods, antigen tests do
+not amplify the target molecule and for that reason, the sensitivity of
+these tests is low compared with molecular tests. Moreover, the best
+time to perform these tests is when the viral load is at its highest level.
+Antigen tests have been developed for the detection of other viruses
+such as influenza, HIV, and other infectious diseases, and some com­
+mercial products have also been launched for the diagnosis of COVID19. For instance, Quidel Corporation (San Diego, CA, USA) developed
+a qualitative diagnosis kit for COVID-19 which was approved by the FDA
+on May 8, 2020 (Quidel Coroporation, 2020). The kit is an
+immunofluorescence-based lateral flow technology called Sofia 2 SARS
+Antigen Fluorescent Immunoassay that uses a sandwich design to detect
+SARS-CoV-2 using N protein. This POC detection kit with automated
+read returns results, without cross-reactivity with other coronaviruses,
+within 15 min. The patients suspected of having COVID-19 provide a
+nasal or nasopharyngeal swab sample, and the detection kit can be used
+directly or after adding the viral transport media to the samples. Having
+a 12-month shelf life makes the developed kit suitable for
+transportation.
+Given the challenges associated with the development of this class of
+tests and the fact that they are not very common for the diagnosis of
+infectious diseases especially COVID-19 diagnosis, in the subsequent
+
+2.2.2. Antigen tests
+Another set of immunoassays that can be utilized for COVID-19
+diagnosis is antigen tests. This type of test detects the presence of viral
+antigens and therefore can be implemented to detect the current infec­
+tion the patient is fighting with, but it is unable to provide any infor­
+mation regarding past infections. Samples for antigen testing are usually
+taken from the nasal cavity using oropharyngeal, nasopharyngeal, or
+nasal swab samples (CDC, 2020c; WHO, 2020d). Antigen tests do not
+require special laboratory equipment, highly trained personnel, or spe­
+cific reagents such as the ones needed for molecular tests. Therefore,
+they are cost-effective for both mass production and administration.
+Antigen tests return results in 15–20 min making them suitable for mass
+screening in communities with a high number of patients and high risk
+to others. Consequently, antigen tests are promising candidates for POC
+diagnostic.
+There are some challenges in the development of highly sensitive and
+specific antigen tests; one of the main challenges is choosing the right
+10
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+sections we do not discuss them further.
+
+that predict the severity of COVID-19 patients. This team is working on
+correlating specific biomarkers and gene expressions with the patients
+suffering from mild, severe, and critical conditions of COVID-19. The
+team is developing a POC system that would identify to which health­
+care unit the patients be directed. The major challenge of implementing
+these biomarkers for the diagnosis of COVID-19 and associating them
+with different severity levels of the illness is the non-specificity of these
+biomarkers to COVID-19 as there are also abnormal levels of these
+biomarkers in other diseases.
+Reactive oxygen species (ROS) in the sputum sample were used as a
+biomarker for the development of a real-time electrochemical biosensor
+for the COVID-19 diagnosis (Miripour et al., 2020). As lung cells get
+infected by the SARS-CoV-2, the mitochondrial ROS would be over­
+produced, which is analogous to the significant increase in cellular ROS
+for individuals infected by SARS-CoV (Lin et al., 2006). An increased
+level of mitochondrial ROS enhances viral replication in the enterovirus
+71 infection (Cheng et al., 2014), which may also be the case for the
+SRAS-CoV-2 infection (Miripour et al., 2020); therefore, a high level
+ROS can be employed as a biomarker for the COVID-19 diagnosis.
+Fibrosis patients with chronic lung infection and patients of some other
+respiratory diseases such as asthma and acute pneumonia suffer from the
+increased level of ROS, which is in contrast with the seasonal influenza
+as the ROS level decreases for the patients infected by influenza.
+Therefore, ROS level can be a great biomarker to track suspected pa­
+tients of COVID-19 and discriminate COVID-19 from influenza as these
+two are more likely to be misdiagnosed with each other. The developed
+biosensor utilizes three needle electrodes with a triangular distance of 3
+mm from each other covered by functionalized multi-wall carbon
+nanotubes. The biosensor was calibrated by comparing results with
+clinical diagnostics of 142 individuals clinically confirmed as positive
+and negative SARS-CoV-2 patients and 97% accuracy and sensitivity was
+achieved. In the next step, samples from 30 individuals as suspected
+cased of COVID-19 who needed to do chest CT were taken and the results
+from the developed biosensor were compared to chest CT. The differ­
+ences were less than 7% with less than 3% of false-negative results from
+the electrochemical biosensor.
+A biosensor for real-time and continuous detection of SARS-CoV-2
+was developed which can be a suitable and reliable solution for the
+clinical application (Qiu et al., 2020). The biosensor is a dual-function
+localized surface plasmon resonance (LSPR) sensor which combines
+the photothermal effect and plasmon sensing to detect the SARS-CoV-2
+nucleic acid. LSPR sensor utilizes light and detects the localized reso­
+nance oscillation of surface conduction electrons in the presence of the
+target biomarker which leads to binding and affinity incidents at the
+surface of plasmonic material and then changes the refractive index
+(Anker et al., 2008). The localized effect is due to the presence of
+nanomaterials on the surface which makes the system highly sensitive to
+localized variations; two-dimensional gold nanoislands (AuNIs) are
+functionalized with a complementary sequence to sensitively hybridize
+with SARS-CoV-2 viral nucleic acid. AuNIs are plasmonic nanoparticles
+that have high optical cross-sections and the energy of incident light
+which is non-radiatively transferred into heat, a process called the
+thermoplasmonic effect, which provides an in situ heat source for the
+process (Jauffred et al., 2019; Kim et al., 2019). The localized thermo­
+plasmonic heating is able to increase the temperature of hybridization,
+which is followed by accurate discrimination of SARS-CoV-2 gene se­
+quences among similar sequences with a 0.22 pM detection limit in a
+multigene mixture.
+Another biosensor consisting of the anti-SARS-CoV-2 S protein an­
+tibodies immobilized on the graphene sheets of FET was developed for
+the detection of SARS-CoV-2 in clinical samples by applying FET-based
+biosensing (Seo et al., 2020). The graphene-based FET biosensor was
+sensitive to the surrounding changes and provided optical signals
+correlated with these changes that had a very low background signal.
+The graphene-based FET biosensor discriminated SARS-CoV-2 protein
+from that of MERS-CoV. This highly sensitive POC biosensor was able to
+
+2.3. CT scan
+A CT scan of the chest is a detailed specific chest X-ray that is taken
+from different angles followed by the final cross-sectional image, which
+helps in examining the abnormalities in the lungs and inside the chest to
+further diagnose the cause of the abnormalities (Whiting et al., 2015). A
+CT scan of the chest is a painless, non-invasive routine test for the
+diagnosis of pneumonia and other respiratory diseases performed by
+radiologists that can provide fast results and is easy to administer. As
+with the other methods of SARS-CoV-2 detection, the involvement of
+lungs is dependent on number of the days that have passed after the
+onset of infection. A related study showed that in the first two days of
+manifesting symptoms, 56% of the CTs of patients were found to be
+normal, and the maximum observable abnormalities were around 10
+d after manifesting symptoms (Bernheim et al., 2020).
+Small-scale (Huang et al., 2020; Pakdemirli et al., 2020; Xie et al.,
+2020) and larger-scale studies (Chung et al., 2020) have shown that
+PCR-based methods have limited sensitivity and that chest CTs can
+reveal abnormalities in almost all COVID-19 patients. This was found to
+be the case even for asymptomatic individuals or patients with initial
+negative RT-PCR but clinical symptoms, thus showing that CT scans
+have higher sensitivity compared with RT-PCR (Ai et al., 2020; Fang
+et al., 2020; Xie et al., 2020). CT, however, has disadvantages such as
+low specificity as the features from COVID-19 patients are similar to
+those of other viral cases of pneumonia (Ai et al., 2020). To show the
+high sensitive value of chest CT as a diagnostic test, some research
+groups have compared the results from the chest CT scan with RT-PCR.
+A study (Fang et al., 2020) that compared the sensitivity of chest CT
+with RT-PCR reported that chest CT had a sensitivity of 98% for
+COVID-19 while RT-PCR sensitivity was 71% when 51 patients were
+tested within 3 d. The study also suggested chest CT could be used as an
+early diagnostic method of respiratory diseases such as COVID-19, while
+RT-PCR could maintain its position as a standard of reference.
+In a similar study on the sensitivity of RT-PCR and chest CT, a
+comparison of the results from chest CT and the initial and serial RT-PCR
+was performed (Ai et al., 2020). The results indicated that 59% of the
+patients had positive RT-PCR, while the positive rate for chest CT was
+88%. Also, 75% of the patients who were diagnosed negative by RT-PCR
+had abnormalities in their chest CT and had positive chest CT for
+COVID-19. The results from serial RT-PCR indicated that the average
+time between initial negative RT-PCR to a positive one is 5.1 ± 1.5 d.
+The false-negative results of initial RT-PCR were in line with the results
+from other reported studies (Chung et al., 2020; Xie et al., 2020). These
+false-negative results would aid the further spread of the virus, which
+would not be desirable. In conclusion, the results highlighted that chest
+CT is more sensitive compared with initial RT-PCR, and that, in epidemic
+areas, it could be considered as the primary diagnosis method for
+COVID-19.
+2.4. Other methods
+Several biomarkers that are present in biofluids may also be used for
+the detection of SARS-CoV-2. It has been shown that the concentrations
+of C-reactive protein, D-dimer, lymphocytes, leukocytes, and blood
+platelets have increased in patients suffering from COVID-19 (Guan
+et al., 2020). A study dedicated to statistical analysis of biochemical
+markers to discriminate severe COVID-19 patients from mild ones
+demonstrated that patients with severe conditions show noticeably
+higher levels of serum urea, creatinine, and cystatin C compared with
+those with the mild condition (Xiang et al., 2020a). All of these bio­
+markers could be related to the glomerular filtration function that can be
+used for the early diagnosis of severe COVID-19 and distinguish it from a
+mild case. A similar study is being performed at Dalhousie University in
+Halifax, Canada (Dalhousie University, 2020) to identify biomarkers
+11
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+chest CT, chest X-ray machines provide the two-dimensional image of a
+patient’s thorax, cost less than CT scan devices, and are mainly available
+at all healthcare facilities. To overcome the limited sensitivity and
+specificity of the conventional chest X-ray, especially compared to chest
+CT, various AI technologies, including machine learning and deep
+learning, have been developed to improve chest X-ray diagnostics per­
+formance. Therefore, chest X-rays can be utilized for COVID-19 diag­
+nosis using computer-aided diagnosis (Hemdan et al., 2020; Schiaffino
+et al., 2020). Considering its improved diagnostic performance and ease
+of operation, the chest X-ray can be implemented as a promising tech­
+nique for COVID-19 diagnosis, especially in low-medium-income
+countries. Fig. 8 demonstrates the best time of implementing each
+method of detection at different stages post infection.
+
+detect SARS-CoV-2 antigen protein in a nasopharyngeal swab transport
+medium as well as in the cultured virus and clinical samples with a 2.42
+× 102 copies/mL limit of detection in clinical samples for the detection
+of the S protein. Fig. 7 shows the developed biosensor and its mechanism
+of operation.
+3. Comparison of the developed methods
+Each of the developed methods for the detection of SARS-CoV-2 is
+suitable for specific situations, but each has some drawbacks, so the
+search has continued for other detection techniques that have higher
+sensitivity, better specificity, and lower detection time. Here, we
+compare the aforementioned methods in brief, and we compare the
+developed methods in brief and propose several potentially promising
+detection methods for the diagnosis of COVID-19 in the following
+section.
+The main disadvantage of PCR-based methods is the limited sensi­
+tivity that can lead to false-negative results in the early stages of infec­
+tion, which disqualifies the use of these methods alone to identify an
+individual as not infected, therefore requiring clinical observation and
+patient’s history to be considered. Performing PCR-based tests also re­
+quires specific facilities and equipment with trained staff, which many
+healthcare facilities in small cities or outside urban cities may not be
+equipped with. Also, due to the limited availability of reagents, the PCRbased tests are in short supply. Furthermore, they are invasive, timeconsuming methods taking up to several hours to return results. More­
+over, PCR-based methods detect the presence of the SARS-CoV-2;
+therefore, if an individual was infected asymptomatically with SARSCoV-2 and then recovered from it, PCR-based methods are not able to
+track that person while serology tests can detect that.
+Serology tests can detect the people who have previously been
+infected and the ones that are currently ill, so they would give a better
+insight into the actual COVID-19 infection level of the population. They
+can also be implemented to determine the phase of infection based on
+the level of different antibodies in the patient’s sample. On the negative
+side, serology tests do not show the virus itself, but the antibody against
+it. Therefore, they have the drawback of producing false-negative results
+in the early stage of infection, sharing the main disadvantage of the PCRbased methods. A chest CT is more sensitive compared with the two
+abovementioned methods, especially in the early stages. However, it
+requires expensive equipment with technical experts to operate it, and
+as the chest abnormalities are similar to those of other viral cases of
+pneumonia, it cannot specifically diagnose COVID-19. In contrast to
+
+4. Future perspectives
+To overcome the shortcomings of the existing detection methods,
+here we propose several methods and technologies for the potentially
+sensitive and specific POC detection of SARS-CoV-2, inspired to some
+extent by the methods developed for the detection of other viruses,
+including SARS-CoV and MERS-CoV. Many diverse technologies have
+been used thus far for the fast, accurate, and specific detection of SARSCoV and MERS-CoV, including, but not limited to, using functionalized
+nanostructures to improve the sensitivity of PCR-based methods, the use
+of aptamers functionalized with quantum dots (QDs), semiconductorbased binding assays, surface plasmon resonance-based assays, paperbased assays, piezoelectric immune sensors, and electrochemical sen­
+sors. Some of these methods are suitable for mass testing and, conse­
+quently, for the identification of asymptomatic patients to control the
+further spread of COVID-19. We will discuss some of these key methods
+in the following subsections.
+4.1. Lateral flow assays
+One of the promising technologies for fast, accurate, and costeffective detection of SARS-CoV-2 is the lateral flow assay (LFA). LFAs
+do not need any specific instrument for qualitative detection, which
+makes them a promising method of detection for POC diagnosis (Fu
+et al., 2011). LFAs usually consist of four pads (Fig. 9); the sample pad
+that is used to receive the sample, the conjugation pad consisting of
+specific antibodies and/or antigens conjugated with labels, the mem­
+brane that drags the sample solution to the test and control line using
+capillary forces, and then the absorption pad that collects the sample in
+
+Fig. 7. Schematic diagram of the detection process performed by the graphene-based FET biosensor. The principle of operation is based on the interaction of the
+SARS-CoV-2 S protein with the SARS-CoV-2 S protein antibodies immobilized on the graphene sensing material. After taking the sample and adding the clinical
+transport medium, the prepared sample is transferred to the laboratory, where the FET biosensor is used for the detection of SARS-CoV-2.
+12
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+Fig. 8. Schematic diagram illustrating the capability of each detection method with regard to the post infection time of SARS-CoV-2. As the cone cross section
+increases, the results from the detection method become more reliable for the COVID-19 diagnosis. Chest CT would be the most sensitive method of detection at early
+stages and as time passes the sensitivity of molecular methods especially RT-PCR increases. Serology tests would be more suitable at the late stages and even after
+recovery, as the antibodies are still available in the patient’s sample.
+Fig. 9. Illustration of an LFA, the mecha­
+nism of detection, and the final result’s
+appearance. In the presence of a SARS-CoV-2
+positive result, the anti-SARS-CoV-2 anti­
+bodies attach to their label on the conjuga­
+tion pad and make a complex. The complex
+reaches the test line using capillary forces
+and attaches to the antibodies immobilized
+there. Regarding the control line, as the
+sample flows through the assay, the labeled
+antibodies for the control line move toward
+the control line and attach to the immobi­
+lized antibodies on the control line. In the
+absence of SARS-CoV-2, there is no forma­
+tion of a complex and no attachment on the
+test line. However, as the flow passes
+through the assay, the labeled antibodies for
+the control line move toward the control
+line, and attach on the control line.
+
+the final part. As the sample flows through the assay and reaches the
+conjugation pad, the biomarker (anti-SARS-CoV-2 antibody here) is
+attached to its specific conjugated antigen and forms a complex. Then,
+the complex reaches the test line containing immobilized capture re­
+agents, such as the biomarker-specific antibodies that capture the
+complex of the biomarker and the conjugated antigen. The LFA’s oper­
+ation is based on a sandwich immunoassay that captures the target
+molecule and shows different signals (colors) on the test and control line
+based on the labels. The labels are usually colloidal gold, carbon, or
+latex. LFAs mainly operate by detecting the antibodies secreted in
+response to the presence of pathogens. Clinical studies have illustrated a
+sensitivity of 82% when detecting both IgM and IgG (Xiang et al.,
+2020b), which can be further improved by using novel nanoparticles.
+Different LFAs are under development or have already been devel­
+oped for the detection of SARS-CoV-2 (Xiang et al., 2020b). They will
+mainly detect the IgM and IgG antibodies, so the test may provide
+false-negative results in early stages. The molecular tests can also be
+combined with LFAs as the incorporation of RT-LAMP and LFAs was
+implemented for the detection of MERS-CoV, but they also had low
+sensitivity (Huang et al., 2018). A single antibody assay has been
+developed to detect Escherichia coli, where a hydrophilic, porous, and
+photoluminescence-quenching platform was engineered for the simple
+but highly sensitive detection of small- and large-size targets (Chee­
+veewattanagul et al., 2017). The main challenges associated with the
+LFAs are the suitable time to take the test and the sensitivity. To address
+
+these challenges, a promising technique would be the development of an
+LFA that can detect the SARS-CoV-2 instead of antibodies and applying
+some of the signal amplification strategies, including implementation of
+plasmonic nanoparticles, carbon nanomaterials, organic molecules, and
+dual sensitizers that would respond to even low concentrations of
+SARS-CoV-2 in the early stages of infection.
+4.2. Paper-based devices
+Paper-based analytical devices can be an answer to the current
+challenges of complicated sample preparation associated with molecular
+detection tests of COVID-19. Paper-based devices consist of different
+functional parts that have been integrated with different molecular
+amplification technologies, such as PCR or LAMP, to detect different
+pathogens quantitatively. These integrated devices are simple, easy to
+operate, and easy to store and transport; at the same time, they offer fast,
+sensitive, and precise detection of different pathogens. These devices
+perform the detection procedure with simple folding of different parts in
+different ways (similar to origami) that leads to extraction and purifi­
+cation, elution, amplification, and finally detection. In the past, malaria
+species were detected using paper folding of whole blood for sample
+preparation, along with isothermal amplification and lateral flow
+detection (Reboud et al., 2019). The developed biosensor returned the
+results in less than 50 min with 98% sensitivity which was higher than
+that achieved by the commercial immunodiagnostic test. The developed
+13
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+biosensor addressed the challenges of detection without using labora­
+tory equipment and infrastructure. Other paper-based devices have been
+developed for the diagnosis of infectious pathogens, such as the human
+papillomavirus, Zika virus, human immunodeficiency virus (HIV), and
+rotavirus (Mao et al., 2020).
+Using paper-based technologies has been proposed for the detection
+of SARS-CoV-2 (Mao et al., 2020). As the diagnosis of all suspected cases
+from their home would be time-consuming, the implementation of
+paper-based devices to predict the spread of COVID-19 and the detection
+of SARS-CoV-2 in wastewater was proposed. Recent studies found that
+feces and urine samples of infected individuals may carry live
+SARS-CoV-2 that can later enter the wastewater system (Holshue et al.,
+2020). Consequently, the analysis of the wastewater system and sewage
+pipe networks would be a suitable procedure to track the suspected
+COVID-19 patients in local areas. The results of the local wastewater
+analysis would be used to mitigate the spread of the virus; however, this
+analysis would have to be fast and the technology used for the detection
+transportable, fast, and accurate to detect low concentrations of
+SARS-CoV-2. Therefore, paper-based devices have been suggested for
+wastewater analysis. One possible challenge could be the complex ma­
+trix of wastewater which was previously addressed by developing a
+method for fast quantitative detection of the viral genome of pathogens
+using sewage as a sample (Yang et al., 2017).
+
+quartz crystal microbalance and microcantilever. Piezoelectric devices
+consist of a substrate and a piezoelectric crystal, which is mass sensitive;
+any changes in the mass attached to the resonator surface affect the
+resonant frequency. The principle of operation is associated with the
+interactions of two molecules: a biorecognition element, which is an
+antibody or a membrane, immobilized on the piezoelectric crystal sur­
+face, and a biomolecule interacting with the surface film. The increased
+mass as the result of affinity interaction between the two molecules
+results in a decrease in the frequency (Kurosawa et al., 2006; Pohanka,
+2017). Due to the high sensitivity of the piezoelectric crystal surface to
+small changes on covered areas, such as a small number of viral antigen
+molecules or the entire virus, any change of medium would be detected
+and the analysis time would be shortened (Stobiecka et al., 2017).
+Therefore, piezoelectric devices are excellent methods of detection for
+viruses and bacteria as they usually consist of high macromolecular
+entities (Caygill et al., 2010). Further, they are simple, cost-effective,
+highly sensitive, and specific devices, having a small footprint, there­
+fore suitable for POC diagnosis (Pohanka, 2017; Zuo et al., 2004). Their
+operations do not require any sample preparation, and they are able to
+return results in a couple of minutes that make them suitable for situa­
+tions requiring large screening of the population such as those during the
+COVID-19 pandemic.
+To develop a highly sensitive piezoelectric device with the highest
+capture capacity, the optimized concentration and orientation of the
+recognition element should provide the best access of interacting regions
+between two molecules and play a crucial role. To utilize the optimum
+concentration, the theoretical total mass changes of the recognition
+element adsorbed on a resonator surface would be estimated for
+different orientations based on dimensions of the recognition element.
+The theoretical mass in vertical orientation corresponds to the optimized
+concentration of the recognition element which provides the highest
+capture capacity in the vertical orientation (Stobiecka et al., 2016).
+Piezoelectric devices have been applied for the detection of many vi­
+ruses, such as herpes virus, HBV, HIV, influenza, and SARS (Erofeev
+et al., 2019; Moudgil and Swaminathan, 2015; Pohanka, 2017). A
+piezoelectric immunosensor was developed for the detection of
+SARS-CoV in sputum (Zuo et al., 2004). Horse polyclonal antibodies
+against SARS-CoV were immobilized on the piezoelectric crystal surface
+to specifically adsorb the SARS antigen which resulted in a frequency
+shift; the changes in frequency were linear with the change in concen­
+tration in the optimal condition. The developed immunosensor was
+stable and provided reproducible results in less than 2 min. Considering
+the portability, cost-effectiveness, and fast response delivered by
+piezoelectric devices, along with the confirmed potential of these de­
+vices in the detection of viruses with similar genomic structures to that
+of SARS-CoV-2, these devices are promising as the means for the fast and
+accurate detection of SARS-CoV-2, especially for surveilling the virus
+spread in small cities or outside urban cities that may not be equipped
+with specific facilities.
+
+4.3. Microfluidic devices
+Integration of microfluidics for the detection of pathogens such as
+SARS-CoV-2 can provide many benefits, including portability and POC
+detection, higher ratios of the surface to volume, ability to operate with
+small sample volume, and better heat and mass transfer, all of which
+lead to fast and accurate detection and cost-effectiveness (Foudeh et al.,
+2012; Yager et al., 2006). These devices have to be stable over an
+acceptable range of temperatures and humidity and provide platforms
+that are easy to operate, perform sensitive analyses, and lead to specific
+results. Microfluidic devices consist of channels and reaction chambers
+in the size of micrometers that provide the ability to perform sample
+preparation, including separations with high resolution and speed.
+Microfluidic devices have been implemented for the detection of
+different biomarkers, such as antibodies, other proteins, toxins, and even
+the whole cell, and they have been used for the detection of many vi­
+ruses, including, but not limited to, rotaviruses, influenza virus, HIV,
+hepatitis B virus (HBV), Zika virus, and SARS (Nasseri et al., 2018; Zhou
+et al., 2004).
+Multiple microfluidic devices have been designed to be combined
+with molecular amplification techniques, including PCR and isothermal
+methods (Basiri et al., 2020). Microfluidic devices can perform multi­
+plex detections which can be especially advantageous in the diagnosis of
+diseases with similar symptoms, such as SARS-CoV-2, that have common
+symptoms with other viral pneumonias. A microfluidic device was also
+developed for the molecular detection of HIV, where the designed
+nucleic acid probes were conjugated with magnetic beads for the puri­
+fication of the HIV viral genome (Wang et al., 2012). The microfluidic
+system incorporated with PCR targeted four detection genes of HIV to
+improve sensitivity and specificity and to reduce the rate of
+false-negative results. Their integrated microfluidic system was able to
+return optical results within 95 min. Given that this method has shown
+success for the detection of other viruses, and considering its ease of use
+and versatility, the incorporation of microfluidic devices with other
+detection techniques could be a promising approach for SARS-CoV-2
+detection.
+
+4.5. Artificial intelligence (AI)
+AI can be implemented to diagnose COVID-19 using X-rays or CT
+scans of the chest. As stated earlier, CT scans are more sensitive
+compared with the other methods of detection, but one of the main
+challenges is training the technical experts to analyze the images. To
+address this challenge, AI can be implemented for the rapid and low-cost
+detection of SARS-CoV-2 from X-rays or CT scans (Jin et al., 2020). The
+use of AI for diagnosis would also save considerable time and effort from
+radiologists. By collecting the data representative of the whole popula­
+tion of study and using deep learning algorithms, AI applications can be
+developed to diagnose COVID-19 accurately. In fact, several AI appli­
+cations are currently under development or have already been devel­
+oped for the diagnosis of SARS-CoV-2.
+The COVID-Net was developed using deep convolutional neural
+network design that uses information gained from different lung
+
+4.4. Piezoelectric devices
+Another method used for the detection of different viruses is the
+piezoelectric method, which consists of an electromechanical device
+which works based on changes in the mass of a substrate including
+14
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+N. Taleghani and F. Taghipour
+
+conditions and conditions related to SARS-CoV-2 and analyzes the chest
+X-ray to diagnose COVID-19 with 92.4% accuracy; moreover, the
+COVID-Net is open source and can be used by different facilities (Wang
+and Wong, 2020). A 3D deep learning model, CoV-Net, was developed
+using a neural network that can discriminate between COVID-19 and
+other lung diseases with 97.17% area under curve, 90.19% sensitivity,
+and 95.76% specificity (Jin et al., 2020). A platform was proposed that
+can diagnose COVID-19 using smartphone sensors (Maghdid et al.,
+2020). As smartphones are being used by almost everyone these days
+and they are equipped with many sensors, such as cameras, micro­
+phones, and humidity and temperature sensors as well as having wire­
+less connections, the proposed platform would be a cost-effective
+solution for the surveillance of COVID-19. In the proposed platform, an
+AI application uses the smartphone sensors’ signal measurements and
+predicts the level of severity of pneumonia and the cause of that pneu­
+monia. Given the fast-growing implementation of AI in everyday life and
+the proven success of AI in decision-making and saving time, effort, and
+resources, AI along with deep learning methods can be suitable to
+identify the abnormalities associated with SARS-CoV-2 in chest CT and
+X-ray.
+
+Ai, T., Yang, Z., Hou, H., Zhan, C., Chen, C., Lv, W., Tao, Q., Sun, Z., Xia, L., 2020.
+Radiology. https://doi.org/10.1148/radiol.2020200642, 200642.
+Andersen, K.G., Rambaut, A., Lipkin, W.I., Holmes, E.C., Garry, R.F., 2020. Nat. Med. 26,
+450–452. https://doi.org/10.1038/s41591-020-0820-9.
+Anker, J.N., Hall, W.P., Lyandres, O., Shah, N.C., Zhao, J., Van Duyne, R.P., 2008. Nat.
+Mater. 7, 442–453. https://doi.org/10.1038/nmat2162.
+Basiri, A., Heidari, A., Nadi, M.F., Fallahy, M.T.P., Nezamabadi, S.S., Sedighi, M.,
+Saghazadeh, A., Rezaei, N., 2020. Rev. Med. Virol. https://doi.org/10.1002/
+rmv.2154 e2154.
+Beijing, 2020. Wantai Biological Pharmacy. http://www.ystwt.cn/covid-19/. (Accessed
+5 November 2020).
+Bermingham, A., Chand, M.A., Brown, C.S., Aarons, E., Tong, C., Langrish, C.,
+Hoschler, K., Brown, K., Galiano, M., Myers, R., Pebody, R.G., Green, H.K.,
+Boddington, N.L., Gopal, R., Price, N., Newsholme, W., Drosten, C., Fouchier, R.A.,
+Zambon, M., 2012. Euro Surveill. 17, 20290. https://doi.org/10.2807/
+ese.17.40.20290-en.
+Bernheim, A., Mei, X., Huang, M., Yang, Y., Fayad, Z.A., Zhang, N., Diao, K., Lin, B.,
+Zhu, X., Li, K., Li, S., Shan, H., Jacobi, A., Chung, M., 2020. Radiology 295, 200463.
+https://doi.org/10.1148/radiol.2020200463.
+BGI, 2020. https://www.bgi.com/us/sars-cov-2-real-time-fluorescent-rt-pcr-kit-ivd/.
+(Accessed 14 June 2020).
+Bio-Rad, 2020. https://www.bio-rad.com/featured/en/sars-cov-2-covid-19-testing-solut
+ions.html. (Accessed 14 June 2020).
+Biolabs, C., 2020. https://sars-cov-2.creative-biolabs.com/molecular-diagn
+ostic-assay-development-services-for-detection-of-sars-cov2.htm?gclid=CjwKCA
+jw7e_0BRB7EiwAlH goE4Tv9EClSi0NoqWd46iwAnxiYQnQAohcYmjcALUVA
+d9XO4m5iB2yxoCL0cQAvD_BwE. (Accessed 14 June 2020).
+BioReference Laboratory an OPKO Health Company, 2020. https://www.bioreference.
+com/physicians/covid-19/. (Accessed 14 June 2020).
+Bosch Global, 2020. https://www.bosch.com/stories/vivalytic-rapid-test-for-covid-19/.
+(Accessed 14 June 2020).
+Capheid, 2020. https://www.cepheid.com/coronavirus. (Accessed 14 June 2020).
+Caygill, R.L., Blair, G.E., Millner, P.A., 2010. Anal. Chim. Acta 681 (1–2), 8–15. https://
+doi.org/10.1016/j.aca.2010.09.038.
+CDC, 2020a. https://www.cdc.gov/coronavirus/2019-ncov/lab/guidelines-clinical-speci
+mens.html. (Accessed 14 June 2020).
+CDC, 2020b.
+CDC, 2020c. https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antigen-te
+sts-guidelines.html. (Accessed 11 July 2020).
+Cellex, 2020. https://cellexcovid.com/. (Accessed 25 August 2020).
+Chan, J.F.W., Kok, K.H., Zhu, Z., Chu, H., To, K.K.W., Yuan, S., Yuen, K.Y., 2020a. Emerg.
+Microb. Infect. 9, 221–236. https://doi.org/10.1080/22221751.2020.1719902.
+Chan, J.F.W., Yuan, S., Kok, K.H., To, K.K.W., Chu, H., Yang, J., Xing, F., Liu, J., Yip, C.C.
+Y., Poon, R.W.S., Tsoi, H.W., Lo, S.K.F., Chan, K.H., Poon, V.K.M., Chan, W.M., Ip, J.
+D., Cai, J.P., Cheng, V.C.C., Chen, H., Hui, C.K.M., Yuen, K.Y., 2020b. Lancet 395,
+514–523. https://doi.org/10.1016/S0140-6736(20)30154-9.
+Cheeveewattanagul, N., Morales-Narváez, E., Hassan, A.R.H.A., Bergua, J.F.,
+Surareungchai, W., Somasundrum, M., Merkoçi, A., 2017. Adv. Funct. Mater. 27
+https://doi.org/10.1002/adfm.201702741.
+ChemBio Diagnostic Systems, 2020. https://chembio.com/dpp-covid-19-igm-igg-syst
+em-ous-2/. (Accessed 25 August 2020).
+Cheng, M.L., Weng, S.F., Kuo, C.H., Ho, H.Y., 2014. PLoS One 9. https://doi.org/
+10.1371/journal.pone.0113234.
+Chung, M., Bernheim, A., Mei, X., Zhang, N., Huang, M., Zeng, X., Cui, J., Xu, W.,
+Yang, Y., Fayad, Z.A., Jacobi, A., Li, K., Li, S., Shan, H., 2020. Radiology 295,
+202–207. https://doi.org/10.1148/radiol.2020200230.
+Cui, F., Zhou, H.S., 2020. Biosens. Bioelectron. 165, 112349. https://doi.org/10.1016/j.
+bios.2020.112349.
+Dalhousie University, 2020. https://www.dal.ca/news/2020/04/01/covid-19-rese
+archers-profile–dr–david-kelvin.html. (Accessed 14 June 2020).
+De Wit, E., Van Doremalen, N., Falzarano, D., Munster, V.J., 2016. Nat. Rev. Microbiol.
+14, 523–534. https://doi.org/10.1038/nrmicro.2016.81.
+Denka Company, 2020.
+DiaSorin, 2020. https://www.diasorin.com/en/immunodiagnostic-solutions/clini
+cal-areas/infectious-diseases/covid-19. (Accessed 14 June 2020).
+Erofeev, A.S., Gorelkin, P.V., Kolesov, D.V., Kiselev, G.A., Dubrovin, E.V., Yaminsky, I.V.,
+2019. R. Soc. Open Sci. 6 https://doi.org/10.1098/rsos.190255.
+Euroimmun, 2020a. https://www.coronavirus-diagnostics.com/antibody-detection-tests
+-for-covid-19.html. (Accessed 11 May 2020).
+Euroimmun, 2020b.
+Fadaka, A.O., Sibuyi, N.R.S., Adewale, O.B., Bakare, O.O., Akanbi, M.O., Klein, A.,
+Madiehe, A.M., Meyer, M., 2020. J. Int. Med. Res. 48 https://doi.org/10.1177/
+0300060520949077, 030006052094907.
+Fang, Y., Zhang, H., Xie, J., Lin, M., Ying, L., Pang, P., Ji, W., 2020. Radiology. https://
+doi.org/10.1148/radiol.2020200432, 200432.
+FDA, 2020. https://www.fda.gov/medical-devices/emergency-situations-medical-devic
+es/emergency-use-authorizations#covid19ivd. (Accessed 14 June 2020).
+Fehr, A.R., Channappanavar, R., Perlman, S., 2017. Annu. Rev. Med. 68, 387–399.
+https://doi.org/10.1146/annurev-med-051215-031152.
+Foudeh, A.M., Fatanat Didar, T., Veres, T., Tabrizian, M., 2012. Lab Chip. https://doi.
+org/10.1039/c2lc40630f.
+Freeman, B., Lester, S., Mills, L., Ata, M., Rasheed, U., Moye, S., Abiona, O.,
+Hutchinson, G.B., Morales-Betoulle, M., Krapinunaya, I., Gibbons, A., Chiang, C.F.,
+Cannon, D., Klena, J., Johnson, J.A., Owen, S.M., Graham, B.S., Corbett, K.S.,
+Thornburg, N.J., 2020. Biorxiv. https://doi.org/10.1101/2020.04.24.057323.
+
+5. Summary and conclusion
+The knowledge from the detection of other infectious viruses, espe­
+cially SARS-CoV and MERS-CoV, has played an important role and
+paved the way for the rapid and accurate diagnosis of COVID-19.
+Identification of the SARS-CoV-2 genome sequence in less than a
+month has led to the fast development and establishment of the NAATs
+as the main method of COVID-19 diagnosis, which is the first step in
+restricting the further spread of the virus. Serology tests have also
+attracted much attention, as they are easier to operate and provide
+better insights into all infected individuals compared with NAATs.
+Recent technologies and methods that have been implemented for the
+diagnosis of COVID-19 have been discussed here based on their princi­
+ples of operation as well as the value they add to the detection of the
+virus and their drawbacks. As diagnostic methods are an essential part of
+dealing with outbreaks, it becomes necessary to address the challenges
+of existing methods, develop more efficient methods, and detect all
+infected individuals rapidly and accurately in early stages, even for the
+asymptomatic carriers of COVID-19. With that aim, we have proposed
+some of the promising methods that could potentially be applied to
+prevent and control the further spread of COVID-19 and other possible
+pandemic outbreaks in the future, including LFAs, paper-based tech­
+niques, microfluidic modules, and piezoelectric devices. These tech­
+nologies can address the urgent necessity for the development of POC
+and multiplex tests to some extent and help prevent the further
+pandemic outbreak by getting the results for clinics and small healthcare
+facilities easier, faster, and more accurately.
+Declaration of competing interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper.
+Acknowledgment
+The authors would like to acknowledge the Natural Sciences and
+Engineering Research Council of Canada (NSERC) for its financial
+support.
+References
+Abbott Laboratories, 2020a. https://www.abbott.com/corpnewsroom/product-and-inno
+vation/detect-covid-19-in-as-little-as-5-minutes.html. (Accessed 14 June 2020).
+Abbott Laboratories, 2020b. https://www.abbott.com/corpnewsroom/product-andinnovation/abbott-launches-covid-19-antibody-test.html. (Accessed 14 June 2020).
+
+15
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+
+Freeman, W.M., Walker, S.J., Vrana, K.E., 1999. Biotechniques. https://doi.org/
+10.2144/99261rv01.
+Fu, E., Liang, T., Houghtaling, J., Ramachandran, S., Ramsey, S.A., Lutz, B., Yager, P.,
+2011. Anal. Chem. 83, 7941–7946. https://doi.org/10.1021/ac201950g.
+Garcia-Rodriguez, C., Levy, R., Arndt, J.W., Forsyth, C.M., Razai, A., Lou, J., Geren, I.,
+Stevens, R.C., Marks, J.D., 2007. Nat. Biotechnol. 25, 107–116. https://doi.org/
+10.1038/nbt1269.
+Gootenberg, J.S., Abudayyeh, O.O., Lee, J.W., Essletzbichler, P., Dy, A.J., Joung, J.,
+Verdine, V., Donghia, N., Daringer, N.M., Freije, C.A., Myhrvold, C.,
+Bhattacharyya, R.P., Livny, J., Regev, A., Koonin, E.V., Hung, D.T., Sabeti, P.C.,
+Collins, J.J., Zhang, F., 2017. Science (80-. ) 356, 438–442. https://doi.org/
+10.1126/science.aam9321.
+Gorbalenya, A.E., Baker, S.C., Baric, R.S., de Groot, R.J., Drosten, C., Gulyaeva, A.A.,
+Haagmans, B.L., Lauber, C., Leontovich, A.M., Neuman, B.W., Penzar, D.,
+Perlman, S., Poon, L.L., Samborskiy, D., Sidorov, I.A., Sola, I., Ziebuhr, J., 2020. Nat.
+Microbiol. 5, 536–544. https://doi.org/10.1101/2020.02.07.937862.
+Gordon, D., Jang, G., Bouhaddou, M., Xu, J., Obernier, K., O’Meara, M., Guo, J.,
+Swaney, D., Tummino, T., Hüttenhain, R., Kaake, R., Richards, A., Tutuncuoglu, B.,
+Foussard, H., Batra, J., Haas, K., Modak, M., Kim, M., Haas, P., Polacco, B.,
+Braberg, H., Fabius, J., Eckhardt, M., Soucheray, M., Bennett, M., Cakir, M.,
+McGregor, M., Li, Q., Naing, Z.Z.C., Zhou, Y., Peng, S., Kirby, I., Melnyk, J.,
+Chorba, J., Lou, K., Dai, S., Shen, W., Shi, Y., Zhang, Z., Barrio-Hernandez, I.,
+Memon, D., Hernandez-Armenta, C., Mathy, C., Perica, T., Pilla, K., Ganesan, S.,
+Saltzberg, D., Ramachandran, R., Liu, X., Rosenthal, S., Calviello, L.,
+Venkataramanan, S., Lin, Y., Wankowicz, S., Bohn, M., Trenker, R., Young, J.,
+Cavero, D., Hiatt, J., Roth, T., Rathore, U., Subramanian, A., Noack, 2020. In:
+Hubert, M., Roesch, F., Vallet, T., Meyer, B., White, K., Miorin, L., Agard, D.,
+Emerman, M., Ruggero, D., García-Sastre, A., Jura, N., Zastrowvon, M., Taunton, J.,
+Schwartz, O., Vignuzzi, M., d’Enfert, C., Mukherjee, S., Jacobson, M., Malik, H.,
+Fujimori, D., Ideker, T., Craik, C., Floor, S., Fraser, J., Gross, J., Sali, A.,
+Kortemme, T., Beltrao, P., Shokat, K., Shoichet, B., Krogan, N. (Eds.), Nat 583,
+459–468. https://doi.org/10.1038/s41586-020-2286-9.
+Gronowski, A.M., 2018. Electron. J. Int. Fed. Clin. Chem. Lab. Med. 29, 201–204.
+Guan, Y., Zheng, B.J., He, Y.Q., Liu, X.L., Zhuang, Z.X., Cheung, C.L., Luo, S.W., Li, P.H.,
+Zhang, L.J., Guan, Y.J., Butt, K.M., Wong, K.L., Chan, K.W., Lim, W., Shortridge, K.
+F., Yuen, K.Y., Peiris, J.S.M., Poon, L.L.M., 2003. Science (80-. ) 302, 276–278.
+https://doi.org/10.1126/science.1087139.
+Guan, W., Ni, Z., Hu, Y., Liang, W., Ou, C., He, J., Liu, L., Shan, H., Lei, C., Hui, D.S.C.,
+Du, B., Li, L., Zeng, G., Yuen, K.Y., Chen, R., Tang, C., Wang, T., Chen, P., Xiang, J.,
+Li, S., Wang, J.L., Liang, Z., Peng, Y., Wei, L., Liu, Y., Hu, Y.H., Peng, P., Wang, J.M.,
+Liu, J., Chen, Z., Li, G., Zheng, Z., Qiu, S., Luo, J., Ye, C., Zhu, S., Zhong, N., 2020.
+N. Engl. J. Med. 382, 1708–1720. https://doi.org/10.1056/NEJMoa2002032.
+Hajian, R., Balderston, S., Tran, T., deBoer, T., Etienne, J., Sandhu, M., Wauford, N.A.,
+Chung, J.Y., Nokes, J., Athaiya, M., Paredes, J., Peytavi, R., Goldsmith, B.,
+Murthy, N., Conboy, I.M., Aran, K., 2019. Nat. Biomed. Eng. 3, 427–437. https://doi.
+org/10.1038/s41551-019-0371-x.
+Hangzhou Biotest Biotech Company, 2020. http://en.biotests.com.cn/product/
+278188250. (Accessed 29 August 2020).
+Hemdan, E.E.-D., Shouman, M.A., Karar, M.E., 2020.
+Hijawi, B., Abdallat, M., Sayaydeh, A., Alqasrawi, S., Haddadin, A., Jaarour, N.,
+Alsheikh, S., Alsanouri, T., 2013. East. Mediterr. Health J. 19, 12–18. https://doi.
+org/10.26719/2013.19.supp1.s12.
+Holshue, M.L., DeBolt, C., Lindquist, S., Lofy, K.H., Wiesman, J., Bruce, H., Spitters, C.,
+Ericson, K., Wilkerson, S., Tural, A., Diaz, G., Cohn, A., Fox, L.A., Patel, A., Gerber, S.
+I., Kim, L., Tong, S., Lu, X., Lindstrom, S., Pallansch, M.A., Weldon, W.C., Biggs, H.
+M., Uyeki, T.M., Pillai, S.K., 2020. N. Engl. J. Med. 382, 929–936. https://doi.org/
+10.1056/NEJMoa2001191.
+Huang, P., Wang, H., Cao, Z., Jin, H., Chi, H., Zhao, J., Yu, B., Yan, F., Hu, X., Wu, F.,
+Jiao, C., Hou, P., Xu, S., Zhao, Y., Feng, N., Wang, J., Sun, W., Wang, T., Gao, Y.,
+Yang, S., Xia, X., 2018. Front. Microbiol. 9, 1101. https://doi.org/10.3389/
+fmicb.2018.01101.
+Huang, C., Wang, Y., Li, X., Ren, L., Zhao, J., Hu, Y., Zhang, L., Fan, G., Xu, J., Gu, X.,
+Cheng, Z., Yu, T., Xia, J., Wei, Y., Wu, W., Xie, X., Yin, W., Li, H., Liu, M., Xiao, Y.,
+Gao, H., Guo, L., Xie, J., Wang, G., Jiang, R., Gao, Z., Jin, Q., Wang, J., Cao, B., 2020.
+Lancet 395, 497–506. https://doi.org/10.1016/S0140-6736(20)30183-5.
+Huang, P., Liu, T., Huang, L., Liu, H., Lei, M., Xu, W., Hu, X., Chen, J., Liu, B., 2020.
+Radiology. https://doi.org/10.1148/radiol.2020200330.
+Imai, Y., Kuba, K., Rao, S., Huan, Y., Guo, F., Guan, B., Yang, P., Sarao, R., Wada, T.,
+Leong-Poi, H., Crackower, M.A., Fukamizu, A., Hui, C.-C., Hein, L., Uhlig, S.,
+Slutsky, A.S., Jiang, C., Penninger, J.M., 2005. Nature 436, 112–116. https://doi.
+org/10.1038/nature03712.
+Jauffred, L., Samadi, A., Klingberg, H., Bendix, P.M., Oddershede, L.B., 2019. Chem. Rev.
+119 (13), 8087–8130. https://doi.org/10.1021/acs.chemrev.8b00738.
+Jin, C., Chen, W., Cao, Y., Xu, Z., Tan, Z., Zhang, X., Deng, L., Zheng, C., Zhou, J., Shi, H.,
+Feng, J., 2020. Nat. Communications. 11. https://doi.org/10.1038/s41467-020-18
+685-1.
+Joung, J., Abudayyeh, O.O., Gootenberg, J.S., Ladha, A., 2020. . Medrxiv 8–10. https://
+doi.org/10.1101/2020.05.07.20055947.
+Kageyama, T., Kojima, S., Shinohara, M., Uchida, K., Fukushi, S., Hoshino, F.B.,
+Takeda, N., Katayama, K., 2003. J. Clin. Microbiol. 41, 1548–1557. https://doi.org/
+10.1128/JCM.41.4.1548-1557.2003.
+Kellner, R.J.; Mermet, J.M.; Otto, M.; and Widmer, H.M.; Born, J.L., 1998. , New York:
+Wiley-VCH. American Chemical Society (ACS). https://doi.org/10.1021/
+jm9804836.
+Kellner, M.J., Koob, J.G., Gootenberg, J.S., Abudayyeh, O.O., Zhang, F., 2019. Nat.
+Protoc. 14, 2986–3012. https://doi.org/10.1038/s41596-019-0210-2.
+
+Kim, M., Lee, J.H., Nam, J.M., 2019. Adv. Sci. 6 (17) https://doi.org/10.1002/
+advs.201900471.
+Klompus, S., Leviatan, S., Vogl, T., Kalka, I.N., Godneva, A., Weinberger, A., Segal, E.,
+2020. https://doi.org/10.1101/2020.09.01.20182220.
+Kuba, K., Imai, Y., Rao, S., Gao, H., Guo, F., Guan, B., Huan, Y., Yang, P., Zhang, Y.,
+Deng, W., Bao, L., Zhang, B., Liu, G., Wang, Z., Chappell, M., Liu, Y., Zheng, D.,
+Leibbrandt, A., Wada, T., Slutsky, A.S., Liu, D., Qin, C., Jiang, C., Penninger, J.M.,
+2005. Nat. Med. 11, 875–879. https://doi.org/10.1038/nm1267.
+Kumar, S., 2020. . Preprints. https://doi.org/10.20944/preprints202003.0440.v1.
+Kurosawa, S., Park, J.W., Aizawa, H., Wakida, S.I., Tao, H., Ishihara, K., 2006. Biosens.
+Bioelectron. https://doi.org/10.1016/j.bios.2006.06.030.
+La Marca, A., Capuzzo, M., Paglia, T., Roli, L., Trenti, T., Nelson, S.M., 2020. Reprod.
+Biomed. https://doi.org/10.1016/j.rbmo.2020.06.001. Online.
+Lau, S.K.P., Woo, P.C.Y., Li, K.S.M., Huang, Y., Tsoi, H.W., Wong, B.H.L., Wong, S.S.Y.,
+Leung, S.Y., Chan, K.H., Yuen, K.Y., 2005. Proc. Natl. Acad. Sci. U. S. A. 102,
+14040–14045. https://doi.org/10.1073/pnas.0506735102.
+Lee, M.S., Lin, Y.C., Lai, G.H., Lai, S.Y., Chen, H.J., Wang, M.Y., 2011. Can. J. Vet. Res.
+75, 122–127.
+Letko, M., Marzi, A., Munster, V., 2020. Nat. Microbiol. 5, 562–569. https://doi.org/
+10.1038/s41564-020-0688-y.
+Li, F., 2016. Annu. Rev. Virol. 3, 237–261. https://doi.org/10.1146/annurev-virology110615-042301.
+Li, C., Ren, L., 2020. Transbound. Emerg. Dis. 67 (4), 1485–1491. https://doi.org/
+10.1111/tbed.13620.
+Li, F., Li, W., Farzan, M., Harrison, S.C., 2005. Science (80-. ) 309, 1864–1868. https://
+doi.org/10.1126/science.1116480.
+Lin, C.W., Lin, K.H., Hsieh, T.H., Shiu, S.Y., Li, J.Y., 2006. FEMS Immunol. Med.
+Microbiol. 46, 375–380. https://doi.org/10.1111/j.1574-695X.2006.00045.x.
+Lu, R., Zhao, X., Li, J., Niu, P., Yang, B., Wu, H., Wang, W., Song, H., Huang, B., Zhu, N.,
+Bi, Y., Ma, X., Zhan, F., Wang, L., Hu, T., Zhou, H., Hu, Z., Zhou, W., Zhao, L.,
+Chen, J., Meng, Y., Wang, J., Lin, Y., Yuan, J., Xie, Z., Ma, J., Liu, W.J., Wang, D.,
+Xu, W., Holmes, E.C., Gao, G.F., Wu, G., Chen, W., Shi, W., Tan, W., 2020. Lancet
+395, 565–574. https://doi.org/10.1016/S0140-6736(20)30251-8.
+Lv, H., Wu, N.C., Tak-Yin Tsang, O., Malik Peiris, J., Wilson, I.A., Mok, C.K., Yuan, M.,
+APM Perera, R., Shing Leung, W., So, R.T., Man Chun Chan, J., Yip, G.K., Shiu Hong
+Chik, T., Wang, Y., Yau Chung Choi, C., Lin, Y., Ng, W.W., Zhao, J., Poon, L.L., 2020.
+Cell Rep. 31, 107725. https://doi.org/10.1016/j.celrep.2020.107725.
+Maghdid, H.S., Ghafoor, K.Z., Sadiq, A.S., Curran, K., Rawat, D.B., Rabie, K., 2020.
+Mao, K., Zhang, H., Yang, Z., 2020. Environ. Sci. Technol. 54 (7), 3733–3735. https://
+doi.org/10.1021/acs.est.0c01174.
+Mathuria, J.P., Yadav, R., Rajkumar, 2020. J. Infect. Public Health 13 (7), 901–905.
+https://doi.org/10.1016/j.jiph.2020.06.005.
+Memish, Z.A., Mishra, N., Olival, K.J., Fagbo, S.F., Kapoor, V., Epstein, J.H.,
+AlHakeem, R., Al Asmari, M., Islam, A., Kapoor, A., Briese, T., Daszak, P., Al
+Rabeeah, A.A., Lipkin, W.I., 2013. Emerg. Infect. Dis. 19, 1819–1823. https://doi.
+org/10.3201/eid1911.131172.
+Mesa Biotechnology, 2020. https://www.mesabiotech.com/coronavirus. (Accessed 25
+August 2020).
+Miripour, Z.S., Sarrami-Forooshani, R., Sanati, H., Makarem, J., Taheri, M.S.,
+Shojaeian, F., Eskafi, A.H., Abbasvandi, F., Namdar, N., Ghafari, H., Aghaee, P.,
+Zandi, A., Faramarzpour, M., Hoseinyazdi, M., Tayebi, M., Abdolahad, M., 2020.
+Biosens. Bioelectron. 165, 112435. https://doi.org/10.1016/j.bios.2020.112435.
+Mohd, H.A., Al-Tawfiq, J.A., Memish, Z.A., 2016. Virol. J. 13 https://doi.org/10.1186/
+s12985-016-0544-0.
+Monteil, V., Kwon, H., Prado, P., Hagelkrüys, A., Wimmer, R.A., Stahl, M., Leopoldi, A.,
+Garreta, E., Hurtado del Pozo, C., Prosper, F., Romero, J.P., Wirnsberger, G.,
+Zhang, H., Slutsky, A.S., Conder, R., Montserrat, N., Mirazimi, A., Penninger, J.M.,
+2020. Cell 181, 905–913. https://doi.org/10.1016/j.cell.2020.04.004 e7.
+Mori, Y., Nagamine, K., Tomita, N., Notomi, T., 2001. Biochem. Biophys. Res. Commun.
+289, 150–154. https://doi.org/10.1006/bbrc.2001.5921.
+Moudgil, A., Swaminathan, S., 2015. 2015 IEEE 10th International Conference on Nano/
+Micro Engineered and Molecular Systems, NEMS 2015. Institute of Electrical and
+Electronics Engineers Inc., pp. 337–342. https://doi.org/10.1109/
+NEMS.2015.7147439
+Mount Sinai, 2020. https://www.mountsinai.org/about/newsroom/2020/mount-sinaisblood-test-to-detect-antibodies-to-covid19-receives-emergency-use-authorization-fro
+m-us-food-and-drug-administration-pr. (Accessed 25 August 2020).
+Nasseri, B., Soleimani, N., Rabiee, N., Kalbasi, A., Karimi, M., Hamblin, M.R., 2018.
+Biosens. Bioelectron. https://doi.org/10.1016/j.bios.2018.05.050.
+Notomi, T., Okayama, H., Masubuchi, H., Yonekawa, T., Watanabe, K., Amino, N.,
+Hase, T., 2000. Nucleic Acids Res.
+Pakdemirli, E., Mandalia, U., Monib, S., 2020. Cureus 12, e9942. https://doi.org/
+10.7759/cureus.9942.
+Pan, Y., Zhang, D., Yang, P., Poon, L.L.M., Wang, Q., 2020. Lancet Infect. Dis. 20 (4),
+411–412. https://doi.org/10.1016/S1473-3099(20)30113-4.
+Parida, M., Posadas, G., Inoue, S., Hasebe, F., Morita, K., 2004. J. Clin. Microbiol. 42,
+257–263. https://doi.org/10.1128/JCM.42.1.257-263.2004.
+Peeling, R.W., Wedderburn, C.J., Garcia, P.J., Boeras, D., Fongwen, N., Nkengasong, J.,
+Sall, A., Tanuri, A., Heymann, D.L., 2020. Lancet Infect. Dis. 20 (9), 245–249.
+https://doi.org/10.1016/S1473-3099(20)30517-X.
+Perlman, S., 2020. N. Engl. J. Med. 382 (8), 760–762. https://doi.org/10.1056/
+NEJMe2001126.
+Pharmact, 2020. https://www.pharmact.eu/. (Accessed 14 June 2020).
+Pohanka, M., 2017. Int. J. Electrochem. Sci 12, 496–506. https://doi.org/10.20964/
+2017.01.44.
+
+16
+
+N. Taleghani and F. Taghipour
+
+Biosensors and Bioelectronics 174 (2021) 112830
+Whiting, P., Fficm, F., Singatullina, N., Edic, F., Rosser, J.H., 2015. Sheff. Teach. Hosp.
+NHS Trust. https://doi.org/10.1093/bjaceaccp/mku063.
+WHO, 2015. WHO.
+WHO, 2020a.
+WHO, 2020b. WHO.
+WHO, 2020c. https://www.who.int/dg/speeches/detail/who-director-general-s-openin
+g-remarks-at-the-media-briefing-on-covid-19—11-march-2020. (Accessed 14 June
+2020).
+WHO, 2020d. https://www.who.int/publications/i/item/antigen-detection-in-the-diag
+nosis-of-sars-cov-2infection-using-rapid-immunoassays. (Accessed 11 July 2020).
+Worldometer, 2020. Worldometer. https://doi.org/10.1101/2020.01.23.20018549V2.
+Xiang, J., Wen, J., Yuan, X., Xiong, S., Zhou4, X., Liu, C., Min, X., 2020a. https://doi.org/
+10.1101/2020.03.19.20034447.
+Xiang, J., Yan, M., Li, H., Liu, T., Lin, C., Huang, S., Shen, C., 2020b. . medRxiv
+2020.02.27.20028787. https://doi.org/10.1101/2020.02.27.20028787.
+Xie, X., Zhong, Z., Zhao, W., Zheng, C., Wang, F., Liu, J., 2020. Radiology. https://doi.
+org/10.1148/radiol.2020200343, 200343.
+Xu, M., Wang, D., Wang, H., Zhang, X., Liang, T., Dai, J., Li, M., Zhang, J., Zhang, K.,
+Xu, D., Yu, X., 2020. https://doi.org/10.1002/ctm2.158.
+Yager, P., Edwards, T., Fu, E., Helton, K., Nelson, K., Tam, M.R., Weigl, B.H., 2006.
+Nature. https://doi.org/10.1038/nature05064.
+Yang, Z., Xu, G., Reboud, J., Kasprzyk-Hordern, B., Cooper, J.M., 2017. Anal. Chem. 89,
+9941–9945. https://doi.org/10.1021/acs.analchem.7b02257.
+Yang, Y., Yang, M., Shen, C., Wang, F., Yuan, J., Li, J., Zhang, M., Wang, Z., Xing, L., Wei,
+J., Peng, L., Wong, G., Zheng, H., Wu, W., Liao, M., Feng, K., Li, J., Yang, Q., Zhao, J.,
+Zhang, Z., Liu, L., Liu, Y., Yang, Y., Yang, M., Shen, C., Wang, F., Yuan, J., Li, J., Mm,
+Z., Md, W., Mm, X., Mm, W., Peng, L., Mm, Z., Mm, W., Liao, M., Feng, M.K., Yang,
+Q., Zhao, J., Phd, Z., Liu, Y., 2020. https://doi.org/10.1101/2020.02.11.20021493.
+Zaki, A.M., van Boheemen, S., Bestebroer, T.M., Osterhaus, A.D.M.E., Fouchier, R.A.M.,
+2012. N. Engl. J. Med. 367, 1814–1820. https://doi.org/10.1056/NEJMoa1211721.
+Zhang, W., Du, R.H., Li, B., Zheng, X.S., Yang, X. Lou, Hu, B., Wang, Y.Y., Xiao, G.F.,
+Yan, B., Shi, Z.L., Zhou, P., 2020. Emerg. Microb. Infect. 9, 386–389. https://doi.
+org/10.1080/22221751.2020.1729071.
+Zhang, F., Abudayyeh, O.O., Gootenberg, J.S., 2020..
+Zhou, X., Liu, D., Zhong, R., Dai, Z., Wu, D., Wang, H., Du, Y., Xia, Z., Zhang, L., Mei, X.,
+Lin, B., 2004. Electrophoresis 25, 3032–3039. https://doi.org/10.1002/
+elps.200305966.
+Zhou, P., Yang, X.L., Wang, X.G., Hu, B., Zhang, L., Zhang, W., Si, H.R., Zhu, Y., Li, B.,
+Huang, C.L., Chen, H.D., Chen, J., Luo, Y., Guo, H., Jiang, R.D., Liu, M.Q., Chen, Y.,
+Shen, X.R., Wang, X., Zheng, X.S., Zhao, K., Chen, Q.J., Deng, F., Liu, L.L., Yan, B.,
+Zhan, F.X., Wang, Y.Y., Xiao, G.F., Shi, Z.L., 2020. Nature 579, 270–273. https://doi.
+org/10.1038/s41586-020-2012-7.
+Zhu, X., Wang, X., Han, L., Chen, T., Wang, L., Li, H., Li, S., He, L., Fu, X., Chen, S.,
+Mei, X., Chen, H., Wang, Y., 2020. Biosens. Bioelectron. 166. https://doi.org/10.10
+16/j.bios.2020.112437.
+Zuo, B., Li, S., Guo, Z., Zhang, J., Chen, C., 2004. Anal. Chem. 76, 3536–3540. https://
+doi.org/10.1021/ac035367b.
+
+Qiu, G., Gai, Z., Tao, Y., Schmitt, J., Kullak-Ublick, G.A., Wang, J., 2020. ACS Nano 14,
+5268–5277. https://doi.org/10.1021/acsnano.0c02439.
+FDA, 2020. https://www.quidel.com/immunoassays/rapid-sars-tests/sofia-sars-antigen
+-fia, 2020s , 14 June 2020.
+Raeiszadeh, M., Adeli, B., 2020. ACS Photonics. https://doi.org/10.1021/
+acsphotonics.0c01245.
+RayBiotech, 2020. https://raybiotech.com/learning-center/iga-antibody-detection-incovid-19/. (Accessed 5 November 2020).
+Reboud, J., Xu, G., Garrett, A., Adriko, M., Yang, Z., Tukahebwa, E.M., Rowell, C.,
+Cooper, J.M., 2019. Proc. Natl. Acad. Sci. U. S. A. 116, 4834–4842. https://doi.org/
+10.1073/pnas.1812296116.
+Reusken, C.B.E.M., Haagmans, B.L., Müller, M.A., Gutierrez, C., Godeke, G.J., Meyer, B.,
+Muth, D., Raj, V.S., Vries, L.S. De, Corman, V.M., Drexler, J.F., Smits, S.L., El
+Tahir, Y.E., De Sousa, R., van Beek, J., Nowotny, N., van Maanen, K., HidalgoHermoso, E., Bosch, B.J., Rottier, P., Osterhaus, A., Gortázar-Schmidt, C.,
+Drosten, C., Koopmans, M.P.G., 2013. Lancet Infect. Dis. 13, 859–866. https://doi.
+org/10.1016/S1473-3099(13)70164-6.
+Roda, A., Cavalera, S., Di Nardo, F., Calabria, D., Rosati, S., Simoni, P., Colitti, B.,
+Baggiani, C., Roda, M., Anfossi, L., 2021. Biosens. Bioelectron. 172, 112765. https://
+doi.org/10.1016/j.bios.2020.112765.
+Schiaffino, S., Tritella, S., Cozzi, A., Carriero, S., Blandi, L., Ferraris, L., Sardanelli, F.,
+2020. J. Thorac. Imag. 35, W105–W106. https://doi.org/10.1097/
+RTI.0000000000000533.
+Seasun Biomaterials, 2020. https://www.fda.gov/media/138307/download. (Accessed
+25 August 2020).
+Seo, G., Lee, G., Kim, M.J., Baek, S.-H., Choi, M., Ku, B., Lee, C.-S., Jun, S., Park, D.,
+Kim, H.G., Kim, S.-J., Lee, J.-O., Kim, T., Changkyun Park, E., Kim, S., 2020. Il ACS
+Nano 14, 5142. https://doi.org/10.1021/acsnano.0c02823.
+Shang, J., Wan, Y., Luo, C., Ye, G., Geng, Q., Auerbach, A., Li, F., 2020. Proc. Natl. Acad.
+Sci. U. S. A. 117, 11727–11734. https://doi.org/10.1073/pnas.2003138117.
+Stobiecka, M., Chalupa, A., Dworakowska, B., 2016. Biosens. Bioelectron. 84, 37–43.
+https://doi.org/10.1016/j.bios.2015.10.041.
+Stobiecka, M., Jakiela, S., Chalupa, A., Bednarczyk, P., Dworakowska, B., 2017. Biosens.
+Bioelectron. 88, 114–121. https://doi.org/10.1016/j.bios.2016.07.110.
+Udugama, B., Kadhiresan, P., Kozlowski, H.N., Malekjahani, A., Osborne, M., Li, V.Y.C.,
+Chen, H., Mubareka, S., Gubbay, J.B., Chan, W.C.W., 2020. ACS Nano 14,
+3822–3835. https://doi.org/10.1021/acsnano.0c02624.
+University, T., 2020. https://www.biospace.com/article/releases/beroni-group-collabor
+ates-with-tianjin-university-to-develop-novel-solution-for-coronavirus-covid-19-/.
+(Accessed 14 June 2020).
+Viracor Eurofins, 2020. https://www.viracor-eurofins.com/about-us/newsroom/news-it
+ems/viracor-eurofins-launches-coronavirus-sars-cov-2-rt-pcr-test-with-same-day-r
+esults-12-18-hours/. (Accessed 14 June 2020).
+Wang, L., Wong, A., 2020. . undefined.
+Wang, J.H., Wang, C.H., Ling, W.S., Jheng, L., Wang, S.W., Lee, G. Bin, 2012.
+Proceedings of the IEEE International Conference on Micro Electro Mechanical
+Systems (MEMS), pp. 961–964. https://doi.org/10.1109/MEMSYS.2012.6170346.
+
+17
+
+

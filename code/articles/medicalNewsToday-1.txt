@@ -1,0 +1,29 @@
+COVID-19 vs. COVID-19 vaccine: Risk of neurological complications
+COVID-19 vaccines undergo testing in large randomized clinical trials before being licensed for use.
+The Oxford-AstraZeneca (ChAdOx1 nCoV-19) vaccine underwent testing in more than 11,000 people from across the United Kingdom and Brazil. Additionally, over 43,000 individuals engaged in testing for the Pfizer-BioNTech (BNT162b2) vaccine trial.
+Despite the large size of these studies, they were not able to detect very rare adverse events  those that occur in fewer than 1 person out of 10,000.
+As more of the worlds population becomes vaccinated against SARS-CoV-2, the riskbenefit evaluations of these vaccines are increasingly important. 
+Identifying rare adverse events associated with the vaccines is now a global scientific priority.
+An increased risk of cerebral venous sinus thrombosis following the Oxford vaccine is one example of a rare adverse event associated with the vaccines. Some countries have limited the use of this vaccine in low-risk individuals until researchers have collected further information.
+Scientists in the U.K. recently completed a large, population-based study. They compared the risk of neurological complications in people with a SARS-CoV-2 infection with individuals who had recently received a first dose of either the Oxford-AstraZeneca or Pfizer-BioNTech vaccines. 
+Their results appear in Nature Medicine.
+Although SARS-CoV-2 predominantly affects the respiratory system, there is evidence that coronaviruses can attack the nervous system. This may result in various complications.
+Very rare neurological events also have links with COVID-19 vaccines, including transverse myelitis, Guillain-Barr syndrome, and Bells palsy.
+Researchers at the University of Oxford, U.K., led the recent study to investigate these very rare events by taking real-world data from over 32 million healthcare records of vaccinated people in England.
+This data included 2 million individuals with a positive SARS-CoV-2 test  of these, about 90% tested positive before vaccination.
+The scientists calculated the risk of developing neurological complications within 28 days of a first dose of either the Oxford-AstraZeneca or Pfizer-BioNTech vaccines or within 28 days of a positive SARS-CoV-2 PCR test.
+The results indicated an increased but low risk of GuillainBarr syndrome and Bells palsy following a first dose of the OxfordAstraZeneca vaccine. There was also an increased but low risk of hemorrhagic stroke following a first dose of the PfizerBioNTech vaccine.
+The authors estimated 60 excess cases of hemorrhagic stroke per 10 million people who had received the Pfizer-BioNTech vaccine and 123 extra events of encephalitis meningitis and myelitis per 10 million people with a SARS-CoV-2 infection.
+They also estimated 38 excess cases of GuillainBarr syndrome per 10 million people receiving the Oxford-AstraZeneca vaccine and 145 excess cases per 10 million individuals after a positive SARS-CoV-2 test.
+Using a set of data from Scotland, the authors were able to replicate the key finding that the Oxford-AstraZeneca vaccine was associated with an increased risk of subsequent GuillainBarr syndrome.
+These results suggest a greater risk of developing neurological complications following a SAR-CoV-2 infection than following either vaccine.
+Prof. Carol Coupland from the University of Nottingham in the U.K.  one of the authors of the paper  says, this analysis provides important information about which neurological conditions could be linked with COVID-19 vaccination or infection.
+Overall, the findings from this study show that the risks of hospital admission with nervous system complications associated with COVID-19 infection are greater than the risks associated with COVID-19 vaccinations; highlighting the benefits of the ongoing vaccination programs.  Prof. Coupland
+The authors of the paper note there were limitations to this study, which need acknowledging:
+Scientists will need to monitor these rare events continually as younger people are vaccinated. Although rare, these events can cause lifelong problems, including disabilities, which may require long-term care.
+The study authors say that further work is necessary to investigate the link between the Oxford-Astrazeneca vaccine and Guillain-Barr syndrome. They suggest antibodies against the vaccine may react with components of the peripheral nerves.
+The authors hope this study provides information that may help with earlier diagnosis and planning the allocation of healthcare resources. Understanding these events will also help establish clinical practice moving forward with a vaccinated population.
+Dr. Martina Patone, a medical statistician at the Nuffield Department of Primary Care Health Sciences at the University of Oxford, and co-lead author, tweeted: 
+Due to limited sample size, clinical trials cannot detect very rare adverse events [rarer than 1 in 10,000]. Therefore, vaccine surveillance continues after the vaccine is in use. Understanding the adverse events of each vaccine may change or update recommendations and assure their safety.
+Medical News Today spoke with Prof. Saad Shakir, Director of the Drug Safety Research Unit in Southampton, U.K., who was not involved in the study. For him, the take-home message is that COVID-19 vaccines have been remarkably safe. [And] there has been only a small number of very rare adverse reactions.
+For live updates on the latest developments regarding the novel coronavirus and COVID-19, click here.

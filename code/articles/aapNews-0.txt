@@ -1,0 +1,35 @@
+Answers to lingering questions about vaccinating 5- to 11-year-olds
+ Disclaimer Advertising 
+Editors note: For the latest news on COVID-19, visit http://bit.ly/AAPNewsCOVID19.
+Incredible. Heartening. Exciting. These are a few of the words pediatricians have used to describe approval of Pfizer-BioNTechs COVID-19 vaccine for children ages 5-11.
+What an incredible week this has been, AAP President Lee Savio Beers, M.D., FAAP, said at an AAP town hall last Thursday, days after the director of the Centers for Disease Control and Prevention (CDC) signed off on using the vaccine in young children. I think we've all been eagerly anticipating the availability of a COVID vaccine for our 5- to 11-year-olds, and it's been so special and heartening to see all the messages and notes from all of you who are working hard to get your patients vaccinated.
+Since the vaccine only recently became available to 5- to 11-year-olds, pediatricians may have questions about when, how and to whom they can administer it. Following are answers to frequently asked questions based on the CDCs interim clinical considerations for use of the vaccine.
+Q: Which dose should children get if they are 11 years old on the day they receive their first dose but are 12 when they receive the second dose? 
+A: They should receive 10 micrograms for the first dose and 30 micrograms for the second dose.
+However, if they mistakenly get a 10-microgram dose for the second shot, they are considered fully vaccinated and do not need to receive a 30-microgram dose, under the Food and Drug Administrations (FDAs) emergency use authorization.
+Q: What dose should children get if their weight is comparable to a teens or adults?
+A: Children should receive the age-appropriate vaccine formulation regardless of their size or weight.
+Q: Are young children at risk for myocarditis after vaccination?
+A: No cases of myocarditis were reported in the 3,082 children ages 5-11 who participated in clinical trials with at least seven days of follow-up after dose 2. However, the study was not powered to assess the risk for myocarditis.
+It's a rare enough event that you wouldn't expect any cases in that size of a trial, said Sean T. OLeary, M.D., M.P.H., FAAP, vice chair of AAP Committee on Infectious Diseases. And in fact, you couldn't really design a trial large enough. It's just not feasible to do a clinical trial of any medicine, vaccine or otherwise to detect a vaccine adverse event that's as rare as (myocarditis).
+Q: Should a child who develops myocarditis or pericarditis after the first dose receive a second dose of vaccine?
+A: Safety data are not available on administering a subsequent dose of COVID-19 vaccine to people who had myocarditis or pericarditis after a dose of an mRNA COVID-19 vaccine. Until safety data are available, they should not receive a subsequent dose of any COVID-19 vaccine.
+However, administration of a subsequent dose can be considered in certain circumstances, including if people have underlying conditions or based on community transmission of COVID and personal risk of infection.
+Q: Should children who have been infected with COVID-19 be vaccinated?
+A: Yes.
+Children with current SARS-CoV-2 infection should wait to be vaccinated at least until they have recovered from the acute illness (if symptomatic) AND they have met criteria to discontinue isolation (typically 10 days after positive test if asymptomatic or 10 days after symptom onset and after resolution of fever for at least 24 hours).
+Serologic testing to assess for prior infection is not recommended.
+Q: Should those with a history of multisystem inflammatory syndrome in children (MIS-C) receive the vaccine?
+A: The benefits of COVID-19 vaccination for children with a history of MIS-C are likely to outweigh a theoretical risk of an MIS-like illness or the known risks of COVID-19 vaccination for people who meet all of the following criteria:
+Q: What are the contraindications to receiving the COVID-19 vaccine?
+A: Severe allergic reaction (e.g., anaphylaxis) after a previous dose or to a component of the COVID-19 vaccine or known diagnosed allergy to a component of the COVID-19 vaccine.
+Q: Can COVID vaccine be co-administered with other vaccines?
+A: Yes.
+If more than two vaccines are injected in a single limb, the vastus lateralis muscle of the anterolateral thigh is the preferred site because of greater muscle mass.
+Q: What adverse events after vaccination should be reported and where?
+A: The FDA requires vaccination providers to report vaccine administration errors, serious adverse events, cases of multisystem inflammatory syndrome and cases of COVID-19 that result in hospitalization or death to the Vaccine Adverse Event Reporting System (VAERS) at https://vaers.hhs.gov or by calling 800-822-7967.
+In addition, the CDC developed a voluntary smartphone-based tool called v-safe that vaccine recipients/parents can use to report adverse events. Find details at https://bit.ly/3BOuLOm.
+Resources
+Copyright 2021 American Academy of Pediatrics.
+ Advertising Disclaimer 
+Sign In or Create an Account

@@ -1,0 +1,35 @@
+COVID-19: How worried should we be about the AY.4.2 Delta variant?
+A descendant of the Delta variant of SARS-CoV-2, which is the virus that causes COVID-19, is spreading rapidly in England. This has led to concerns that the new variant, called AY.4.2, may be partly responsible for the high rate of infections in the United Kingdom. Based on what we know so far, however, the new variant is unlikely to be the main culprit. 
+Over the past year, the evolution of new, increasingly infectious variants of SARS-CoV-2 has fueled surges in the number of COVID-19 cases and deaths around the world.
+In the U.K., the Alpha variant caused a spike in infections during the winter of 2020, and the Delta variant caused another spike in the spring of 2021.
+Alpha was around 50% more transmissible than earlier variants of the virus. And unpublished research by Public Health England showed that Delta has a further 64% higher odds of being transmitted within a household than Alpha. 
+Over the past 28 days, the U.K. has recorded one of the highest absolute number of new cases in any country, second only to the United States.
+The number of new daily cases per million people in the U.K. is rising sharply and is already higher than the figures in the U.S., Germany, France, and Italy. 
+So the announcement last week from the U.K. Health Security Agency that a new subtype of Delta  called AY.4.2  is spreading in England has raised concerns that this may ratchet up infection rates even further.
+The agency reported that the variant accounted for 6% of all genetic sequences of SARS-CoV-2 in the week beginning September 27, 2021, the latest week for which complete sequencing data was available.
+The strain is on an increasing trajectory, said the agency.
+AY.4.2 could be around 10% more transmissible than the original Delta variant, according to  Prof. Francois Balloux, director of the University College London (UCL) Genetics Institute.
+On Twitter, Professor Balloux emphasized that, for now, AY.4.2 appears to be mostly confined to the U.K. and remains exceptionally rare anywhere else.
+The new subvariant of the virus is distinguished by two mutations in its spike protein, called Y145H and A222V.
+However, neither mutation is in the receptor binding domain, which is the part of the spike that binds to a particular receptor on human cells to infect them.
+This suggests that the mutations are unlikely to cause major increases in transmissibility or help the virus evade the immune system.
+In an update on Twitter, Prof. Balloux wrote: Even if AY.4.2 is genuinely [around] 10% more transmissible, it does not explain much of the recent case rises in the U.K.
+He explained that if the new variant is 10% more transmissible and has a frequency of 10% in the population, this equates to only 1% more cases every 5 days.
+As such, AY.4.2 could not have driven the recent increase in case numbers in the U.K., he explained.
+In other words, the emergence of AY.4.2 is not on a par with the emergence of either Alpha or Delta, in terms of increased transmissibility.
+In an interview with the Science Media Centre, in London, Prof. Balloux said:
+This is not a situation comparable to the emergence of Alpha and Delta, [which] were far more transmissible  50% or more  than any strain in circulation at the time. Here, we are dealing with a potential small increase in transmissibility that would not have a comparable impact on the pandemic.
+Prof. Christina Pagel, director of UCLs Clinical Operational Research Unit, pointed out that a superspreader event  such as a festival, big sports event, or international conference, such as the G7  could have driven the increase in the variants frequency.
+According to this scenario, the variant is no more transmissible but simply found itself in the right place at the right time to spread rapidly.
+Prof. Pagel tweeted:
+We dont know if its (a bit) more transmissible than other Delta strains or if it just got caught up in some superspreader events that seeded it. No reason to think its more immune evasive & might well be nothing. Something to keep an eye on but not panic over.
+This week, the U.K. home secretary, Sajid Javid, predicted that new infections across the country could hit a record 100,000 a day over the winter.
+So if not AY4.2, what else could be driving this sharp increase?
+Prof. Ravindra Gupta, an infectious disease and immunology specialist at UCL, told Medical News Today that one of the main causes of rising infection rates in England is the large number of unvaccinated schoolchildren.
+In addition, he said that the rollout of booster vaccines in the country has been slow, and the proportion of people who wear masks in public is low.
+AY4.2. might have a small advantage, but this is a distraction, said Prof. Gupta, who is a member of the New and Emerging Respiratory Virus Threats Advisory Group, which advises the U.K. government.
+He emphasized that regardless of the particular subvariant, Delta is much more contagious than previous variants because it can even infect vaccinated people, then pass on to others.
+Prof. Guptas own research, recently published in Nature, found that Delta is six times less sensitive to neutralizing antibodies from a person who has recovered from the infection, compared with the original strain of the virus.
+His study also suggested that Delta is eight times less sensitive to antibodies from a person who has been vaccinated.
+Prof. Gupta explained to MNT that the Delta variant is so infectious that antibodies are unable to protect the mucosal surfaces of a persons respiratory tract from reinfection. 
+The high speed of replication means that the vaccinated person gets an infection and can spread it, he said. Therefore, masks are an essential component of mitigation.
