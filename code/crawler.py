@@ -6,6 +6,7 @@ from datetime import datetime
 from sys import platform
 import os
 import re 
+from news_indexer import NewsIndexer
 if platform == "linux" or platform == "linux2":
     from pyvirtualdisplay import Display
 
@@ -43,6 +44,7 @@ class JavaScript_scrape():
          "profile.managed_default_content_settings.media_stream":2,
         }
         options.add_experimental_option("prefs",prefs)
+        options.add_experimental_option("excludeSwitches", ["enable-logging"])
 
         #chrome driver version and system
         driver_version = "95.0.4638.69"
@@ -89,24 +91,40 @@ class JavaScript_scrape():
         """
         Processes the output according to the user needs
         """
+        #check if there are any articles to begin with
+        if len(articles) == 0:
+                return []
+
         if output == 'txt':
             curr_path = os.getcwd()
             output_path = curr_path + '/articles'
-            
-            if len(articles) == 0:
-                return []
 
-            #make directory articles if it does not exist 
+            # make directory articles if it does not exist 
             if not os.path.exists(output_path):
                 os.makedirs(output_path)
 
-            #iterate through articles and print them out
-            for i, article in enumerate(articles):                
+            # iterate through articles and print them out
+            for i, map in enumerate(articles):                
+                article = map['source']['article']
+
                 if len(article) < 1:
                     continue
-                
+
                 with open(output_path+'/'+source+'-'+str(i)+'.txt', 'w') as f:
                     f.write(article)
+        elif output == 'elasticsearch':
+            '''# process articles 
+            files = []
+
+            for i, article in enumerate(articles): 
+                if len(article) < 1:
+                    continue
+                files.append({'source': {'article': article},
+                '_id': i})'''
+
+            #  index and upload data to Elasticsearch
+            if len(articles) > 0:
+                indexer = NewsIndexer(files=articles).upload()
 
         return articles
 
@@ -115,11 +133,8 @@ class JavaScript_scrape():
         # text = re.sub('\s{2,}','\n',text)       #repalces repeated whitespace characters with single space
         # text = re.sub('Text Body: ','',text)
         return text 
-    def removeNonAsciiCharacters(self, string):
-        return string.encode('ascii',errors='ignore').decode('utf-8')   #removes non-ascii characters
 
-
-    def scrape_medicalNewsToday(self, limit=5, output='list'):
+    def scrape_medicalNewsToday(self, limit=-1, output='list'):
         """
         extracts newest articles from medical news today
         """
@@ -129,11 +144,12 @@ class JavaScript_scrape():
         # scrape to find news links in the base url
         soup = self.get_js_soup(base_url)
 
-        for i, link_holder in enumerate(soup.find_all('figure',class_='css-ymgzhk')):
-            links = link_holder.find('a')['href'] #get url
-            news_links.append(links) 
+        for link_holder in soup.find_all('figure',class_='css-ymgzhk'):
+            if link_holder != None:
+                links = link_holder.find('a')['href'] #get url
+                news_links.append(links) 
 
-            if i+1 >= limit:
+            if limit > 0 and len(news_links) >= limit:
                 break
 
 
@@ -154,19 +170,20 @@ class JavaScript_scrape():
 
             #get article titles
             if article_holder.find('h1') != None:
-                article+= self.removeNonAsciiCharacters(article_holder.find('h1').text) + '\n'
+                article+= self.process_text(article_holder.find('h1').text) + '\n'
 
             #get paragraphs
             for p_holder in article_holder.find_all('p'):
                 if p_holder != None:
-                    article+= self.removeNonAsciiCharacters(p_holder.text) + '\n'
+                    article+= self.process_text(p_holder.text) + '\n'
             
             if len(article) > 0:
-                articles.append(article)
+                articles.append({'source': {'article': article},
+                '_id': link})
 
         return self.process_output(articles=articles, output=output, source='medicalNewsToday')
 
-    def scrape_aapNews(self, limit=5, output='list'):
+    def scrape_aapNews(self, limit=-1, output='list'):
         """
         extracts newest articles from AAP news
         """
@@ -176,12 +193,12 @@ class JavaScript_scrape():
         # scrape to find news links in the base url
         soup = self.get_js_soup(news_url)
 
-        for i, link_holder in enumerate(soup.find_all('div',class_='widget-SelectableContentList')):
+        for link_holder in soup.find_all('div',class_='widget-SelectableContentList'):
             if link_holder != None:
                 links = link_holder.find('a')['href'] #get url
                 news_links.append(links) 
             
-            if i+1 >= limit:
+            if limit > 0 and len(news_links) >= limit:
                 break
 
         print('Found AAP News Links', len(news_links))
@@ -202,15 +219,16 @@ class JavaScript_scrape():
             #get article titles
             title_holder = soup.find('span', {"class": "header-title"})
             if title_holder != None:
-                article+= self.removeNonAsciiCharacters(title_holder.text) + '\n'
+                article+= self.process_text(title_holder.text) + '\n'
     
             #get paragraphs
             for p_holder in soup.find_all('p'):
                 if p_holder != None:
-                    article+= self.removeNonAsciiCharacters(p_holder.text) + '\n'
+                    article+= self.process_text(p_holder.text) + '\n'
 
             if len(article) > 0:
-                articles.append(article)
+                articles.append({'source': {'article': article},
+                '_id': link})
 
         return self.process_output(articles=articles, output=output, source='aapNews')
 
@@ -260,7 +278,8 @@ class JavaScript_scrape():
             #get article titles
             article = self.process_text(article_holder.get_text(separator=' '))
             if len(article.strip()) > 0:
-                articles.append(article)
+                articles.append({'source': {'article': article},
+                '_id': link})
 
         return self.process_output(articles=articles, output=output, source='medscape')    
 
@@ -307,13 +326,22 @@ class JavaScript_scrape():
             article = self.process_text(article_holder.get_text(separator=' '))
             
             if len(article.strip()) > 0:
-                articles.append(article)
+                articles.append({'source': {'article': article},
+                '_id': link})
 
         return self.process_output(articles=articles, output=output, source='webmd')   
 
 if __name__ == '__main__':
-    # items = JavaScript_scrape().scrape_webMD(output='txt')
-    items = JavaScript_scrape().scrape_medscape(limit=1,output='txt')
-    print(items)
-    print('articles', len(items))
+    counter = 0
+    items = JavaScript_scrape().scrape_webMD(limit=7, output='elasticsearch')
+    counter+= len(items)
+    '''
+    items = JavaScript_scrape().scrape_medscape(limit=-1,output='elasticsearch')
+    counter+= len(items)
+    items = JavaScript_scrape().scrape_aapNews(limit=-1,output='elasticsearch')
+    counter+= len(items)
+    items = JavaScript_scrape().scrape_medicalNewsToday(limit=-1,output='elasticsearch')
+    counter+= len(items)'''
+    
+    print('new articles', counter)
 

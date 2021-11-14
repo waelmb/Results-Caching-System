@@ -7,6 +7,7 @@
 4. Create a python virual environment: `python -m venv venv`
 5. Activate the virtual environment: `./venv\Scripts\activate`
 6. Install the required depedencies: `pip install -r requirements.txt`
+7. Create a copy of `.env.example` and rename it to `.env`. Then, update the credentials.
 
 Note: these instructions are on windows 10 machines. It should be similar on other systems as well.
 
