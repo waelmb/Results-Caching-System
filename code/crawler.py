@@ -45,7 +45,7 @@ class JavaScript_scrape():
         options.add_experimental_option("prefs",prefs)
 
         #chrome driver version and system
-        driver_version = "95.0.4638.54"
+        driver_version = "95.0.4638.69"
         driver_os = "mac"
 
         if platform == "linux" or platform == "linux2":
@@ -67,9 +67,9 @@ class JavaScript_scrape():
         if platform == "linux" or platform == "linux2":
             display = Display(visible=0, size=(800, 800))  
             display.start()
-        driver = webdriver.Chrome('./chromedriver',options=options)
-
-        # driver = webdriver.Chrome(f'./chromedriver' + '-' + driver_version + '-' + driver_os, options=options)
+        
+        #set up the chrome driver
+        driver = webdriver.Chrome(f'./chromedriver' + '-' + driver_version + '-' + driver_os, options=options)
         driver.get(url)
         res_html = driver.execute_script("return document.body.innerHTML")
         soup = BeautifulSoup(res_html, 'html.parser')  # beautiful soup object to be used for parsing html content
@@ -86,30 +86,6 @@ class JavaScript_scrape():
         return soup     
 
     def process_output(self, articles=[], output='list', source="unknown"):
-        """
-        Processes the output according to the user needs
-        """
-        if output == 'txt':
-            curr_path = os.getcwd()
-            output_path = curr_path + '\\articles'
-            
-            if len(articles) == 0:
-                return []
-
-            #make directory articles if it does not exist 
-            if not os.path.exists(output_path):
-                os.makedirs(output_path)
-
-            #iterate through articles and print them out
-            for i, article in enumerate(articles):                
-                if len(article) < 1:
-                    continue
-                
-                with open(output_path+'\\'+source+'-'+str(i)+'.txt', 'w') as f:
-                    f.write(article)
-
-        return articles
-    def process_output_mac(self, articles=[], output='list', source="unknown"):
         """
         Processes the output according to the user needs
         """
@@ -133,6 +109,7 @@ class JavaScript_scrape():
                     f.write(article)
 
         return articles
+
     def process_text(self, text):
         text = text.encode('ascii',errors='ignore').decode('utf-8')       #removes non-ascii characters
         # text = re.sub('\s{2,}','\n',text)       #repalces repeated whitespace characters with single space
@@ -238,7 +215,7 @@ class JavaScript_scrape():
         return self.process_output(articles=articles, output=output, source='aapNews')
 
 
-    def scrape_medscape(self, output='list'):
+    def scrape_medscape(self, limit=-1, output='list'):
         """
         extracts newest articles from medical news today
         """
@@ -261,6 +238,8 @@ class JavaScript_scrape():
                 if ('https' not in rel_link):
                     rel_link = 'https://' + rel_link
                 news_links.append(rel_link) 
+            if limit > 0 and len(news_links) >= limit:
+                break
 
         print('Found Medscape Links', len(news_links))
 
@@ -283,9 +262,9 @@ class JavaScript_scrape():
             if len(article.strip()) > 0:
                 articles.append(article)
 
-        return self.process_output_mac(articles=articles, output=output, source='medscape')    
+        return self.process_output(articles=articles, output=output, source='medscape')    
 
-    def scrape_webMD(self, output='list'):
+    def scrape_webMD(self, limit=-1, output='list'):
         """
         extracts newest articles from medical news today
         """
@@ -305,7 +284,9 @@ class JavaScript_scrape():
                         continue
                     if (rel_link.startswith('//')):
                         rel_link = "https:" + rel_link
-                    news_links.append(rel_link) 
+                    news_links.append(rel_link)
+            if limit > 0 and len(news_links) >= limit:
+                break
 
         print('Found WebMD Links', len(news_links))
 
@@ -328,11 +309,11 @@ class JavaScript_scrape():
             if len(article.strip()) > 0:
                 articles.append(article)
 
-        return self.process_output_mac(articles=articles, output=output, source='webmd')   
+        return self.process_output(articles=articles, output=output, source='webmd')   
 
 if __name__ == '__main__':
     # items = JavaScript_scrape().scrape_webMD(output='txt')
-    # items = JavaScript_scrape().scrape_medscape(output='txt')
+    items = JavaScript_scrape().scrape_medscape(limit=1,output='txt')
     print(items)
     print('articles', len(items))
 
