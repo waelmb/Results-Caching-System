@@ -1,0 +1,10 @@
+Nov. 12, 2021 -- A key risk factor for severe COVID-19 is age, in part because the immune response weakens as we get older. But our understanding of this effect of age remains hazy, as the
+immune system
+is one of the most complex systems in the human body. In the hope of clearing some of this fog, the Yale Cancer Center has established a group
+dedicated to studying how age affects immune cells . Researchers at the new center have received a $6.5 million grant from the National Institutes of Health (NIH) to spend 5 years mapping the aging cells of the immune system. In cells, aging or senescence, means that they have stopped dividing. Senescent cells have a role in promoting health but can contribute to disease, too. For example, senescence is a defense against cancer -- cells that dont divide will never divide out of control -- but a health hazard when senescent cell accumulation triggers
+inflammation
+in surrounding tissue.
+The researchers plan to study different types of senescent cells in the human immune system to learn how they influence their environments. Investigators will track cells in the
+lymph nodes , where immune cells develop. If lymph node cells become senescent and circulate through the body, they may end up affecting many other organs besides lymph tissue.
+The goal is to create a map of where senescent immune cells travel and what their effects are. The new center is one of eight mapping centers nationwide that form the
+Cellular Senescence Network , or SenNet, which aims to learn about all types of senescent cells throughout the body. Once scientists have a complete picture of senescent cells and how they behave, they hope to be able to tell healthy cells from those that cause disease. This information could guide development of therapies that, even if they dont cure a condition, might slow its advance or even aging itself.

@@ -1,0 +1,32 @@
+
+ 
+ 
+ 
+ Giving  dexamethasone  to hospitalised COVID-19 patients with diabetes may increase their risk of developing steroid-induced dysglycaemia but it does not prevent them from experiencing the life-saving benefits of the drug, suggests a real-world UK analysis. Data on more than 2250 patients treated in the first and second waves of the pandemic showed that, in patients with diabetes, dexamethasone increased the risk of dysglycaemia more than 20-fold.  
+ So theres a question with regards to resourcing and educating people when they go home to manage their sugars as they fall back down to normal, especially as there is also a risk of hypoglycaemia when coming off dexamethasone therapy in these patients. 
+ 
+ Dr Salem said that it is unlikely for complications to be missed, because we are aware of them clinically in hospital, although they do have a potential longer term burden than just being in hospital, and they require an extra resource and a bit of thought with regards to their management. Dan Howarth, Head of Care at Diabetes UK, told  Medscape News UK  that people with diabetes have been disproportionately affected by the pandemic and have a higher risk of becoming seriously ill if they develop COVID-19. Dexamethasone is a highly effective way of treating COVID-19 in people with diabetes, though it places them at risk of high blood sugar levels, so they must be closely monitored by their healthcare teams. He added that the charity fully supports the  National Inpatient Diabetes Covid-19 Response Team clinical guidance  on the use of dexamethasone. Good diabetes care with this treatment is vital, and close support is required for people with diabetes following discharge from hospital. Alongside all this, the best protection for people with diabetes is to get both COVID-19 vaccines and the booster, he said. The vaccines are safe and are saving lives. The landmark  RECOVERY  trial showed that low-dose dexamethasone significantly improved outcomes in hospitalised COVID-19 patients receiving either invasive  mechanical ventilation  or oxygen alone. As  reported  by  Medscape Medical News , the drug could save the lives of up to a third of such patients, with one death prevented for around eight ventilated patients, or for approximately 25 patients requiring oxygen alone. Consequently, dexamethasone is now routinely used in COVID-19 patients with severe respiratory complications. The researchers point out, however, that steroid use is commonly associated with dyglycaemia, which is itself a known risk factor for poor outcomes. They therefore set out to examine the effect of dexamethasone in hospitalised COVID-19 patients in a real-world setting. Data was gathered on 1372 consecutive patients hospitalised with COVID-19 between November 2020 and March 2021, which corresponded to the second wave of the pandemic, as well as 889 hospitalised between March 2020 and April 2020, which was during the first wave. Overall, mortality was significantly lower in the second wave compared with the first, at 18.8% versus 27.6%, a 31.8% reduced risk of death (p<0.001). Multivariate logistic regression analysis indicated that the risk of admission to intensive care or death within 30 days of a COVID-19 diagnosis was significantly associated with male gender,  hypertension , increased frailty, and lower estimated glomerular filtration rate. Moreover, the analysis showed that use of dexamethasone significantly reduced the risk of intensive care admission or death by 56%. When the researchers looked at patients with diabetes, they found that dexamethasone use was associated with a significantly increased risk of glycaemic complications, at an odds ratio of 22.5 (p<0.0001). This was associated with the need to give extra medications to maintain glycaemic control and, in a small minority of patients, with serious diabetic complications. However, the risk of intensive care admission or death was no different between patients with and without post-dexamethasone complications, the researchers said.    No funding declared.     No relevant financial relationships declared.     Society for Endocrinology BES 2021: Abstract OP4.4. Presented 9 November.   Follow Medscape on  Facebook ,  Twitter ,  Instagram , and  YouTube . 
+ To continue reading this article ... or Continue reading your article with a Medscape account Join the Top Medical Resource for Physicians Today. Free Membership! 
+ 
+ 0   Read Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+   1 2  Next 
+ 
+ 2021WebMD, LLC   
+ Send comments and news tips to  uknewsdesk@medscape.net . 
+ 
+ 
+ Cite this: Liam Davenport.Dexamethasone Increases Diabetes Complications but Still Saves Lives- Medscape -Nov12,2021. 
+ 
+ TOP PICKS FOR YOU 
+ 
+ 
+ 
+ 
+ 
+ 

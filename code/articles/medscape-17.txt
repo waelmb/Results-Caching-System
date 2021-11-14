@@ -1,0 +1,38 @@
+
+ 
+ 
+ 
+   Find the latest COVID-19 news and guidance in Medscape's     Coronavirus Resource Center.     People with sleep-disordered breathing or sleep-related hypoxia  low oxygen levels during sleeping  are no more likely than other adults to get infected with SARS-CoV-2 and develop COVID-19.  However, if infected, they are at a 31% higher risk of getting hospitalized or dying from the illness, new research reveals 
+ 
+ 
+ 
+ Gurubhagavatula said that makes sense. "We know that people who develop severe COVID-19 infection seem to do so because of a 'cytokine storm,' which is an overwhelming inflammatory load that leads to injury to organs, including lung tissue." "We also know that sleep apnea itself causes increased inflammation," added Gurubhagavatula, who is also associate professor of medicine at the Perelman School of Medicine in the Division of Sleep Medicine at the University of Pennsylvania and on staff at the Crescenz VA Medical Center in Philadelphia. 
+ 
+ Previous studies do, however, seem to agree that inflammation could be key. Other researchers, for example, have linked hypoxemia to signs of inflammation, including higher white blood cell counts, neutrophil counts,  D-dimer  levels, and C-reactive protein levels in people with COVID-19. Hypoxia could also have direct effects on the lungs, including microinfarcts, pulmonary parenchymal inflammation, hypoxic pulmonary vasoconstriction, and lung injury. "Therefore, it has been postulated that progressive hypoxia may act as an amplifier of COVID-19 disease," Pena Orbea and co-authors note.   Large, Retrospective Analysis   The investigators studied the records of 350,710 individuals tested for SARS-CoV-2 between March 8 and November30, 2020. They focused on the 5402 who also had a sleep study result in the Cleveland Clinic Sleep Study Registry. Within this group, about 36% tested positive, and among those who tested positive, 53% also had sleep-disordered breathing at baseline. Specifically, they looked at the frequency of sleep apnea and hypopnea and occurrence of sleep-related hypoxemia, define as total sleep time (TST) where oxygen saturation was below 90%. Each SARS-CoV-2 positive person was compared to three other individuals with a negative result, matched for race, sex, ethnicity, testing interval, and age within 8 years.   Stratifying Risk   The 31% increased risk of hospitalization and death comes from people who spent more than 1.8% of their TST with oxygen saturation below 90% compared to others with 1.8% or less of their TST below this level (hazard ratio, 1.31; 95% confidence interval, 1.08-1.57; P = .005). Furthermore, compared withindividuals who spent 0.1% or less of their TST with an oxygen saturation below 90%, those who spent between 1.8% and 12.8% of their TST below this level had a 42% greater likelihood of hospitalization and death (HR, 1.42; 95% CI, 1.08-1.87; P = .013). After excluding individuals receiving positive airway pressure (PAP) therapy, associations between sleep apnea measures, COVID-19 clinical outcomes, hospitalizations, and mortality remained consistent with the primary results. Mean age among the 5402 participants was 56 years and 56% were women. A total 31% were Black, 60% were White and 15% identified as other race or ethnicity, with some overlap.   A "Highly Relevant" Study   "This is a well-done, comprehensive, and highly relevant study that contained many strengths, including its large size and scope," Gurubhagavatula said. She applauded the authors for using a relevant, validated metric to measure the degree of hypoxia and for including a diverse patient population. The retrospective, case-control study design could leave open the possibility of unmeasured factors explaining the outcome, Gurubhagavatula said. "However, the authors did attempt to control for many of those potential factors and found that the association between severe outcomes related to COVID-19 and low oxygen levels during the sleep study still persisted." In fact, she said, the associations in the study might be more robust in reality because "some sleep labs were closed early on in the pandemic, and some patients were not able to get tested for COVID-19 due to lack of availability of testing."   Next Steps   The research also offers important clues as to how to move forward in managing the large population of patients who have sleep apnea and develop COVID-19 infection, Gurubhagavatula said. Unanswered questions, for example, include: Should we encourage patients who are on CPAP to use their machines fully to limit their risk of developing worse outcomes from COVID-19? Should we prioritize patients with  obstructive sleep apnea  who develop COVID-19 in receiving therapies against the infection? Pena Orbea and colleagues plan to continue this research. One question, for example, is if treating hypoxia with supplemental oxygen or positive airway pressure could reduce the risk of COVID-19 severe outcomes. Another avenue of future work is to evaluate the potential role of hypoxia in sleep difficulties associated with 'long COVID.'   JAMA Netw Open . Published online November 10, 2021.  Full text     Damian McNamara  is astaff  journalist based in Miami. He covers a wide range of medical specialties, including infectious diseases, gastroenterology, and critical care.Follow Damian on Twitter:   @MedReporter .   For more news, follow Medscape on  Facebook ,  Twitter ,  Instagram ,  YouTube , and LinkedIn     
+ To continue reading this article ... or Continue reading your article with a Medscape account Join the Top Medical Resource for Physicians Today. Free Membership! 
+ 
+ 0   Read Comments 
+ 
+ 
+ 
+ 
+ 
+ 
+   1 2  Next 
+ 
+ 
+ Credits: Lead Image: iStock/Getty Images Image 1: Courtesy Cleveland Clinic. Image 2: Courtesy Cleveland Clinic. Image 3: Courtesy Dr Gurubhagavatula 
+ 
+ Medscape Medical News2021   
+ Send news tips to  news@medscape.net . 
+ 
+ 
+ Cite this: Sleep-Disordered Breathing Could Inflate Risk for Severe COVID-19- Medscape -Nov12,2021. 
+ 
+ TOP PICKS FOR YOU 
+ 
+ 
+ 
+ 
+ 
+ 
