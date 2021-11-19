@@ -14,4 +14,5 @@ Note: these instructions are on windows 10 machines. It should be similar on oth
 ### Running the code
 1. Using the command line, go to the main directory: `cd YOURPATH\Results-Caching-System\code`
 2. Activate the virtual environment: `./venv\Scripts\activate`
-3. Run the Django server: `python crawler.py`
+3. To run the microservice: `python microservice.py`
+4. Similarly, to run other individual python files: `python FILENAME.py`

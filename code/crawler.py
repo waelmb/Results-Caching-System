@@ -113,15 +113,6 @@ class JavaScript_scrape():
                 with open(output_path+'/'+source+'-'+str(i)+'.txt', 'w') as f:
                     f.write(article)
         elif output == 'elasticsearch':
-            '''# process articles 
-            files = []
-
-            for i, article in enumerate(articles): 
-                if len(article) < 1:
-                    continue
-                files.append({'source': {'article': article},
-                '_id': i})'''
-
             #  index and upload data to Elasticsearch
             if len(articles) > 0:
                 indexer = NewsIndexer(files=articles).upload()

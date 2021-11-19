@@ -1,3 +1,4 @@
+from copy import Error
 from elasticsearch import helpers
 from elasticsearch_connection import ElasticsearchConnection
 
@@ -86,12 +87,30 @@ class NewsIndexer(object):
         except Exception as err:
             print('bulk herlper error', str(err))
 
+    def search_index(self, query= {"query": {"match_all": {}}}):
+        """
+            search an index
+        """
+        if self.index_exist():
 
+            try:
+                results = helpers.scan(self.es,
+                    index=self.index_name,
+                    preserve_order=True,
+                    query=query,)
+                return results
+            except Exception as err:
+                print('Helpers.scan could not execute', str(err))
+                return []
+        else:
+            return []
+           
     def delete_index(self):
         """
         delete the index
         """
-        self.es.indices.delete(index=self.index_name, ignore=[400, 404])  # deleting existing index
+        if self.index_exist():
+            self.es.indices.delete(index=self.index_name, ignore=[400, 404])  # deleting existing index
     
     def refresh_index(self):
         """
