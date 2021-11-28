@@ -2,6 +2,8 @@ from copy import Error
 from elasticsearch import helpers
 from elasticsearch_connection import ElasticsearchConnection
 
+
+
 """
 Adapted from sample_es_indexer.py by Bhavya
 """
@@ -25,8 +27,13 @@ class NewsIndexer(object):
             ` list[dict[dict[unicode], dict[unicode]]]`
         """
         self.index_name = "medical_news"
+        self.doc_num_threshold = 10000
         self.files = files
         self.es = ElasticsearchConnection().es
+        self.es.indices.put_settings(index=self.index_name, body={
+            "index.query_result_cache.enabled" : "true"
+        })
+        self.es.indices.queries.cache.size = "10%"
 
 
     @property
@@ -38,6 +45,15 @@ class NewsIndexer(object):
             `object`
         """
         return self.es
+    @property
+    def index_name(self):
+        """
+        :return:
+            elastic client
+        :rtype:
+            `object`
+        """
+        return self.index_name
 
     def index_exist(self):
         """
@@ -59,7 +75,7 @@ class NewsIndexer(object):
                 "_id": file["_id"],
                 "_source": file["source"],
             }
-
+    # Does body need to match 1-search?
     def upload(self):
         """
         For uploading and authenticating to elasticsearch cloud
@@ -74,7 +90,11 @@ class NewsIndexer(object):
                 body={
                     "mappings": {
                         "properties": {
-                            "article": {"type": "text", "analyzer": "english", "fielddata": True},
+                            "title": {"type": "text", "fielddata": True},
+                            "url": {"type": "text", "fielddata": True},
+                            "date": {"type": "date", "format": "date_optional_time"},
+                            "author": {"type": "text", "fielddata": True},
+                            "abstract": {"type": "text", "analyzer": "english", "fielddata": True},
                         }
                     }
                 },
@@ -86,7 +106,22 @@ class NewsIndexer(object):
             print("Documents in " + self.index_name + ": ", self.es.cat.count(self.index_name, params={"format": "json"}))
         except Exception as err:
             print('bulk herlper error', str(err))
-
+    '''Sample query should be:
+    {
+    "query": { 
+        "bool": { 
+        "must": [
+            { "match": { "title":   "Search"        }},
+            { "match": { "content": "Elasticsearch" }}
+        ],
+        "filter": [ 
+            { "term":  { "status": "published" }},
+            { "range": { "publish_date": { "gte": "2015-01-01" }}}
+        ]
+        }
+    }
+    }
+    '''
     def search_index(self, query= {"query": {"match_all": {}}}):
         """
             search an index
@@ -118,3 +153,10 @@ class NewsIndexer(object):
         """
         if self.index_exist():
             self.es.indices.refresh(index=self.index_name) # refresh existing index
+            
+    def index_clean_up(self):
+        query = {"sort": { "date": "asc"},"query": {"match_all": {}}}
+        for i,file in enumerate(helpers.scan(self.es,index=self.index_name,preserve_order=True,query=query,)):
+            if i > self.doc_num_threshold:
+                break
+            self.es.delete(index=self.index_name, doc_type="_doc", id=file["_id"])

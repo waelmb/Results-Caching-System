@@ -10,6 +10,8 @@ from constants import BACKEND_URL, SEARCH_REQUEST_BODY
 import copy
 from elasticsearch_connection import ElasticsearchConnection
 from custom_util import fire_and_forget
+#pip install es curator to find index size
+import curator
 
 
 app = FastAPI()
@@ -78,6 +80,46 @@ async def update_trendy_topics() -> None:
     delta_time = str(round((datetime.today() - initial_time).total_seconds(), 2))
     print('Topics update completed with total time', delta_time)
 
+#Assuming request is in format of SEARCH_REQUEST_BODY 
+@app.post("/add_new_docs")
+async def add_docs(request: Request):
+    try:
+        requestJson = await request.json()
+    except Exception as err:
+        print('Could not read JSON: ' + err)
+    elastic_search_indexer = NewsIndexer()
+    indexList = curator.IndexList(elastic_search_indexer.es_client)
+    if indexList.index_info[elastic_search_indexer.index_name]['size_in_bytes'] >= 50000000000: #greater than 50GB
+        elastic_search_indexer.index_clean_up()
+    # makes call to 1-search API and store it to our index
+    #we can also check out re-indexing
+    files = []
+    elastic_search_indexer = NewsIndexer(files=files)
+    elastic_search_indexer.upload()
+
+    return {"message": "added item to cache"}
+    
+@app.post("/search")
+async def search(request: Request):
+    try:
+        requestJson = await request.json()
+    except Exception as err:
+        print('Could not read JSON: ' + err)
+    elastic_search_indexer = NewsIndexer()
+    keywords = requestJson['searchTerm'].split()
+    query = {
+        "query": { 
+            "bool": { 
+            "filter": [ 
+                { "terms":  { "article": keywords}},
+            ]
+            }
+        }
+    }
+    elastic_search_indexer.search_index(query)
+    # makes call to 1-search API and store it to our index
+    return Request
+    
 @app.post("/test")
 async def test(request: Request):
     try:
