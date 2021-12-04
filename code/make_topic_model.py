@@ -8,6 +8,8 @@ import collections
 from collections import Counter
 import glob
 import csv
+import spacy
+import en_core_sci_sm
 
 def get_trending_topics(documents):
     df = pd.DataFrame({'All_docs' : documents})
@@ -33,10 +35,10 @@ def get_trending_topics(documents):
     for weights in lda_m.components_:
         top_locs = (-weights).argsort()[ : 20]
         full_topics.append(main_words.take(top_locs))
-    for top in full_topics:
-        print(top)
-    print(df['Dominant_topic'].tolist())
-    print('\n') 
+    #for top in full_topics:
+    #    print(top)
+    #print(df['Dominant_topic'].tolist())
+    #print('\n') 
     
     duplicates = []
     for top in full_topics:
@@ -51,8 +53,8 @@ def get_trending_topics(documents):
             if str(word) not in duplicates:
                 top_without_dups.append(str(word))
         refined_topics.append(top_without_dups)
-    for top in refined_topics:
-        print(top)
+    #for top in refined_topics:
+    #    print(top)
         
     df_refined_topics = pd.DataFrame(refined_topics)
     df_refined_topics.columns = ['Term '+ str(i) for i in range(1, df_refined_topics.shape[1] + 1)]
@@ -66,19 +68,23 @@ def get_trending_topics(documents):
     df_refined_topics['Topic_keywords'] = tops
     df = pd.merge(df, df_refined_topics, left_on = 'Dominant_topic', right_on = 'Topic_number')
     del df['Topic_number']
-    print(df)
+    #print(df)
     
     lst_of_top_nums = df['Dominant_topic'].tolist()
     t = Counter(lst_of_top_nums).most_common(3)
     trending = []
     for pair in t:
         trending.append(pair[0])
-    print(trending)
+    #print(trending)
     
     trending_topics = []
     for num in trending:
         trending_topics.append(refined_topics[num - 1])
-    print(trending_topics)
+    final_trending_topics = []
+    for top in trending_topics:
+        final_trending_topics.append(' '.join(top))
+    #print(final_trending_topics)
+    #print('\n')
     
     relevant_docs = df.loc[df['Dominant_topic'].isin(trending), 'All_docs']
     
@@ -88,8 +94,24 @@ def get_trending_topics(documents):
     trending_topics_yake = []
     for pair in keywords:
         trending_topics_yake.append(pair[0])
-    print(trending_topics_yake)
-    return trending_topics, trending_topics_yake
+    #print(trending_topics_yake)
+    nlp = spacy.load("en_core_sci_sm")
+    trending_topics_yake_all = ' '.join(trending_topics_yake)
+    doc = nlp(trending_topics_yake_all)
+    entities = list(doc.ents)
+    str_ents = []
+    for ents in entities:
+        str_ents.append(str(ents))
+    #print(str_ents)
+    final_trending_topics_yake = []
+    for top in trending_topics_yake:
+        if not any(top in ent for ent in str_ents):
+            final_trending_topics_yake.append(top)
+    #print(final_trending_topics_yake)
+    trends = final_trending_topics + final_trending_topics_yake
+    #print('\n')
+    print(trends)
+    return trends
 
 read_files = glob.glob('articles/*')
 with open("articles.csv", "w") as outfile:
@@ -100,4 +122,4 @@ with open("articles.csv", "w") as outfile:
 
 data = pd.read_csv("articles.csv", header=None)
 input = data[0].tolist()
-trending_topics, trending_topics_yake = get_trending_topics(input)
+trends = get_trending_topics(input)

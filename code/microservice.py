@@ -12,6 +12,7 @@ from elasticsearch_connection import ElasticsearchConnection
 from custom_util import fire_and_forget
 #pip install es curator to find index size
 import curator
+from make_topic_model import get_trending_topics
 
 
 app = FastAPI()
@@ -64,7 +65,10 @@ async def update_trendy_topics() -> None:
         print('Could not get results from elasticsearch', str(err))'''
 
     # fetch results and pass to topic modeling/keyword extraction algorithms
-    keywords = ['covid']
+    text = []
+    for result in results:
+        text.append(result['_source']['article'])
+    keywords = get_trending_topics(text)
 
     # call search endpoint and update cache
     for keyword in keywords:
