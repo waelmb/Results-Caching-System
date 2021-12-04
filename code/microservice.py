@@ -3,7 +3,7 @@ from fastapi_utils.tasks import repeat_every
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 import json     
-from news_indexer import NewsIndexer
+from cache_indexer import CacheIndexer
 from crawler import JavaScript_scrape
 from datetime import datetime
 from constants import BACKEND_URL, SEARCH_REQUEST_BODY
@@ -80,45 +80,62 @@ async def update_trendy_topics() -> None:
     delta_time = str(round((datetime.today() - initial_time).total_seconds(), 2))
     print('Topics update completed with total time', delta_time)
 
-#Assuming request is in format of SEARCH_REQUEST_BODY 
+# Assuming request is in format of response body for search or has some kind of key "results" for docs
+# TODO: Research Request body size limit: 1mb
+# For flask if request.content_length > 1024 * 1024: payload too large 
 @app.post("/add_new_docs")
 async def add_docs(request: Request):
     try:
         requestJson = await request.json()
     except Exception as err:
         print('Could not read JSON: ' + err)
-    elastic_search_indexer = NewsIndexer()
+    elastic_search_indexer = CacheIndexer()
     indexList = curator.IndexList(elastic_search_indexer.es_client)
     if indexList.index_info[elastic_search_indexer.index_name]['size_in_bytes'] >= 50000000000: #greater than 50GB
         elastic_search_indexer.index_clean_up()
     # makes call to 1-search API and store it to our index
     #we can also check out re-indexing
-    files = []
-    elastic_search_indexer = NewsIndexer(files=files)
+    files = requestJson["results"]
+    elastic_search_indexer = CacheIndexer(files=files)
     elastic_search_indexer.upload()
 
     return {"message": "added item to cache"}
-    
-@app.post("/search")
+
+# Assuming request is in format of SEARCH_REQUEST_BODY 
+@app.post("/search_cache")
 async def search(request: Request):
     try:
         requestJson = await request.json()
     except Exception as err:
         print('Could not read JSON: ' + err)
-    elastic_search_indexer = NewsIndexer()
+    elastic_search_indexer = CacheIndexer()
     keywords = requestJson['searchTerm'].split()
     query = {
-        "query": { 
-            "bool": { 
-            "filter": [ 
-                { "terms":  { "article": keywords}},
-            ]
+        "query": {
+            "multi_match": {
+                "query": keywords,
+                "fields": [f"abstract", f"title^{2.0}"],
+                "operator": "and"
             }
+        },
+        "highlight": {
+            "fields": [
+                {"title": {}},
+                {"abstract": {}}
+            ]
         }
     }
-    elastic_search_indexer.search_index(query)
-    # makes call to 1-search API and store it to our index
-    return Request
+    
+    # search cache
+    # TODO: Format response like test
+    results, time = elastic_search_indexer.search_index(query)
+    # sort by score in descending order
+    results.sort(key=lambda hit: hit['score'], reverse=True)
+    # return the search results to the webpage
+    content = {'count': len(results), 'searchTerm': keywords, 'time': time,
+                'searchFilter': requestJson["searchFilter"], 'results': results}
+    return content
+    
     
 @app.post("/test")
 async def test(request: Request):
