@@ -4,13 +4,14 @@ from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 import json     
 from cache_indexer import CacheIndexer
+from news_indexer import NewsIndexer
 from crawler import JavaScript_scrape
 from datetime import datetime
 from constants import BACKEND_URL, SEARCH_REQUEST_BODY
 import copy
 from elasticsearch_connection import ElasticsearchConnection
 from custom_util import fire_and_forget
-#pip install es curator to find index size
+#pip install elasticsearch-curator to find index size
 import curator
 from make_topic_model import get_trending_topics
 
@@ -65,27 +66,27 @@ async def update_trendy_topics() -> None:
         print('Could not get results from elasticsearch', str(err))'''
 
     # fetch results and pass to topic modeling/keyword extraction algorithms
-    text = []
-    for result in results:
-        text.append(result['_source']['article'])
-    keywords = get_trending_topics(text)
+    # text = []
+    # for result in results:
+    #     text.append(result['_source']['article'])
+    # keywords = get_trending_topics(text)
 
-    # call search endpoint and update cache
-    for keyword in keywords:
-        body = copy.deepcopy(SEARCH_REQUEST_BODY)
-        body['searchTerm'] = keyword
-        headers= {"content-type":"application/json"}
-        try:
-            fire_and_forget(url=BACKEND_URL+'search/', body=body, headers=headers)
-        except Exception as err:
-            print('Could not call search endpoint for keyword: ' + keyword + '. The following error occured: ' + str(err))
+    # # call search endpoint and update cache
+    # for keyword in keywords:
+    #     body = copy.deepcopy(SEARCH_REQUEST_BODY)
+    #     body['searchTerm'] = keyword
+    #     headers= {"content-type":"application/json"}
+    #     try:
+    #         fire_and_forget(url=BACKEND_URL+'search/', body=body, headers=headers)
+    #     except Exception as err:
+    #         print('Could not call search endpoint for keyword: ' + keyword + '. The following error occured: ' + str(err))
 
     # output total time
     delta_time = str(round((datetime.today() - initial_time).total_seconds(), 2))
     print('Topics update completed with total time', delta_time)
 
 # Assuming request is in format of response body for search or has some kind of key "results" for docs
-# TODO: Research Request body size limit: 1mb
+# Request body size limit: 1mb
 # For flask if request.content_length > 1024 * 1024: payload too large 
 @app.post("/add_new_docs")
 async def add_docs(request: Request):
@@ -99,6 +100,7 @@ async def add_docs(request: Request):
         elastic_search_indexer.index_clean_up()
     # makes call to 1-search API and store it to our index
     #we can also check out re-indexing
+    
     files = requestJson["results"]
     elastic_search_indexer = CacheIndexer(files=files)
     elastic_search_indexer.upload()
@@ -113,7 +115,7 @@ async def search(request: Request):
     except Exception as err:
         print('Could not read JSON: ' + err)
     elastic_search_indexer = CacheIndexer()
-    keywords = requestJson['searchTerm'].split()
+    keywords = requestJson['searchTerm']
     query = {
         "query": {
             "multi_match": {
@@ -131,7 +133,6 @@ async def search(request: Request):
     }
     
     # search cache
-    # TODO: Format response like test
     results, time = elastic_search_indexer.search_index(query)
     # sort by score in descending order
     results.sort(key=lambda hit: hit['score'], reverse=True)

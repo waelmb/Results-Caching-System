@@ -16,7 +16,9 @@ class CacheIndexer(object):
     def __init__(
             self,
             files=None,
+            
     ):
+
         """
         :param index_name:
             index name that will show in kibana
@@ -43,15 +45,15 @@ class CacheIndexer(object):
             `object`
         """
         return self.es
-    @property
-    def index_name(self):
-        """
-        :return:
-            elastic client
-        :rtype:
-            `object`
-        """
-        return self.index_name
+    # @property
+    # def index_name(self):
+    #     """
+    #     :return:
+    #         elastic client
+    #     :rtype:
+    #         `object`
+    #     """
+    #     return self.index_name
 
     def index_exist(self):
         """
@@ -84,10 +86,13 @@ class CacheIndexer(object):
             yield {
                 "_index": self.index_name,
                 "_id": file["url"],
-                "_source": file["source"],
+                "_source": {"title": file["title"],
+                          "date": file["date"],
+                          "author": file["author"],
+                          "type": file["source"]},
             }
+        print(self.files)
     # Does body need to match 1-search?
-    #TODO: Check for duplicates, use url as id!
     # The latest document will simply override the previous one having the same ID and the version count will be bumped by 1.
     def upload(self):
         """
@@ -180,3 +185,182 @@ class CacheIndexer(object):
             if i > self.doc_num_threshold:
                 break
             self.es.delete(index=self.index_name, doc_type="_doc", id=file["_id"])
+if __name__ == '__main__':
+    elastic_search_indexer = CacheIndexer()
+    request = {
+        "count": 30,
+        "searchTerm": "some term",
+        "time": "26.97",
+        "searchFilter": {
+            "sources": [
+                {
+                    "label": "UpToDate",
+                    "value": "UpToDate",
+                    "group": "EBM",
+                    "disabled": False
+                },
+                {
+                    "label": "DynaMed",
+                    "value": "DynaMed",
+                    "group": "EBM",
+                    "disabled": False
+                },
+                {
+                    "label": "PubMed",
+                    "value": "PubMed",
+                    "group": "Journals",
+                    "disabled": False
+                },
+                {
+                    "label": "MayoClinic",
+                    "value": "MayoClinic",
+                    "group": "Web resources",
+                    "disabled": False
+                },
+                {
+                    "label": "GoogleDrive",
+                    "value": "GoogleDrive",
+                    "group": "Personal",
+                    "disabled": False
+                },
+                {
+                    "label": "Box",
+                    "value": "Box",
+                    "group": "Personal",
+                    "disabled": False
+                }
+            ],
+            "filter_highest": [
+                {
+                    "label": "UpToDate",
+                    "value": "UpToDate",
+                    "group": "EBM",
+                    "disabled": False
+                },
+                {
+                    "label": "PubMed",
+                    "value": "PubMed",
+                    "group": "Journals",
+                    "disabled": False
+                }
+            ],
+            "filter_high": [],
+            "filter_normal": [
+                {
+                    "label": "DynaMed",
+                    "value": "DynaMed",
+                    "group": "EBM",
+                    "disabled": False
+                },
+                {
+                    "label": "MayoClinic",
+                    "value": "MayoClinic",
+                    "group": "Web resources",
+                    "disabled": False
+                },
+                {
+                    "label": "GoogleDrive",
+                    "value": "GoogleDrive",
+                    "group": "Personal",
+                    "disabled": False
+                }
+            ],
+            "filter_low": [],
+            "filter_lowest": [
+                {
+                    "label": "Box",
+                    "value": "Box",
+                    "group": "Personal",
+                    "disabled": False
+                }
+            ]
+        },
+        "results": [
+            {
+                "title": "Pregnancy and <b><b>covid</b></b>-<b><b>19</b></b>: What are the risks? - Mayo Clinic",
+                "url": "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/pregnancy-and-covid-19/art-20482639",
+                "source": "mayoclinic",
+                "date": "2021-11-27T02:37:17.982425",
+                "author": "",
+                "abstract": "",
+                "score": 0.8877283774327106
+            },
+            {
+                "title": "How does <b><b>covid</b></b>-<b><b>19</b></b> affect people with diabetes? - Mayo Clinic",
+                "url": "https://www.mayoclinic.org/diseases-conditions/coronavirus/multimedia/how-does-covid-19-affect-people-with-diabetes/vid-20510584",
+                "source": "mayoclinic",
+                "date": "2021-11-27T02:37:17.982425",
+                "author": "",
+                "abstract": "",
+                "score": 0.8877283774327106
+            },
+            {
+                "title": "Different types of <b><b>covid</b></b>-<b><b>19</b></b> vaccines: How they work - Mayo Clinic",
+                "url": "https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/different-types-of-covid-19-vaccines/art-20506465",
+                "source": "mayoclinic",
+                "date": "2021-11-27T02:37:17.982425",
+                "author": "",
+                "abstract": "",
+                "score": 0.8627005877127333
+            },
+            {
+                "title": "Multisystem inflammatory syndrome in children (MIS-C) and <b><b>covid</b></b>-<b><b>19</b></b> - Symptoms and causes - Mayo Clinic",
+                "url": "https://www.mayoclinic.org/diseases-conditions/mis-c-in-kids-covid-19/symptoms-causes/syc-20502550",
+                "source": "mayoclinic",
+                "date": "2021-11-27T02:37:17.981425",
+                "author": "",
+                "abstract": "",
+                "score": 0.7724729801694035
+            },
+            {
+                "title": "Coronavirus - Symptoms and causes",
+                "url": "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+                "source": "mayoclinic",
+                "date": "2021-11-27T02:37:17.981425",
+                "author": "",
+                "abstract": "",
+                "score": 0.05
+            }
+        ],
+        "search_stats": {
+            "uptodate": {
+                "time": "11.52",
+                "number_of_results": 10
+            },
+            "dynamed": {
+                "time": "12.03",
+                "number_of_results": 10
+            },
+            "mayoclinic": {
+                "time": "26.97",
+                "number_of_results": 10
+            }
+        }
+    }
+    
+    # requestJson = request.json()
+    # files = requestJson["results"]
+    # print(files)
+    elastic_search_indexer = CacheIndexer()
+    # elastic_search_indexer.upload()
+
+    keywords = "covid"
+    query = {
+        "query": {
+            "multi_match": {
+                "query": keywords,
+                "fields": [f"abstract", f"title^{2.0}"],
+                "operator": "and"
+            }
+        },
+        "highlight": {
+            "fields": [
+                {"title": {}},
+                {"abstract": {}}
+            ]
+        }
+    }
+    
+    # search cache
+    results, time = elastic_search_indexer.search_index(query)
+    print(results)
