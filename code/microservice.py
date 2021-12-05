@@ -134,8 +134,9 @@ async def search(request: Request):
     
     # search cache
     results, time = elastic_search_indexer.search_index(query)
+    print(results)
     # sort by score in descending order
-    results.sort(key=lambda hit: hit['score'], reverse=True)
+    # results.sort(key=lambda hit: hit['score'], reverse=True)
     # return the search results to the webpage
     content = {'count': len(results), 'searchTerm': keywords, 'time': time,
                 'searchFilter': requestJson["searchFilter"], 'results': results}
