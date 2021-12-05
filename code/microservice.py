@@ -10,7 +10,7 @@ from datetime import datetime
 from constants import BACKEND_URL, SEARCH_REQUEST_BODY
 import copy
 from elasticsearch_connection import ElasticsearchConnection
-from custom_util import fire_and_forget
+from custom_util import fire_and_forget, get_results
 #pip install elasticsearch-curator to find index size
 import curator
 from make_topic_model import get_trending_topics
@@ -134,12 +134,24 @@ async def search(request: Request):
     
     # search cache
     results, time = elastic_search_indexer.search_index(query)
-    print(results)
+    results = get_results(results)
+
     # sort by score in descending order
-    # results.sort(key=lambda hit: hit['score'], reverse=True)
+    results.sort(key=lambda hit: hit['score'], reverse=True)
+    
+    # create search results stats
+    search_results_stats = {}
+
+    for result in results:
+        curr_source = result.get('source')
+        if curr_source != None and curr_source not in search_results_stats:
+            search_results_stats[curr_source] = {"time": time, "number_of_results": 1}
+        elif curr_source != None and curr_source in search_results_stats:
+            search_results_stats[curr_source]["number_of_results"]+=1
+
     # return the search results to the webpage
     content = {'count': len(results), 'searchTerm': keywords, 'time': time,
-                'searchFilter': requestJson["searchFilter"], 'results': results}
+                'searchFilter': requestJson["searchFilter"], 'results': results, 'search_stats': search_results_stats}
     return content
     
     
