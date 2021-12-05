@@ -98,14 +98,21 @@ def get_trending_topics(documents):
     trends = final_trending_topics + final_trending_topics_yake
     return trends
 
-read_files = glob.glob('articles/*')
-with open("articles.csv", "w") as outfile:
-    w = csv.writer(outfile)
-    for f in read_files:
-        with open(f, "r") as infile:
-            w.writerow([" ".join([line.strip() for line in infile])])
+def process_text(text):
+        text = text.encode('ascii',errors='ignore').decode('utf-8')       #removes non-ascii characters
+        # text = re.sub('\s{2,}','\n',text)       #repalces repeated whitespace characters with single space
+        # text = re.sub('Text Body: ','',text)
+        return text 
 
-data = pd.read_csv("articles.csv", header=None)
-input = data[0].tolist()
-trends = get_trending_topics(input)
-print(trends)
+if __name__ == '__main__':
+    read_files = glob.glob('articles/*')
+    with open("articles.csv", "w") as outfile:
+        w = csv.writer(outfile)
+        for f in read_files:
+            with open(f, "r") as infile:
+                w.writerow([" ".join([process_text(line).strip() for line in infile])])
+
+    data = pd.read_csv("articles.csv", header=None)
+    input = data[0].tolist()
+    trends = get_trending_topics(input)
+    print(trends)
