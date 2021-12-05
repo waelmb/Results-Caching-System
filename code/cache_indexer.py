@@ -33,6 +33,23 @@ class CacheIndexer(object):
         self.doc_num_threshold = 10000
         self.files = files
         self.es = ElasticsearchConnection().es
+
+        # check index name exist, if not create one
+        if not self.index_exist():
+            self.es.indices.create(
+                index=self.index_name,
+                body={
+                    "mappings": {
+                        "properties": {
+                            "title": {"type": "text", "fielddata": True},
+                            "url": {"type": "text", "fielddata": True},
+                            "date": {"type": "date", "format": "date_optional_time"},
+                            "author": {"type": "text", "fielddata": True},
+                            "abstract": {"type": "text", "analyzer": "english", "fielddata": True},
+                        }
+                    }
+                },
+            )
         #Shard Request Cache is enabled by default
 
 
@@ -45,15 +62,15 @@ class CacheIndexer(object):
             `object`
         """
         return self.es
-    # @property
-    # def index_name(self):
-    #     """
-    #     :return:
-    #         elastic client
-    #     :rtype:
-    #         `object`
-    #     """
-    #     return self.index_name
+    """ @property
+    def index_name(self): """
+    """
+    :return:
+        elastic client
+    :rtype:
+        `object`
+    """
+    """ return self.index_name """
 
     def index_exist(self):
         """
@@ -145,9 +162,10 @@ class CacheIndexer(object):
         """
             search an index
         """
+        start_time = datetime.datetime.today()
         if self.index_exist():
             try:
-                start_time = datetime.datetime.today()
+                
                 max_results = 50
                 response = self.es.search(body=query, index=self.index_name, scroll='2m', size=max_results)
                 results = response["hits"]['hits']
@@ -161,9 +179,16 @@ class CacheIndexer(object):
                 return results, str(round(total_seconds, 2))
             except Exception as err:
                 print('Helpers.scan could not execute', str(err))
-                return []
+                end_time = datetime.datetime.today()
+                time_delta = (end_time - start_time)
+                total_seconds = time_delta.total_seconds()
+                return [], str(round(total_seconds, 2))
         else:
-            return []
+            print('search_index: Index does not exist')
+            end_time = datetime.datetime.today()
+            time_delta = (end_time - start_time)
+            total_seconds = time_delta.total_seconds()
+            return [], str(round(total_seconds, 2))
            
     def delete_index(self):
         """
