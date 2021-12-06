@@ -3,6 +3,8 @@ import numpy as np
 import sklearn
 from sklearn.decomposition import LatentDirichletAllocation
 import nltk
+nltk.download('punkt')
+nltk.download('wordnet')
 import yake
 import collections
 from collections import Counter
@@ -13,7 +15,7 @@ import en_core_sci_sm
 
 def get_trending_topics(documents):
     df = pd.DataFrame({'All_docs' : documents})
-    df[1] = df['All_docs'].str.lower().str.replace('[^\w\s]', ' ').str.replace(' +', ' ').str.strip()
+    df[1] = df['All_docs'].str.lower().str.replace('[^\w\s]', ' ', regex=True).str.replace(' +', ' ', regex=True).str.strip()
     df[1] = df.apply(lambda row: nltk.word_tokenize(row[1]), axis=1)
     df[1] = df[1].apply(lambda f: [nltk.WordNetLemmatizer().lemmatize(word) for word in f])
     count_v = sklearn.feature_extraction.text.CountVectorizer(analyzer = 'word', ngram_range = (1, 2))
@@ -29,7 +31,7 @@ def get_trending_topics(documents):
     dom_top = (np.argmax(doc_tops.values, axis = 1) + 1)
     doc_tops['Dominant_topic'] = dom_top
     df = pd.merge(df, doc_tops, left_index = True, right_index = True, how = 'outer')
-    main_words = np.array(count_v.get_feature_names())
+    main_words = np.array(count_v.get_feature_names_out())
     
     full_topics = []
     for weights in lda_m.components_:
@@ -106,10 +108,10 @@ def process_text(text):
 
 if __name__ == '__main__':
     read_files = glob.glob('articles/*')
-    with open("articles.csv", "w") as outfile:
+    with open("articles.csv", "w", encoding='utf-8', errors='ignore') as outfile:
         w = csv.writer(outfile)
         for f in read_files:
-            with open(f, "r") as infile:
+            with open(f, "r", encoding='utf-8', errors='ignore') as infile:
                 w.writerow([" ".join([process_text(line).strip() for line in infile])])
 
     data = pd.read_csv("articles.csv", header=None)
