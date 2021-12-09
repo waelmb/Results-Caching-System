@@ -16,3 +16,7 @@ Note: these instructions are on windows 10 machines. It should be similar on oth
 2. Activate the virtual environment: `./venv\Scripts\activate`
 3. To run the microservice: `python microservice.py`
 4. Similarly, to run other individual python files: `python FILENAME.py`
+
+
+### Video Link
+https://mediaspace.illinois.edu/media/t/1_r4zqc5jz
