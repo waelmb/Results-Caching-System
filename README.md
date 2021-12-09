@@ -19,4 +19,4 @@ Note: these instructions are on windows 10 machines. It should be similar on oth
 
 
 ### Video Link
-https://mediaspace.illinois.edu/media/t/1_r4zqc5jz
+https://mediaspace.illinois.edu/media/t/1_o7rbzoix
