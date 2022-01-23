@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 from bs4 import Comment
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from datetime import datetime
 from sys import platform
@@ -29,8 +30,10 @@ class JavaScript_scrape():
         """
         # create a webdriver object and set options for headless browsing
         options = Options()
-        options.headless = True
-        options.page_load_strategy = 'eager'
+        options.add_argument("--headless")
+
+        #uptodate results not displayed if below command is active
+        # options.page_load_strategy = 'eager'
 
         #skip information that's only valuable for human beings
         prefs = {"profile.managed_default_content_settings.images":2,
@@ -71,7 +74,9 @@ class JavaScript_scrape():
             display.start()
         
         #set up the chrome driver
-        driver = webdriver.Chrome(f'./chromedriver' + '-' + driver_version + '-' + driver_os, options=options)
+        # driver = webdriver.Chrome(f'./chromedriver' + '-' + driver_version + '-' + driver_os, options=options)
+        driver = webdriver.Chrome(ChromeDriverManager().install(), options = options)
+
         driver.get(url)
         res_html = driver.execute_script("return document.body.innerHTML")
         soup = BeautifulSoup(res_html, 'html.parser')  # beautiful soup object to be used for parsing html content
